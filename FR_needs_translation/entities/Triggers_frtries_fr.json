@@ -1,0 +1,175 @@
+[
+  {
+    "value": "play",
+    "synonyms": [
+      "play",
+      "I want to watch",
+      "I feel like watching",
+      "do I have",
+      "can you fire up",
+      "can you play",
+      "start",
+      "turn on",
+      "put on",
+      "throw on",
+      "find",
+      "can you find",
+      "can you throw on",
+      "can you start",
+      "start playing",
+      "watch",
+      "cast",
+      "fire up",
+      "let\u0027s watch some",
+      "play me the"
+    ]
+  },
+  {
+    "value": "control",
+    "synonyms": [
+      "control",
+      "tell plex to",
+      "tell my tv to",
+      "send a command to",
+      "send a signal to",
+      "tell Flex TV to"
+    ]
+  },
+  {
+    "value": "fetch",
+    "synonyms": [
+      "fetch",
+      "I want to download",
+      "can you download",
+      "download",
+      "grab",
+      "snatch",
+      "pirate",
+      "add",
+      "snag"
+    ]
+  },
+  {
+    "value": "player",
+    "synonyms": [
+      "player",
+      "switch player",
+      "choose player",
+      "change player",
+      "select player",
+      "pick player",
+      "swap player",
+      "change device",
+      "switch players",
+      "change players",
+      "swap players",
+      "change client"
+    ]
+  },
+  {
+    "value": "server",
+    "synonyms": [
+      "server",
+      "switch server",
+      "choose server",
+      "change server",
+      "select server",
+      "pick server",
+      "swap server",
+      "change sources"
+    ]
+  },
+  {
+    "value": "status",
+    "synonyms": [
+      "status",
+      "What\u0027s playing?",
+      "What\u0027s on?",
+      "What is playing?",
+      "What is on?",
+      "What am I watching?",
+      "What movie is on?",
+      "What show is on?",
+      "Am I watching something?",
+      "Can you tell me what this movie is called?",
+      "Can you tell me what this show is called?",
+      "What is this called?",
+      "what the name of this",
+      "What is currently playing?",
+      "what \u0027 s playing",
+      "what \u0027 s currently playing"
+    ]
+  },
+  {
+    "value": "recent",
+    "synonyms": [
+      "What new",
+      "have any new",
+      "What\u0027s new?",
+      "what is new",
+      "recent",
+      "recently added",
+      "just added",
+      "what new"
+    ]
+  },
+  {
+    "value": "ondeck",
+    "synonyms": [
+      "ondeck",
+      "What\u0027s on deck",
+      "What is on deck",
+      "up next"
+    ]
+  },
+  {
+    "value": "record",
+    "synonyms": [
+      "record",
+      "dvr",
+      "tape",
+      "schedule"
+    ]
+  },
+  {
+    "value": "upcoming",
+    "synonyms": [
+      "upcoming",
+      "scheduled",
+      "what\u0027s on TV",
+      "what is DVRed",
+      "what\u0027s airing",
+      "what is airing",
+      "what is on TV",
+      "what shows are on",
+      "what\u0027s recorded",
+      "dvred"
+    ]
+  },
+  {
+    "value": "what \u0027 s dvred",
+    "synonyms": [
+      "what \u0027 s dvred"
+    ]
+  },
+  {
+    "value": "help",
+    "synonyms": [
+      "help",
+      "what can I say",
+      "what can you do",
+      "what are your commands",
+      "I don\u0027t know what to do",
+      "You tell me",
+      "how do you work",
+      "what should I say",
+      "tutorial"
+    ]
+  },
+  {
+    "value": "shuffle",
+    "synonyms": [
+      "shuffle"
+    ]
+  }
+]

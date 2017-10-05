@@ -1,0 +1,27 @@
+[
+  {
+    "value": "yes",
+    "synonyms": [
+      "yes",
+      "yep",
+      "sure",
+      "please do",
+      "yes, please",
+      "Yes",
+      "you betcha",
+      "you bet"
+    ]
+  },
+  {
+    "value": "no",
+    "synonyms": [
+      "no",
+      "no thank you",
+      "not really",
+      "no way",
+      "No.",
+      "nope",
+      "never"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "value": "movie",
+    "synonyms": [
+      "movie",
+      "film",
+      "flick",
+      "dvd",
+      "blu-ray",
+      "the movie",
+      "the film"
+    ]
+  },
+  {
+    "value": "show",
+    "synonyms": [
+      "show",
+      "series",
+      "television show",
+      "tv show",
+      "the show",
+      "the series"
+    ]
+  },
+  {
+    "value": "artist",
+    "synonyms": [
+      "music",
+      "tunes",
+      "songs",
+      "songs by",
+      "the artist",
+      "the band",
+      "the singer",
+      "the group",
+      "artist",
+      "band",
+      "singer",
+      "group",
+      "music by",
+      "tunes by",
+      "tracks by",
+      "radio"
+    ]
+  },
+  {
+    "value": "album",
+    "synonyms": [
+      "album",
+      "disc",
+      "cd"
+    ]
+  },
+  {
+    "value": "track",
+    "synonyms": [
+      "track",
+      "song",
+      "tune",
+      "single"
+    ]
+  }
+]
