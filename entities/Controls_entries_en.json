@@ -1,0 +1,122 @@
+[
+  {
+    "value": "Resume",
+    "synonyms": [
+      "Resume",
+      "Start",
+      "Continue",
+      "Resume Playback",
+      "Unpause"
+    ]
+  },
+  {
+    "value": "Pause",
+    "synonyms": [
+      "Pause"
+    ]
+  },
+  {
+    "value": "Stop",
+    "synonyms": [
+      "Stop Playback",
+      "Halt",
+      "End Playback",
+      "Cease",
+      "Desist",
+      "stop playback",
+      "halt",
+      "stop",
+      "end playback",
+      "cease",
+      "desist",
+      "turn this off",
+      "turn off the"
+    ]
+  },
+  {
+    "value": "Skip Forward",
+    "synonyms": [
+      "Skip Forward",
+      "Skip Ahead",
+      "Jump Ahead",
+      "Next Chapter",
+      "Next Episode",
+      "Next Song",
+      "Next Track"
+    ]
+  },
+  {
+    "value": "Skip Backward",
+    "synonyms": [
+      "Skip Backward",
+      "Skip Back",
+      "Jump Back",
+      "Previous Chapter",
+      "Previous Episode",
+      "Previous Song",
+      "Previous Track",
+      "Last Song",
+      "Last Track"
+    ]
+  },
+  {
+    "value": "Seek Forward",
+    "synonyms": [
+      "Seek Forward",
+      "Fast Forward",
+      "Step Forward",
+      "Seek Ahead"
+    ]
+  },
+  {
+    "value": "Seek Backward",
+    "synonyms": [
+      "Seek Backward",
+      "Rewind",
+      "Step Backward",
+      "Step Back"
+    ]
+  },
+  {
+    "value": "Jump To",
+    "synonyms": [
+      "Jump To",
+      "Seek To",
+      "Skip To",
+      "Fast Forward To",
+      "Rewind To",
+      "Go Back To"
+    ]
+  },
+  {
+    "value": "set the volume",
+    "synonyms": [
+      "set the volume",
+      "adjust the volume",
+      "turn the volume down",
+      "turn the volume up",
+      "turn it up",
+      "turn it down",
+      "turn up the volume",
+      "turn down the volume"
+    ]
+  },
+  {
+    "value": "subtitles on",
+    "synonyms": [
+      "subtitles on",
+      "enable subtitles",
+      "turn on subtitles",
+      "turn the subtitles off"
+    ]
+  },
+  {
+    "value": "subtitles off",
+    "synonyms": [
+      "subtitles off",
+      "disable subtitles",
+      "turn off subtitles",
+      "turn the subtitles off"
+    ]
+  }
+]
