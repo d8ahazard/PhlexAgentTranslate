@@ -11,3 +11,33 @@
 8. ???
 9. PROFIT. 
 
+##Translating individual files
+Each file is a JSON file that contains trigger phrases used by API.ai.
+For example, the file FR_needs_translation/entities/Controls_frtries_fr.json
+
+It has multiple arrays like so:
+
+    "value": "Resume",
+    "synonyms": [
+    "Resume",
+    "Start",
+    "Continue",
+    "Resume Playback",
+    "Unpause"
+
+**The "value" portion should not change.**
+
+But they synonyms - those need to be translated to french.
+
+So, a translated array may look like this when done:
+
+    "value": "Resume",
+    "synonyms": [
+    "CV",
+    "Début",
+    "Continuer",
+    "Reprendre la lecture",
+    "Unpause",
+    "French-specific phrase meaning 'unpause'"...
+
+Once all arrays are translated, save and commit.
