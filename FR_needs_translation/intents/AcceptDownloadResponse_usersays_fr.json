@@ -3,7 +3,7 @@
     "id": "faccdc9a-51ef-45e3-aa76-0bbe4acc78af",
     "data": [
       {
-        "text": "no",
+        "text": "non",
         "alias": "YesNo",
         "meta": "@YesNo",
         "userDefined": false
@@ -17,7 +17,7 @@
     "id": "90ccb13f-913d-4fa5-abbd-9b161f4f5660",
     "data": [
       {
-        "text": "No",
+        "text": "Non",
         "alias": "YesNo",
         "meta": "@YesNo",
         "userDefined": false
@@ -35,7 +35,7 @@
     "id": "984cbf97-df6c-468f-ac95-9d5517ca1b6d",
     "data": [
       {
-        "text": "yes",
+        "text": "oui",
         "alias": "YesNo",
         "meta": "@YesNo",
         "userDefined": false
@@ -49,7 +49,7 @@
     "id": "3bb11b50-cda5-4ffa-8115-63e9f4cea6ec",
     "data": [
       {
-        "text": "Yes",
+        "text": "Oui",
         "alias": "YesNo",
         "meta": "@YesNo",
         "userDefined": false
