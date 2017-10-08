@@ -2,26 +2,26 @@
   {
     "value": "yes",
     "synonyms": [
-      "yes",
-      "yep",
-      "sure",
-      "please do",
-      "yes, please",
-      "Yes",
-      "you betcha",
-      "you bet"
+      "oui",
+      "ouais",
+      "certainement",
+      "fais le s'il-te-plait",
+      "oui, s'il-te-plait",
+      "Oui",
+      "tu parles",
+      "ouep"
     ]
   },
   {
     "value": "no",
     "synonyms": [
-      "no",
-      "no thank you",
-      "not really",
-      "no way",
-      "No.",
+      "non",
+      "non merci",
+      "pas vraiment",
+      "en aucune façon",
+      "Non.",
       "nope",
-      "never"
+      "jamais"
     ]
   }
 ]
