@@ -1,0 +1,170 @@
+[
+  {
+    "id": "a5baa3e2-de21-4305-b5f2-f41b65284636",
+    "data": [
+      {
+        "text": "Terrassenlautsprecher",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498677269
+  },
+  {
+    "id": "a78d4144-4be9-4b3f-a527-b0d676d8c2ac",
+    "data": [
+      {
+        "text": "Nexus Spieler 2",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676318
+  },
+  {
+    "id": "cc899b64-33eb-43dd-86fb-93cf4cafd8f0",
+    "data": [
+      {
+        "text": "Büro",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676275
+  },
+  {
+    "id": "7f739924-33b7-45f7-8477-9914d781df92",
+    "data": [
+      {
+        "text": "Jahr",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "b38e106f-faf9-4ccd-8d5b-437c144bb98e",
+    "data": [
+      {
+        "text": "Wohnzimmer tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "b3ba3ad9-40f2-4f02-8821-50d1d3d86085",
+    "data": [
+      {
+        "text": "E55 d0",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63c84fb3-fbbe-46e0-98c5-123466b290d1",
+    "data": [
+      {
+        "text": "Nexus Spieler",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77872dd0-fc6b-4d6f-9064-adb6f50305a3",
+    "data": [
+      {
+        "text": "Bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a157d0e0-8bd7-462e-a57a-5f5ec344511c",
+    "data": [
+      {
+        "text": "Schild android tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21d1b746-3ee1-4fe5-b8d4-c285d85fcca9",
+    "data": [
+      {
+        "text": "cookieplex",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ce8e3f9c-645a-45d1-bda8-444f0b31fe31",
+    "data": [
+      {
+        "text": "Shield Android TV",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45d675d0-19e8-46ca-a597-7b396b8fa8da",
+    "data": [
+      {
+        "text": "Gandalf",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

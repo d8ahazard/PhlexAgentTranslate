@@ -1,0 +1,3035 @@
+[
+  {
+    "id": "4c5f5b38-2b74-41b8-a9f8-4f199b0dc60d",
+    "data": [
+      {
+        "text": "um ",
+        "userDefined": false
+      },
+      {
+        "text": "das fünfte Element",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " zu ",
+        "userDefined": false
+      },
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507928067
+  },
+  {
+    "id": "b7e86adc-3a02-4478-b45f-b65f991300ce",
+    "data": [
+      {
+        "text": "Shuffle",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die Amerikaner",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1501173766
+  },
+  {
+    "id": "66e95270-0441-47c1-9008-8750de291bd7",
+    "data": [
+      {
+        "text": "Spieler wechseln",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1498676741
+  },
+  {
+    "id": "3d5fba89-0f9b-4580-9c54-3a9a03f82982",
+    "data": [
+      {
+        "text": "Spieler wechseln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676318
+  },
+  {
+    "id": "5b810149-473e-4503-9183-1abe26156f78",
+    "data": [
+      {
+        "text": "okay Google",
+        "userDefined": false
+      },
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ancient Aliens letzte Folge",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498675780
+  },
+  {
+    "id": "1260a0d6-a9d2-480c-9848-03e7c9ba79c4",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die ABC-Morde verfolgen einen",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498052058
+  },
+  {
+    "id": "b44c4678-04f6-4064-92d9-9df3c50ed50c",
+    "data": [
+      {
+        "text": "was ist",
+        "userDefined": false
+      },
+      {
+        "text": "dvred",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "auf",
+        "userDefined": false
+      },
+      {
+        "text": "Freitag",
+        "alias": "days",
+        "meta": "@days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496695894
+  },
+  {
+    "id": "c5a258f8-13b2-404b-bd62-1e7e961feefb",
+    "data": [
+      {
+        "text": "was ist dvred",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dieses Wochenende",
+        "alias": "days",
+        "meta": "@days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496695790
+  },
+  {
+    "id": "3378d101-af5b-4ecd-8217-8865d53cb6f7",
+    "data": [
+      {
+        "text": "was ist aufgezeichnet",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dieses Wochenende",
+        "alias": "days",
+        "meta": "@days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496695784
+  },
+  {
+    "id": "bff3a523-0251-4e32-949e-62ad3320a21a",
+    "data": [
+      {
+        "text": "Was läuft im Fernsehen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "auf",
+        "userDefined": false
+      },
+      {
+        "text": "Mittwoch",
+        "alias": "days",
+        "meta": "@days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496693130
+  },
+  {
+    "id": "0d436471-6aa6-4005-a2c7-f511893de1ed",
+    "data": [
+      {
+        "text": "Was",
+        "userDefined": false
+      },
+      {
+        "text": "geplant",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "zeigt an",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": "sind auf",
+        "userDefined": false
+      },
+      {
+        "text": "dieses Wochenende",
+        "alias": "days",
+        "meta": "@days",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1496693130
+  },
+  {
+    "id": "f75a5aef-dbdb-43e1-ba32-eff635c55682",
+    "data": [
+      {
+        "text": "Was läuft im Fernsehen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heute Abend",
+        "alias": "days",
+        "meta": "@days",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496687285
+  },
+  {
+    "id": "36a24fcf-8840-496b-94a2-f7716d7f4c74",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Jerseyufer",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1496191152
+  },
+  {
+    "id": "7d4ea51e-1567-4b49-85f5-457219558182",
+    "data": [
+      {
+        "text": "Wähle einen",
+        "userDefined": false
+      },
+      {
+        "text": "Server",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495163001
+  },
+  {
+    "id": "4142cbb1-3820-4023-8cd1-577e982b4705",
+    "data": [
+      {
+        "text": "von",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Wiedergabe stoppen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495162943
+  },
+  {
+    "id": "dd77107a-fe26-4769-90bd-141a128d964e",
+    "data": [
+      {
+        "text": "frage Flex TV nach",
+        "userDefined": false
+      },
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gotham",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495162884
+  },
+  {
+    "id": "6b75f0c1-53a9-41b9-b80e-87fd97ce3637",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "das Chefbaby",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1495162840
+  },
+  {
+    "id": "b25caa72-8301-45bf-a479-6a51d5489bcf",
+    "data": [
+      {
+        "text": "holen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die Show",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Familienmensch",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "802ccb55-4aba-4751-8c3d-501d47566d30",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die Show",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "amerikanischer Vater",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e61938da-fc86-4fa0-814b-3990698be7a7",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die Show",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Punk Brewster",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5530de6f-2118-4216-8992-ecea7a78f1ef",
+    "data": [
+      {
+        "text": "Quellen ändern",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91332b44-f170-4eb7-9c08-bd5f67fcbd02",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gebrochen",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "durch",
+        "userDefined": false
+      },
+      {
+        "text": "Neun Zoll Nägel",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed7841c7-9448-430a-91d1-9edf16bec38c",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "das",
+        "userDefined": false
+      },
+      {
+        "text": "Album",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mit den Zähnen",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "durch",
+        "userDefined": false
+      },
+      {
+        "text": "Neun Zoll Nägel",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a95f3779-3263-49b1-a2ac-0b9cc68bff67",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "das",
+        "userDefined": false
+      },
+      {
+        "text": "Album",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Die Abwärtsspirale",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "durch",
+        "userDefined": false
+      },
+      {
+        "text": "Neun Zoll Nägel",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a67a073-4fe0-49d3-88dc-be0493ce809a",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "das",
+        "userDefined": false
+      },
+      {
+        "text": "Lied",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Die Hand, die Feeds",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "durch",
+        "userDefined": false
+      },
+      {
+        "text": "Neun Zoll Nägel",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7328745f-47de-40d8-b0fd-b9e6e284b5fa",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Die Hand, die Feeds",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "durch",
+        "userDefined": false
+      },
+      {
+        "text": "Neun Zoll Nägel",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb91fcfe-defa-4763-aa57-5ebd96bc6c2e",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "das",
+        "userDefined": false
+      },
+      {
+        "text": "Lied",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Meister der Puppen",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "durch",
+        "userDefined": false
+      },
+      {
+        "text": "metallica",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47e84456-b7c8-4bab-b8b9-55f359a5a02d",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Musik-",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": "mögen",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61677da1-ebfb-466b-a875-b6080b01984e",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c51f502e-dd91-4846-ad54-cffd73e014c0",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Erbe",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "durch",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "869fb23c-ea0c-49a3-8e64-237e37577d44",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Atlanta",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84abf3a2-c411-4ea4-b81f-54f975cc673c",
+    "data": [
+      {
+        "text": "Was",
+        "userDefined": false
+      },
+      {
+        "text": "bevorstehende",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "zeigt an",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": "ich habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b95aba58-daa1-4e4c-9b11-af930f4ba63d",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "das",
+        "userDefined": false
+      },
+      {
+        "text": "Fernseh Show",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      },
+      {
+        "text": "genannt",
+        "userDefined": false
+      },
+      {
+        "text": "Die Ranch 2017",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "034d234f-23ab-457b-90d1-d83f8dc8661e",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Harry Potter",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96a65771-0dd8-4ddf-a3e0-92efc556f136",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die neueste Folge von The Flash",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d507e798-72d7-4f7a-8f94-61227cd0cbe8",
+    "data": [
+      {
+        "text": "Wiedergabe stoppen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f72d71f7-2ea1-4bd0-a20c-14ac80b69d57",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Moderne Familie",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f497d8b3-ee2e-435f-a97a-7137a4550050",
+    "data": [
+      {
+        "text": "Pause",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": "Wiedergabe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f65f4e7c-3a33-496c-a577-8d2ca10391aa",
+    "data": [
+      {
+        "text": "Was spielt gerade",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "691416e4-7cc2-4839-bf15-b6013cfd333b",
+    "data": [
+      {
+        "text": "zurückspulen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1 Minute",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c9222c1-dfb6-4480-9918-1bd53bab803a",
+    "data": [
+      {
+        "text": "feuern",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eine Komödie",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eec8e810-4676-4f57-a2b6-f9b4b6dbc50a",
+    "data": [
+      {
+        "text": "hinzufügen",
+        "userDefined": false
+      },
+      {
+        "text": "Todesmeldung",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "nach",
+        "userDefined": false
+      },
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c3ba186-9e48-4b06-b006-30b0bc3637b3",
+    "data": [
+      {
+        "text": "frage Flex TV Ich möchte",
+        "userDefined": false
+      },
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "das",
+        "userDefined": false
+      },
+      {
+        "text": "Passagiere",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb9d58fc-0714-42de-881d-0f10f8372203",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bernie auf Heimdall",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f4113805-56ee-450e-a343-95f95e6339e4",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "DIe laufenden Toten",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": "auf",
+        "userDefined": false
+      },
+      {
+        "text": "Fernseher",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be253b2f-fe39-44c0-9197-03fa7565909c",
+    "data": [
+      {
+        "text": "ausschalten",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Show",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cae08c4b-ee49-4e16-9584-f7c9ac9d551a",
+    "data": [
+      {
+        "text": "schalte den Film aus",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1875d55-5acc-4552-8165-8ef357bf3a95",
+    "data": [
+      {
+        "text": "schalte den verdammten Film aus",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d4d4203-a2f3-430d-b235-df380ec90259",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Aaron Johnson",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Film",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0ab98f5-27d6-485d-a5f4-24820effecc3",
+    "data": [
+      {
+        "text": "Was läuft da gerade",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ad1c00c3-e4af-4292-8706-0662d5041d71",
+    "data": [
+      {
+        "text": "`herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "der Lego Batman Film",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad89eb09-120b-4289-966d-4dd4efef9b9e",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Star Wars die Macht erwacht",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "563fb1f7-ba23-4d57-8e7b-9e6e55e411e4",
+    "data": [
+      {
+        "text": "hinzufügen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Westwelt",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Fernsehshows",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e764a1a-831e-4047-9778-a7512fad443c",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Westwelt",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Fernsehsendung",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c880d239-a412-4ff7-a955-d0a1bedd9f47",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kartenhaus",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eae62d68-8138-4012-8945-0e50ff0c5666",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fremde Sachen",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b29338ed-877d-457f-ab8b-d36421872551",
+    "data": [
+      {
+        "text": "was neues",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Filme",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "wurden heruntergeladen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad665a33-14e4-43e5-bbb2-5d91ff178258",
+    "data": [
+      {
+        "text": "was neues",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Filme",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": "wurden kürzlich hinzugefügt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79c0666b-a0db-49f6-b947-bb68b5afbedd",
+    "data": [
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ich - Einfach unverbesserlich 3",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2017",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "727ab494-bdc5-4bd6-84ae-c714f37cc7e3",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Die neueste Episode von Grey\u0026#39;s Anatomy",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a5c76f83-1160-4ac3-b053-ee6a0e8bbe81",
+    "data": [
+      {
+        "text": "fortsetzen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": "spielen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8301894c-16ab-44e8-8ce2-03267412edb4",
+    "data": [
+      {
+        "text": "holen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "John Wick 2",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05b487f2-34ab-44cf-95e1-26f6bc453e9e",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Fight Club",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b9c44bc-be1b-47a2-aaa2-3ebd9f4a10ed",
+    "data": [
+      {
+        "text": "Uhr",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "der letzte designierte Survivor",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d07dc7e1-9e28-4f1c-aee4-022c9c5b158e",
+    "data": [
+      {
+        "text": "nach",
+        "userDefined": false
+      },
+      {
+        "text": "Uhr",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die neueste Grey\u0026#39;s Anatomy",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28b900e8-bca8-49dd-88ee-384624232e5c",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pfeil",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b935302-4bf1-4911-bc96-66d2c20ee52b",
+    "data": [
+      {
+        "text": "was neues",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Filme",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": "ich habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0f180f8-bdfd-409a-9b58-897ef392b663",
+    "data": [
+      {
+        "text": "Was gibt\u0026#39;s Neues",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "740d4c53-a205-4383-8adc-94b00b74740b",
+    "data": [
+      {
+        "text": "drehe die Lautstärke hoch",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7500db9-269f-4199-9178-14fcd9c33a40",
+    "data": [
+      {
+        "text": "Pause",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": "das",
+        "userDefined": false
+      },
+      {
+        "text": "Show",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bae4bac-9c15-4b29-a9e9-6b88fe7c9215",
+    "data": [
+      {
+        "text": "Pause",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die Show",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "afbd599e-4779-4551-a2c6-6520726913e2",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Steins Gate 2011 Staffel 1 Folge 1",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bea9de46-df9c-4613-8a27-88dcb6446353",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Doktor Strange",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a643b609-0ded-4c19-945b-4c0abbdd6da9",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Terminator",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd105a2d-d2c3-4571-a3b8-266a83479c3a",
+    "data": [
+      {
+        "text": "Wiedergabe stoppen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "560af3d6-630f-4366-905a-557b1bb63561",
+    "data": [
+      {
+        "text": "Uhr",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "DIe laufenden Toten",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9896c114-13cb-4f45-8176-cbf8fa7f4fb1",
+    "data": [
+      {
+        "text": "nach",
+        "userDefined": false
+      },
+      {
+        "text": "herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ballerina",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fd60c46-9d0c-4f6f-ab6a-68071e17c4aa",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ghostbusters 2016",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8489451a-5130-4970-8fca-67cb87924c0a",
+    "data": [
+      {
+        "text": "Server wechseln",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "607e4b2c-67af-4031-96ff-333ff461ca81",
+    "data": [
+      {
+        "text": "wenn ich",
+        "userDefined": false
+      },
+      {
+        "text": "habe neue",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Filme",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76ce9bc6-251a-4829-8c33-61eede6ec210",
+    "data": [
+      {
+        "text": "wenn ich",
+        "userDefined": false
+      },
+      {
+        "text": "habe neue",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "zeigt an",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "333d8324-d59a-43e8-93da-f44260ef291c",
+    "data": [
+      {
+        "text": "was der Name von diesem",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Show",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      },
+      {
+        "text": "ist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad2be598-38aa-4c80-b79b-4aad64fbe7d9",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ein Bill Murray Film",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d62b49f1-ee3b-43b6-bb1b-a7c21860afc4",
+    "data": [
+      {
+        "text": "erzähl Kino",
+        "userDefined": false
+      },
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die letzte Folge von Tabu",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8a514b41-a49f-4aa5-8bb9-a5e51a7ff58a",
+    "data": [
+      {
+        "text": "Wechselspieler",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fbbe0cc-bf5c-43ee-9352-ef67b66842ed",
+    "data": [
+      {
+        "text": "sag Media IO",
+        "userDefined": false
+      },
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die neueste Folge von Taboo",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3ebbd10-6f99-4935-9ea8-1ad70bf78dfc",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Batman beginnt",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9eb53891-fec2-47da-9b44-62f7c63b4ac4",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "userDefined": false
+      },
+      {
+        "text": "Passagiere",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e804225-4678-4fed-908e-1af5d58f5006",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Batman",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "858e1737-d971-43be-9360-57933f73c62f",
+    "data": [
+      {
+        "text": "Ich möchte herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die Show Menschen",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cec7aa95-810b-49de-868d-505205a3420a",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gefroren",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7fe5dbd-dba9-49ee-ad5f-3b3bd82d2e3e",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Passagiere",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d4b2cd62-6455-45a7-8f27-6bdb2900ffcd",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dr. wer",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f789ba5b-fd0a-4f6e-9f46-dc9d16699f3b",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Doctor Who",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7db3705a-39eb-4b9f-b41a-63f31cd287a3",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "der Anfang von Frozen",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fd9ee02-e6e5-4e9b-a264-f76a1d252f67",
+    "data": [
+      {
+        "text": "Stellen Sie die Lautstärke ein",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": "nach",
+        "userDefined": false
+      },
+      {
+        "text": "100 %",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "324258a1-e190-4c49-8d3e-88eac181fb29",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Batman beginnt",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "197ab2dc-c223-49b4-8bd8-bf82a48ef1dc",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die erste Folge von Tabu",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "063bdee4-51f8-4e58-b8c0-6520612a9d58",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Tabu",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9c32c81b-5205-4df4-977f-aec37b224b32",
+    "data": [
+      {
+        "text": "Tabu einschalten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5533b778-a4d9-4fdf-9a34-345df36f8de0",
+    "data": [
+      {
+        "text": "fortsetzen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d634483a-b0d0-47c7-8c12-c517aa549d1e",
+    "data": [
+      {
+        "text": "Pause",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb690299-b797-46cf-98bd-5b8d2ec06dca",
+    "data": [
+      {
+        "text": "halt",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e6810d4-6865-41e7-8e7f-cd44af7f7dc9",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Geisterjäger",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a432da4d-ee62-45db-8c04-5c0bf40d1ec5",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ich vor dir",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b54de062-8ee6-40e2-baea-67284a29a3bb",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "vom Winde verweht",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8e33e19b-1df8-4ad7-a453-e4fb82a90488",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Batman beginnt",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c1c5a17-7a6e-40b0-8a34-da751f7a0418",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Die Goonies",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02aa4f58-e970-438e-a35a-8160836d381f",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "das Notebook",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "a005cfb3-8d10-4afe-bb76-bfb753e03d60",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kapitän Amerika",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4fb68b14-562b-4352-93b8-bd1709c5a85f",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Staffel 1 Folge 2 von Game of Thrones",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b8c2bdee-957f-469c-85ec-4b91cd6b6525",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "die neueste Folge von Man Seeking Woman",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "e4eebd16-d6d7-4add-bc94-0d16e52dd746",
+    "data": [
+      {
+        "text": "Kannst du spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Game of Thrones",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "95c883e6-426b-4c27-ae70-9d61929d8f81",
+    "data": [
+      {
+        "text": "spielen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Staffel 1 Folge 2 von Game of Thrones",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4331c650-8669-4546-a344-708b9d854e33",
+    "data": [
+      {
+        "text": "tell plex zu",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "zu 4 Minuten und 45 Sekunden überspringen",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f6146ea2-6fae-440a-8ad5-09bee5020838",
+    "data": [
+      {
+        "text": "Sagen Sie Plex zu",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pause",
+        "alias": "Controls",
+        "meta": "@Controls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13a6ebcf-a46f-4001-b53e-e2026a482ced",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Passagiere",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e607d1f2-1a8a-4636-9ffc-d715d5ec1c74",
+    "data": [
+      {
+        "text": "Ich möchte herunterladen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Geisterjäger",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0188133-85d1-4279-b706-299ff3cd1427",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Staffel 4 Episode 5 der Simpsons",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "858eb97f-4b89-40f5-b280-cd79d77bc50a",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Staffel 1 Episode 2 des Thronspiels",
+        "alias": "command",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9764c8f6-df44-42a6-a7fa-3ddf43495859",
+    "data": [
+      {
+        "text": "Ich möchte schauen",
+        "alias": "action",
+        "meta": "@Triggers",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "userDefined": false
+      },
+      {
+        "text": "Film",
+        "alias": "type",
+        "meta": "@Type",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "value": "Resume",
+    "synonyms": [
+      "CV",
+      "Début",
+      "Continuer",
+      "Reprendre la lecture",
+      "Unpause"
+    ]
+  },
+  {
+    "value": "Pause",
+    "synonyms": [
+      "Pause"
+    ]
+  },
+  {
+    "value": "Stop",
+    "synonyms": [
+      "Arrêter la lecture",
+      "arrêt",
+      "Lecture finale",
+      "Cesser",
+      "Cesser",
+      "arrête la lecture",
+      "juste",
+      "Arrêtez",
+      "terminer la lecture",
+      "cesser",
+      "cesser",
+      "éteindre",
+      "éteins le"
+    ]
+  },
+  {
+    "value": "Skip Forward",
+    "synonyms": [
+      "Sauter en avant",
+      "Passe devant",
+      "Sauter en avant",
+      "Chapitre suivant",
+      "L\u0026#39;épisode suivant",
+      "Prochaine chanson",
+      "Piste suivante"
+    ]
+  },
+  {
+    "value": "Skip Backward",
+    "synonyms": [
+      "Passer en arrière",
+      "Skip Back",
+      "Revenir en arrière",
+      "Chapitre précédent",
+      "Épisode précédent",
+      "Chanson précédente",
+      "Piste précédente",
+      "Dernière chanson",
+      "Dernière piste"
+    ]
+  },
+  {
+    "value": "Seek Forward",
+    "synonyms": [
+      "Chercher vers l\u0026#39;avant",
+      "Avance rapide",
+      "Avancer",
+      "Chercher en avant"
+    ]
+  },
+  {
+    "value": "Seek Backward",
+    "synonyms": [
+      "Rechercher en arrière",
+      "Rembobiner",
+      "Reculer",
+      "Reculer"
+    ]
+  },
+  {
+    "value": "Jump To",
+    "synonyms": [
+      "Sauter à",
+      "Chercher à",
+      "Passer",
+      "Avance rapide vers",
+      "Rembobinage",
+      "Revenir à"
+    ]
+  },
+  {
+    "value": "set the volume",
+    "synonyms": [
+      "régler le volume",
+      "ajuster le volume",
+      "baissez le volume",
+      "augmenter le volume",
+      "l\u0026#39;augmenter",
+      "baissez-le",
+      "augmente le volume",
+      "Baisse le volume"
+    ]
+  },
+  {
+    "value": "subtitles on",
+    "synonyms": [
+      "sous-titres",
+      "activer les sous-titres",
+      "activer les sous-titres",
+      "désactiver les sous-titres"
+    ]
+  },
+  {
+    "value": "subtitles off",
+    "synonyms": [
+      "sous-titres désactivés",
+      "désactiver les sous-titres",
+      "désactiver les sous-titres",
+      "désactiver les sous-titres"
+    ]
+  }
+]

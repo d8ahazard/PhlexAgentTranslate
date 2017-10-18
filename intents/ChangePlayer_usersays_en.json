@@ -1,0 +1,184 @@
+[
+  {
+    "id": "1a4730d4-21b2-4798-9a97-942490d80214",
+    "data": [
+      {
+        "text": "patio speakers",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498677269
+  },
+  {
+    "id": "5c634946-fa4e-44a1-85a7-45a3454eaa7a",
+    "data": [
+      {
+        "text": "Nexus player 2",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676318
+  },
+  {
+    "id": "f2afb5e2-035c-41b3-a0fe-e0b74a199406",
+    "data": [
+      {
+        "text": "office",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676275
+  },
+  {
+    "id": "a79fd706-f617-4145-aa36-1c072dd84337",
+    "data": [
+      {
+        "text": "Roku",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "d101ba5d-30d8-4acb-9a00-7e666525661f",
+    "data": [
+      {
+        "text": "living room tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "eb0509e7-1953-4dfa-b061-21722c8592bc",
+    "data": [
+      {
+        "text": "E55 d0",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0cb6a0a-db89-4bd7-b226-f4f9379aeb3c",
+    "data": [
+      {
+        "text": "nexus player",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d11b8c0b-eb44-41fa-bb46-b57c4a32247a",
+    "data": [
+      {
+        "text": "bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "520064d0-8995-4f46-a267-7238dc4170ac",
+    "data": [
+      {
+        "text": "Shield android tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c95e9b1-e0bf-463e-a31b-da55d229553f",
+    "data": [
+      {
+        "text": "cookieplex",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "65878987-bb0c-4386-9198-755c1f1e427f",
+    "data": [
+      {
+        "text": "Bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4b0b231-1a71-42f5-b708-e01449bc9c2c",
+    "data": [
+      {
+        "text": "Shield Android TV",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85b1078a-9a7f-4fee-81ae-eb0b0db0db4c",
+    "data": [
+      {
+        "text": "Gandalf",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

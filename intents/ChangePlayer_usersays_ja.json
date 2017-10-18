@@ -1,0 +1,184 @@
+[
+  {
+    "id": "830bdbb7-3b33-4a60-a174-4b0c5358347c",
+    "data": [
+      {
+        "text": "パティオのスピーカー",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498677269
+  },
+  {
+    "id": "226480dc-72b8-4e65-889f-0f9a4f3ea842",
+    "data": [
+      {
+        "text": "Nexusプレーヤー2",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676318
+  },
+  {
+    "id": "461123c3-77da-48b8-b480-e6c0a5690a2f",
+    "data": [
+      {
+        "text": "事務所",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676275
+  },
+  {
+    "id": "6e6086d7-88db-4056-9280-60b417dec291",
+    "data": [
+      {
+        "text": "年",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "8bf85efd-4553-4ae0-b911-eacdc0b4a1af",
+    "data": [
+      {
+        "text": "リビングルームテレビ",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "2f39557b-ce6c-4216-a057-7b1cc38db9cf",
+    "data": [
+      {
+        "text": "E55 d0",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23866a7a-a2e6-4ef1-9fb9-bc12cfcb8682",
+    "data": [
+      {
+        "text": "ネクサスプレーヤー",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1875a337-18e6-4a56-8288-d6dd2c0d875c",
+    "data": [
+      {
+        "text": "屈曲管",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbe43a3d-40ed-4c6a-bf09-3c10af72cb67",
+    "data": [
+      {
+        "text": "シールドアンドロイドテレビ",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f31dc0b-2f75-49df-9c81-72a106123896",
+    "data": [
+      {
+        "text": "cookieplex",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6f016400-c624-419a-ab7b-e612e652294d",
+    "data": [
+      {
+        "text": "Bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72ca7b91-f3aa-49e2-97c1-82cdaa06bc42",
+    "data": [
+      {
+        "text": "シールドのAndroid TV",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "238b5f36-1848-45b0-abb9-9eafd0f0ef1e",
+    "data": [
+      {
+        "text": "ガンダルフ",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

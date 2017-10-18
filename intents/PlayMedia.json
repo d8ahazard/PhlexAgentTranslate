@@ -1,0 +1,127 @@
+{
+  "id": "b8151275-afad-4f3f-bd9a-3a17f390cb75",
+  "name": "PlayMedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Playmedia",
+      "affectedContexts": [
+        {
+          "name": "yes",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "waitforplayer",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "promptfortitle",
+          "parameters": {},
+          "lifespan": 3
+        },
+        {
+          "name": "PlayMedia-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4b1297e2-5ee8-4f6e-837a-3117e9098e39",
+          "required": false,
+          "dataType": "@Triggers",
+          "name": "action",
+          "value": "$action",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "a458b157-0e6b-4da9-a06e-8a8e93d83600",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "command",
+          "value": "$command",
+          "isList": false
+        },
+        {
+          "id": "3756cc05-45aa-4308-88dd-9e4b61266b97",
+          "dataType": "@Type",
+          "name": "type",
+          "value": "$type",
+          "isList": false
+        },
+        {
+          "id": "b92a7cf1-2513-42c1-b45e-5775d38f11da",
+          "dataType": "@Controls",
+          "name": "Controls",
+          "value": "$Controls",
+          "isList": false
+        },
+        {
+          "id": "a375c898-aad8-4435-9e0b-7194682e8d76",
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "isList": false
+        },
+        {
+          "id": "9074bef1-e798-4e00-9322-f8cce5a684c5",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "4249ed8b-05e0-4252-83b4-b3d72bd53d61",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "63ccfff4-0ade-4c5b-aaa4-354c1da2b377",
+          "dataType": "@sys.music-artist",
+          "name": "artist",
+          "value": "$artist"
+        },
+        {
+          "id": "0f7aec7d-e478-4cc7-a333-b2e2e0a4be01",
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "70d4587e-cceb-4086-a081-cb29665bd79b",
+          "dataType": "@days",
+          "name": "days",
+          "value": "$days",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507928067,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

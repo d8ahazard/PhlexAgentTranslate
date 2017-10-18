@@ -1,0 +1,175 @@
+[
+  {
+    "value": "play",
+    "synonyms": [
+      "spielen",
+      "Ich möchte schauen",
+      "Ich fühle mich wie zu sehen",
+      "habe ich",
+      "kannst du feuern",
+      "Kannst du spielen",
+      "Anfang",
+      "anmachen",
+      "anziehen",
+      "werfen",
+      "finden",
+      "kannst du finden",
+      "kannst du anwerfen",
+      "kannst du anfangen",
+      "beginne zu spielen",
+      "Uhr",
+      "Besetzung",
+      "feuern",
+      "lass uns zuschauen",
+      "spiel mir die"
+    ]
+  },
+  {
+    "value": "control",
+    "synonyms": [
+      "steuern",
+      "tell plex zu",
+      "Sag meinem Fernseher,",
+      "Sende einen Befehl an",
+      "ein Signal senden an",
+      "sag Flex TV an"
+    ]
+  },
+  {
+    "value": "fetch",
+    "synonyms": [
+      "holen",
+      "Ich möchte herunterladen",
+      "kannst du herunterladen",
+      "herunterladen",
+      "greifen",
+      "schnappen",
+      "Pirat",
+      "hinzufügen",
+      "Haken"
+    ]
+  },
+  {
+    "value": "player",
+    "synonyms": [
+      "Spieler",
+      "Spieler wechseln",
+      "Player auswählen",
+      "Wechselspieler",
+      "Spieler auswählen",
+      "Spieler auswählen",
+      "Swap-Spieler",
+      "Gerät wechseln",
+      "Spieler wechseln",
+      "Spieler wechseln",
+      "Spieler tauschen",
+      "Client ändern"
+    ]
+  },
+  {
+    "value": "server",
+    "synonyms": [
+      "Server",
+      "Server wechseln",
+      "Server auswählen",
+      "Server ändern",
+      "Server auswählen",
+      "Server auswählen",
+      "Swap-Server",
+      "Quellen ändern"
+    ]
+  },
+  {
+    "value": "status",
+    "synonyms": [
+      "Status",
+      "Was läuft da gerade?",
+      "Was geht ab?",
+      "Was spielt?",
+      "Was geht?",
+      "Was schaue ich?",
+      "Welcher Film läuft?",
+      "Welche Show ist?",
+      "Beobachte ich etwas?",
+      "Können Sie mir sagen, was dieser Film heißt?",
+      "Können Sie mir sagen, was diese Show heißt?",
+      "Wie heißt das?",
+      "was der Name von diesem",
+      "Was spielt gerade?",
+      "Was läuft da gerade",
+      "Was spielt gerade"
+    ]
+  },
+  {
+    "value": "recent",
+    "synonyms": [
+      "Was neues",
+      "habe neue",
+      "Was gibt\u0026's Neues?",
+      "was ist neu",
+      "kürzlich",
+      "kürzlich hinzugefügt",
+      "gerade hinzugefügt",
+      "was neues"
+    ]
+  },
+  {
+    "value": "ondeck",
+    "synonyms": [
+      "Ondeck",
+      "Was an Deck ist",
+      "Was ist an Deck",
+      "als nächstes"
+    ]
+  },
+  {
+    "value": "record",
+    "synonyms": [
+      "Aufzeichnung",
+      "dvr",
+      "Band",
+      "Zeitplan"
+    ]
+  },
+  {
+    "value": "upcoming",
+    "synonyms": [
+      "bevorstehende",
+      "geplant",
+      "Was läuft im Fernsehen",
+      "Was ist DVRed",
+      "was lüftet",
+      "was lüftet",
+      "Was ist im Fernsehen",
+      "was zeigt sich an",
+      "Was ist aufgezeichnet",
+      "dvred"
+    ]
+  },
+  {
+    "value": "what \u0027 s dvred",
+    "synonyms": [
+      "was ist dvred"
+    ]
+  },
+  {
+    "value": "help",
+    "synonyms": [
+      "Hilfe",
+      "Was kann ich sagen",
+      "was kannst du tun",
+      "Was sind deine Befehle",
+      "Ich weiß nicht, was ich tun soll",
+      "Du sagst es mir",
+      "wie arbeitest du",
+      "Was soll ich sagen",
+      "Tutorial"
+    ]
+  },
+  {
+    "value": "shuffle",
+    "synonyms": [
+      "Shuffle"
+    ]
+  }
+]

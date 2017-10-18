@@ -1,0 +1,44 @@
+{
+  "id": "1449e5ee-277f-41ce-bfb1-71466c6087d8",
+  "name": "ChangePlayer",
+  "auto": false,
+  "contexts": [
+    "waitforplayer"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "622d6c1c-c01c-4c05-9853-e7e0f914fc29",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "player",
+          "value": "$player",
+          "isList": false
+        },
+        {
+          "id": "d14cf551-e15e-427e-89df-1554fad61735",
+          "name": "action",
+          "value": "changeDevice"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498680894,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,175 @@
+[
+  {
+    "value": "play",
+    "synonyms": [
+      "jouer",
+      "je veux regarder",
+      "J\u0026'ai envie de regarder",
+      "est-ce-que j\u0026'ai",
+      "peux-tu mettre le feu",
+      "pouvez-vous jouer",
+      "début",
+      "allumer",
+      "mettez",
+      "jeter sur",
+      "trouver",
+      "peux-tu trouver",
+      "pouvez-vous lancer",
+      "pouvez-vous commencer",
+      "Commencer à jouer",
+      "regarder",
+      "jeter",
+      "allumer",
+      "regardons quelques",
+      "joue moi le"
+    ]
+  },
+  {
+    "value": "control",
+    "synonyms": [
+      "contrôle",
+      "dites plex à",
+      "dis à ma télé",
+      "envoyer une commande à",
+      "envoyer un signal à",
+      "dites à Flex TV de"
+    ]
+  },
+  {
+    "value": "fetch",
+    "synonyms": [
+      "chercher",
+      "Je veux télécharger",
+      "pouvez-vous télécharger",
+      "Télécharger",
+      "saisir",
+      "arracher",
+      "pirate",
+      "ajouter",
+      "accroc"
+    ]
+  },
+  {
+    "value": "player",
+    "synonyms": [
+      "joueur",
+      "changer de joueur",
+      "choisir le joueur",
+      "changer de joueur",
+      "sélectionner le joueur",
+      "choisir le joueur",
+      "swap player",
+      "changer d\u0026'appareil",
+      "changer de joueur",
+      "changer de joueur",
+      "joueurs de swap",
+      "changer de client"
+    ]
+  },
+  {
+    "value": "server",
+    "synonyms": [
+      "serveur",
+      "changer de serveur",
+      "choisir le serveur",
+      "changer de serveur",
+      "sélectionnez le serveur",
+      "sélectionner le serveur",
+      "serveur de swap",
+      "changer les sources"
+    ]
+  },
+  {
+    "value": "status",
+    "synonyms": [
+      "statut",
+      "Qu\u0026'est-ce qui se joue?",
+      "Qu\u0026'est-ce qui se passe?",
+      "Qu\u0026'est-ce qui joue?",
+      "Qu\u0026'est-ce qui se passe?",
+      "Que suis-je en train de regarder?",
+      "Quel est le film?",
+      "Quel spectacle est sur?",
+      "Est-ce que je regarde quelque chose?",
+      "Pouvez-vous me dire ce que ce film est appelé?",
+      "Pouvez-vous me dire ce que ce spectacle est appelé?",
+      "Comment s\u0026'appelle ceci?",
+      "quel est le nom de cette",
+      "Qu\u0026'est-ce qui est en train de jouer?",
+      "ce qui se joue",
+      "ce qui est en train de jouer"
+    ]
+  },
+  {
+    "value": "recent",
+    "synonyms": [
+      "Quoi de neuf",
+      "avoir de nouvelles",
+      "Quoi de neuf?",
+      "ce qui est nouveau",
+      "récent",
+      "récemment ajouté",
+      "vient d\u0026'ajouter",
+      "Quoi de neuf"
+    ]
+  },
+  {
+    "value": "ondeck",
+    "synonyms": [
+      "ondeck",
+      "Qu\u0026'est-ce qui est sur le pont",
+      "Qu\u0026'est-ce que sur le pont",
+      "suivant"
+    ]
+  },
+  {
+    "value": "record",
+    "synonyms": [
+      "record",
+      "dvr",
+      "ruban",
+      "programme"
+    ]
+  },
+  {
+    "value": "upcoming",
+    "synonyms": [
+      "prochain",
+      "prévu",
+      "ce qui est à la télé",
+      "Qu\u0026'est-ce que DVRed",
+      "ce qui est diffusé",
+      "Qu\u0026'est-ce que l\u0026'aération",
+      "ce qui est à la télé",
+      "quels spectacles sont sur",
+      "ce qui est enregistré",
+      "dvred"
+    ]
+  },
+  {
+    "value": "what \u0027 s dvred",
+    "synonyms": [
+      "ce qui est dvred"
+    ]
+  },
+  {
+    "value": "help",
+    "synonyms": [
+      "Aidez-moi",
+      "que puis-je dire",
+      "Que pouvez-vous faire",
+      "quelles sont vos commandes",
+      "Je ne sais pas quoi faire",
+      "À vous de me dire",
+      "Comment travailles-tu",
+      "Qu\u0026'est-ce que je devrais dire",
+      "Didacticiel"
+    ]
+  },
+  {
+    "value": "shuffle",
+    "synonyms": [
+      "mélanger"
+    ]
+  }
+]

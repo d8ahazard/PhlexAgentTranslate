@@ -1,0 +1,122 @@
+[
+  {
+    "value": "Resume",
+    "synonyms": [
+      "Fortsetzen",
+      "Anfang",
+      "Fortsetzen",
+      "Wiedergabe fortsetzen",
+      "Unpause"
+    ]
+  },
+  {
+    "value": "Pause",
+    "synonyms": [
+      "Pause"
+    ]
+  },
+  {
+    "value": "Stop",
+    "synonyms": [
+      "Wiedergabe stoppen",
+      "Halt",
+      "End-Wiedergabe",
+      "Aufhören",
+      "Desistieren",
+      "Wiedergabe stoppen",
+      "halt",
+      "halt",
+      "Wiedergabe beenden",
+      "aufhören",
+      "unterdrückt",
+      "schalte das aus",
+      "ausschalten"
+    ]
+  },
+  {
+    "value": "Skip Forward",
+    "synonyms": [
+      "Nach vorne spulen",
+      "Überspringen",
+      "Voraus springen",
+      "Nächstes Kapitel",
+      "Nächste Folge",
+      "Nächstes Lied",
+      "Nächster Titel"
+    ]
+  },
+  {
+    "value": "Skip Backward",
+    "synonyms": [
+      "Rückwärts springen",
+      "Zurückgehen",
+      "Zurückspringen",
+      "Vorheriges Kapitel",
+      "Vorherige Episode",
+      "Vorheriger Song",
+      "Vorheriges Lied",
+      "Letztes Lied",
+      "Letzter Track"
+    ]
+  },
+  {
+    "value": "Seek Forward",
+    "synonyms": [
+      "Vorwärts suchen",
+      "Schnell vorwärts",
+      "Schritt vorwärts",
+      "Vorausschau"
+    ]
+  },
+  {
+    "value": "Seek Backward",
+    "synonyms": [
+      "Rückwärts suchen",
+      "Zurückspulen",
+      "Schritt rückwärts",
+      "Zurücktreten"
+    ]
+  },
+  {
+    "value": "Jump To",
+    "synonyms": [
+      "Springen zu",
+      "Versuchen",
+      "Überspringen zu",
+      "Schneller Vorlauf",
+      "Zurückspulen",
+      "Geh zurück zu"
+    ]
+  },
+  {
+    "value": "set the volume",
+    "synonyms": [
+      "Stellen Sie die Lautstärke ein",
+      "die Lautstärke einstellen",
+      "Reduzieren Sie die Lautstärke",
+      "aufdrehen",
+      "Dreh es auf",
+      "lass es runter",
+      "drehe die Lautstärke hoch",
+      "drehe die Lautstärke runter"
+    ]
+  },
+  {
+    "value": "subtitles on",
+    "synonyms": [
+      "Untertitel auf",
+      "Untertitel aktivieren",
+      "Untertitel einschalten",
+      "die Untertitel ausschalten"
+    ]
+  },
+  {
+    "value": "subtitles off",
+    "synonyms": [
+      "Untertitel aus",
+      "Untertitel deaktivieren",
+      "Untertitel ausschalten",
+      "die Untertitel ausschalten"
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "value": "movie",
+    "synonyms": [
+      "film",
+      "film",
+      "feuilleter",
+      "DVD",
+      "blu-ray",
+      "le film",
+      "le film"
+    ]
+  },
+  {
+    "value": "show",
+    "synonyms": [
+      "montrer",
+      "séries",
+      "émission de télévision",
+      "émission de télévision",
+      "le spectacle",
+      "les séries"
+    ]
+  },
+  {
+    "value": "artist",
+    "synonyms": [
+      "la musique",
+      "airs",
+      "Chansons",
+      "chansons par",
+      "l\u0026'artiste",
+      "Le groupe",
+      "le chanteur",
+      "le groupe",
+      "artiste",
+      "B: et",
+      "chanteur",
+      "groupe",
+      "musique par",
+      "airs par",
+      "pistes par",
+      "radio"
+    ]
+  },
+  {
+    "value": "album",
+    "synonyms": [
+      "album",
+      "disque",
+      "CD"
+    ]
+  },
+  {
+    "value": "track",
+    "synonyms": [
+      "Piste",
+      "chant",
+      "régler",
+      "unique"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "value": "now",
+    "synonyms": [
+      "今",
+      "今日",
+      "今晩",
+      "今日の夕方",
+      "後で",
+      "今日の午後"
+    ]
+  },
+  {
+    "value": "tomorrow",
+    "synonyms": [
+      "明日",
+      "明日の夜",
+      "今日の翌日"
+    ]
+  },
+  {
+    "value": "weekend",
+    "synonyms": [
+      "週末",
+      "今週末"
+    ]
+  },
+  {
+    "value": "Monday",
+    "synonyms": [
+      "月曜"
+    ]
+  },
+  {
+    "value": "Tuesday",
+    "synonyms": [
+      "火曜日"
+    ]
+  },
+  {
+    "value": "Wednesday",
+    "synonyms": [
+      "水曜日"
+    ]
+  },
+  {
+    "value": "Thursday",
+    "synonyms": [
+      "木曜日"
+    ]
+  },
+  {
+    "value": "Friday",
+    "synonyms": [
+      "金曜日"
+    ]
+  },
+  {
+    "value": "Saturday",
+    "synonyms": [
+      "土曜日"
+    ]
+  },
+  {
+    "value": "Sunday",
+    "synonyms": [
+      "日曜日"
+    ]
+  }
+]

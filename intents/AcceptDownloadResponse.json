@@ -1,0 +1,45 @@
+{
+  "id": "99fd7a7b-33f5-43eb-b423-3ef008ee6c8a",
+  "name": "AcceptDownloadResponse",
+  "auto": true,
+  "contexts": [
+    "yes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a72a9996-b879-48db-9664-120a8f7b5a2d",
+          "required": true,
+          "dataType": "@YesNo",
+          "name": "YesNo",
+          "value": "$YesNo",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "7d5776d6-9eb0-46c8-97da-213a32ac18b9",
+          "name": "action",
+          "value": "fetchAPI"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1490281045,
+  "fallbackIntent": false,
+  "events": []
+}

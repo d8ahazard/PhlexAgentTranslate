@@ -1,0 +1,184 @@
+[
+  {
+    "id": "c37cf6e2-f56d-4231-b0a8-ef29a3aed85e",
+    "data": [
+      {
+        "text": "enceintes de patio",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498677269
+  },
+  {
+    "id": "0e857e72-a578-4104-a444-9f3017f7200d",
+    "data": [
+      {
+        "text": "Nexus Player 2",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676318
+  },
+  {
+    "id": "e6045250-fb07-4898-83af-47f129b3441e",
+    "data": [
+      {
+        "text": "Bureau",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676275
+  },
+  {
+    "id": "7d9f198b-e888-4f51-8258-9d124ddfcda8",
+    "data": [
+      {
+        "text": "année",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "a9bc8d68-344d-4cbb-84c4-a4565f958b65",
+    "data": [
+      {
+        "text": "salon tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "e990116d-57e1-4af7-87fc-c99655a8a858",
+    "data": [
+      {
+        "text": "E55 d0",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd529b54-cc66-4f8e-9675-bd5f6a3dfe37",
+    "data": [
+      {
+        "text": "lecteur nexus",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bd88fed-5431-4f3c-b12f-6cf3b68b5cd9",
+    "data": [
+      {
+        "text": "bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1af72f14-db0b-4a09-bbd7-c7ab5efc8ce6",
+    "data": [
+      {
+        "text": "Bouclier android tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26affc34-314d-4028-8fb1-e1e282093a99",
+    "data": [
+      {
+        "text": "cookieplex",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e9fb64fa-1dbd-4662-b4c3-04216204bf2b",
+    "data": [
+      {
+        "text": "Bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be9e5b51-ad15-4c92-8a45-b45904b9e429",
+    "data": [
+      {
+        "text": "Bouclier Android TV",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "205b8656-943a-48b7-9c7c-56f6840f3c08",
+    "data": [
+      {
+        "text": "Gandalf",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

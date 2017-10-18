@@ -1,0 +1,34 @@
+{
+  "id": "15afc5b5-220f-4d71-bfd4-5d5fdd6a25fc",
+  "name": "DefaultFallbackResponse",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry, I don\u0027t know how to help with that request.",
+            "Unfortunately, I don\u0027t understand what you\u0027re asking for.",
+            "Danger, Will Robinson.  Unable to compute response.",
+            "Beep boop boop beep.  Cannot translate response.  Beep boop.",
+            "I can\u0027t understand you when you mumble."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1498050849,
+  "fallbackIntent": true,
+  "events": []
+}

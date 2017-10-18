@@ -1,0 +1,176 @@
+[
+  {
+    "value": "play",
+    "synonyms": [
+      "jugar",
+      "quiero ver",
+      "Siento ganas de ver",
+      "Tengo",
+      "puedes encender",
+      "puedes jugar",
+      "comienzo",
+      "encender",
+      "ponerse",
+      "ponerse",
+      "encontrar",
+      "puedes encontrar",
+      "puedes tirar",
+      "puedes empezar",
+      "comenzar a jugar",
+      "reloj",
+      "emitir",
+      "quémalo",
+      "miremos algunos",
+      "juegame el"
+    ]
+  },
+  {
+    "value": "control",
+    "synonyms": [
+      "controlar",
+      "dile a plex a",
+      "dile a mi televisor",
+      "enviar un comando a",
+      "enviar una señal a",
+      "decirle a Flex TV"
+    ]
+  },
+  {
+    "value": "fetch",
+    "synonyms": [
+      "ha podido recuperar",
+      "Quiero descargar",
+      "puedes descargar",
+      "descargar",
+      "agarrar",
+      "arrebatar",
+      "pirata",
+      "añadir",
+      "engancharse"
+    ]
+  },
+  {
+    "value": "player",
+    "synonyms": [
+      "jugador",
+      "cambiar de jugador",
+      "elegir jugador",
+      "Cambiar de jugador",
+      "Seleccione jugador",
+      "elegir jugador",
+      "jugador de intercambio",
+      "cambiar dispositivo",
+      "cambiar de jugador",
+      "cambiar jugadores",
+      "intercambiar jugadores",
+      "cambio de cliente"
+    ]
+  },
+  {
+    "value": "server",
+    "synonyms": [
+      "servidor",
+      "cambiar el servidor",
+      "elegir servidor",
+      "cambio de servidor",
+      "seleccionar servidor",
+      "servidor pick",
+      "servidor de intercambio",
+      "cambiar las fuentes"
+    ]
+  },
+  {
+    "value": "status",
+    "synonyms": [
+      "estado",
+      "¿Que esta jugando?",
+      "¿Qué pasa?",
+      "Que esta jugando",
+      "¿Que ocurre?",
+      "¿Qué estoy viendo?",
+      "¿Qué película está encendida?",
+      "¿Qué espectáculo está encendido?",
+      "Estoy viendo algo",
+      "¿Puedes decirme cómo se llama esta película?",
+      "¿Puedes decirme cómo se llama este espectáculo?",
+      "¿Como se llama esto?",
+      "cual es el nombre de este",
+      "¿Qué está jugando actualmente?",
+      "que esta jugando",
+      "que esta jugando"
+    ]
+  },
+  {
+    "value": "recent",
+    "synonyms": [
+      "Que nuevo",
+      "tener algo nuevo",
+      "¿Qué hay de nuevo?",
+      "Qué es nuevo",
+      "reciente",
+      "Recientemente añadido",
+      "Recien agregado",
+      "que nuevo"
+    ]
+  },
+  {
+    "value": "ondeck",
+    "synonyms": [
+      "ondear",
+      "Que hay en la cubierta",
+      "Lo que esta en la cubierta",
+      "hasta la próxima",
+      "Qué hay en cubierta"
+    ]
+  },
+  {
+    "value": "record",
+    "synonyms": [
+      "grabar",
+      "dvr",
+      "cinta",
+      "programar"
+    ]
+  },
+  {
+    "value": "upcoming",
+    "synonyms": [
+      "próximo",
+      "programado",
+      "Que hay en la televisión",
+      "que es DVRed",
+      "lo que se ventila",
+      "lo que se está aireando",
+      "qué hay en la TV",
+      "qué espectáculos están encendidos",
+      "lo que se registra",
+      "dvred"
+    ]
+  },
+  {
+    "value": "what \u0027 s dvred",
+    "synonyms": [
+      "que es dvred"
+    ]
+  },
+  {
+    "value": "help",
+    "synonyms": [
+      "ayuda",
+      "qué puedo decir",
+      "Qué puedes hacer",
+      "cuales son tus comandos",
+      "No se que hacer",
+      "Dígame usted",
+      "como trabajas",
+      "Qué debería decir",
+      "tutorial"
+    ]
+  },
+  {
+    "value": "shuffle",
+    "synonyms": [
+      "barajar"
+    ]
+  }
+]

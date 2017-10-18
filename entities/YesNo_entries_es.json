@@ -1,0 +1,27 @@
+[
+  {
+    "value": "yes",
+    "synonyms": [
+      "sí",
+      "Sí",
+      "Por supuesto",
+      "Por favor, hazlo",
+      "sí por favor",
+      "Sí",
+      "puedes apostar",
+      "tu apuestas"
+    ]
+  },
+  {
+    "value": "no",
+    "synonyms": [
+      "no",
+      "no gracias",
+      "realmente no",
+      "de ninguna manera",
+      "No.",
+      "nope",
+      "Nunca"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "value": "Resume",
+    "synonyms": [
+      "Curriculum vitae",
+      "Inizio",
+      "Continua",
+      "Riprendi la riproduzione",
+      "Riattiva"
+    ]
+  },
+  {
+    "value": "Pause",
+    "synonyms": [
+      "Pausa"
+    ]
+  },
+  {
+    "value": "Stop",
+    "synonyms": [
+      "Stop Riproduzione",
+      "arresto",
+      "Riproduzione finale",
+      "Cessare",
+      "Desistere",
+      "fermare la riproduzione",
+      "solo",
+      "Stop",
+      "fine della riproduzione",
+      "cessare",
+      "desistere",
+      "disattivarlo",
+      "spegni il"
+    ]
+  },
+  {
+    "value": "Skip Forward",
+    "synonyms": [
+      "Salta avanti",
+      "Salta avanti",
+      "Vai avanti",
+      "Prossimo capitolo",
+      "Prossimo episodio",
+      "Prossima canzone",
+      "Prossima traccia"
+    ]
+  },
+  {
+    "value": "Skip Backward",
+    "synonyms": [
+      "Salta indietro",
+      "Salta indietro",
+      "Vai indietro",
+      "Capitolo precedente",
+      "Episodio precedente",
+      "Canzone precedente",
+      "Precedente",
+      "Ultima canzone",
+      "Ultima traccia"
+    ]
+  },
+  {
+    "value": "Seek Forward",
+    "synonyms": [
+      "Cerca avanti",
+      "Avanti veloce",
+      "Passo in avanti",
+      "Cerca avanti"
+    ]
+  },
+  {
+    "value": "Seek Backward",
+    "synonyms": [
+      "Cerca indietro",
+      "riavvolgere",
+      "Passo indietro",
+      "Fai un passo indietro"
+    ]
+  },
+  {
+    "value": "Jump To",
+    "synonyms": [
+      "Salta a",
+      "Cercare di",
+      "Saltare a",
+      "Avanti veloce a",
+      "Riavviare",
+      "Ritornare a"
+    ]
+  },
+  {
+    "value": "set the volume",
+    "synonyms": [
+      "impostare il volume",
+      "regolare il volume",
+      "girare il volume verso il basso",
+      "girare il volume in su",
+      "alza il volume",
+      "spegnilo",
+      "alza il volume",
+      "abbassa il volume"
+    ]
+  },
+  {
+    "value": "subtitles on",
+    "synonyms": [
+      "sottotitoli",
+      "abiliti sottotitoli",
+      "accendere i sottotitoli",
+      "disattivare i sottotitoli"
+    ]
+  },
+  {
+    "value": "subtitles off",
+    "synonyms": [
+      "sottotitoli spenti",
+      "disabilitare i sottotitoli",
+      "spegnere i sottotitoli",
+      "disattivare i sottotitoli"
+    ]
+  }
+]

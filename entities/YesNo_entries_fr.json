@@ -1,0 +1,27 @@
+[
+    {
+        "value": "yes",
+        "synonyms": [
+            "Oui",
+      "ouais",
+      "certainement",
+      "fais le s'il-te-plait",
+      "oui, s'il-te-plait",
+            "Oui",
+            "tu parles",
+      "ouep"
+        ]
+    },
+    {
+        "value": "no",
+        "synonyms": [
+            "non",
+      "non, merci",
+            "pas vraiment",
+      "en aucune façon",
+            "Non.",
+      	    "nope",
+            "jamais"
+        ]
+    }
+]

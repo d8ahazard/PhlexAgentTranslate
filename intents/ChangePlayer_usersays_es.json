@@ -1,0 +1,184 @@
+[
+  {
+    "id": "f6072051-6549-44e3-89aa-d3fa95604013",
+    "data": [
+      {
+        "text": "altavoces de patio",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498677269
+  },
+  {
+    "id": "bc5d97b3-d2da-4554-8f5d-cb2a2e0740b5",
+    "data": [
+      {
+        "text": "Nexus jugador 2",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676318
+  },
+  {
+    "id": "e313b2bf-9bc3-400d-baaf-66b8dc9b21b8",
+    "data": [
+      {
+        "text": "oficina",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676275
+  },
+  {
+    "id": "66198166-695c-4ed2-beab-81c265b96a43",
+    "data": [
+      {
+        "text": "año",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "6bf94081-e4c0-4c9e-ac75-34528b6c398d",
+    "data": [
+      {
+        "text": "sala tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1498676147
+  },
+  {
+    "id": "df1f00ab-59c0-4f7a-bd4b-0fd1dec88c23",
+    "data": [
+      {
+        "text": "E55 d0",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7d9d917-39d2-43b6-9365-3b7708866984",
+    "data": [
+      {
+        "text": "reproductor de nexus",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3338756-e9b6-4de0-9d08-af6204c03e6d",
+    "data": [
+      {
+        "text": "bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccb3c825-0b9d-4e29-a7a0-b488fa516e38",
+    "data": [
+      {
+        "text": "Shield android tv",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1269ab3c-5257-4e9d-85da-f684d4708dbe",
+    "data": [
+      {
+        "text": "cookieplex",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ce197b8f-960d-4615-b953-c3b6b0c94104",
+    "data": [
+      {
+        "text": "Bentube",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f411d7e-a676-415c-9d62-fbd204fd2cca",
+    "data": [
+      {
+        "text": "Shield Android TV",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04ee81fc-ccc5-484b-9d8c-abbc3b44934a",
+    "data": [
+      {
+        "text": "Gandalf",
+        "alias": "player",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
