@@ -2,69 +2,71 @@
   {
     "value": "now",
     "synonyms": [
-      "now",
-      "today",
-      "tonight",
-      "this evening",
-      "later",
-      "this afternoon"
+      "maintenant",
+      "aujourd'hui",
+      "ce soir",
+      "en soirée",
+      "plus tard",
+      "cet après-midi"
     ]
   },
   {
     "value": "tomorrow",
     "synonyms": [
-      "tomorrow",
-      "tomorrow night",
-      "the day after today"
+      "demain",
+      "demain soir",
+      "après demain"
     ]
   },
   {
     "value": "weekend",
     "synonyms": [
       "weekend",
-      "this weekend"
+      "fin de semaine",
+      "ce weekend",
+      "cette fin de semaine"
     ]
   },
   {
     "value": "Monday",
     "synonyms": [
-      "Monday"
+      "lundi"
     ]
   },
   {
     "value": "Tuesday",
     "synonyms": [
-      "Tuesday"
+      "mardi"
     ]
   },
   {
     "value": "Wednesday",
     "synonyms": [
-      "Wednesday"
+      "mercredi"
     ]
   },
   {
     "value": "Thursday",
     "synonyms": [
-      "Thursday"
+      "jeudi"
     ]
   },
   {
     "value": "Friday",
     "synonyms": [
-      "Friday"
+      "vendredi"
     ]
   },
   {
     "value": "Saturday",
     "synonyms": [
-      "Saturday"
+      "samedi"
     ]
   },
   {
     "value": "Sunday",
     "synonyms": [
-      "Sunday"
+      "dimanche"
     ]
   }
 ]
