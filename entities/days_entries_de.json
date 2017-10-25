@@ -14,8 +14,7 @@
     "value": "tomorrow",
     "synonyms": [
       "Morgen",
-      "Morgen Nacht",
-      "Morgen"
+      "Morgen Nacht"
     ]
   },
   {
@@ -58,7 +57,8 @@
   {
     "value": "Saturday",
     "synonyms": [
-      "Samstag"
+      "Samstag",
+	  "Sonnabend"
     ]
   },
   {

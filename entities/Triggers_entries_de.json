@@ -4,49 +4,40 @@
     "synonyms": [
       "spielen",
       "Ich möchte schauen",
-      "Ich fühle mich wie zu sehen",
       "habe ich",
-      "kannst du feuern",
       "Kannst du spielen",
-      "Anfang",
-      "anmachen",
-      "anziehen",
-      "werfen",
+      "Starte",
+      "mache an",
       "finden",
       "kannst du finden",
-      "kannst du anwerfen",
-      "kannst du anfangen",
+      "kannst du starten",
       "beginne zu spielen",
-      "Uhr",
-      "Besetzung",
-      "feuern",
-      "lass uns zuschauen",
-      "spiel mir die"
+      "spiele",
+      "lass uns schauen"
     ]
   },
   {
     "value": "control",
     "synonyms": [
       "steuern",
-      "tell plex zu",
+      "Sag Plex",
       "Sag meinem Fernseher,",
       "Sende einen Befehl an",
-      "ein Signal senden an",
-      "sag Flex TV an"
+      "Sende einen Signal an",
+      "sag Flex TV"
     ]
   },
   {
     "value": "fetch",
     "synonyms": [
-      "holen",
+      "Lade herunter",
       "Ich möchte herunterladen",
       "kannst du herunterladen",
       "herunterladen",
-      "greifen",
-      "schnappen",
-      "Pirat",
+      "downloaden",
+      "download",
+      "füge hinzu",   
       "hinzufügen",
-      "Haken"
     ]
   },
   {
@@ -55,15 +46,14 @@
       "Spieler",
       "Spieler wechseln",
       "Player auswählen",
-      "Wechselspieler",
+      "Player wechseln",
       "Spieler auswählen",
-      "Spieler auswählen",
-      "Swap-Spieler",
       "Gerät wechseln",
-      "Spieler wechseln",
-      "Spieler wechseln",
+      "Gerät auswählen",
       "Spieler tauschen",
-      "Client ändern"
+      "Spieler wechseln",
+      "Client ändern",
+      "Client wechseln"
     ]
   },
   {
@@ -73,26 +63,25 @@
       "Server wechseln",
       "Server auswählen",
       "Server ändern",
-      "Server auswählen",
-      "Server auswählen",
-      "Swap-Server",
-      "Quellen ändern"
+      "Quelle ändern",
+      "Quelle wechseln",
+      "Quelle auswählen"
     ]
   },
   {
     "value": "status",
     "synonyms": [
       "Status",
-      "Was läuft da gerade?",
-      "Was geht ab?",
+      "Was läuft gerade?",
       "Was spielt?",
-      "Was geht?",
+      "Was läift?",
       "Was schaue ich?",
       "Welcher Film läuft?",
-      "Welche Show ist?",
-      "Beobachte ich etwas?",
-      "Können Sie mir sagen, was dieser Film heißt?",
-      "Können Sie mir sagen, was diese Show heißt?",
+      "Welcher Film läuft gerade?",
+      "Welche Show läuft?",
+      "Wie heißt dieser Film?",
+      "Wie heißt diese Show?",
+      "Wie heißt dieses Lied?",
       "Wie heißt das?",
       "was der Name von diesem",
       "Was spielt gerade?",
@@ -110,15 +99,15 @@
       "kürzlich",
       "kürzlich hinzugefügt",
       "gerade hinzugefügt",
-      "was neues"
+      "etwas neues"
     ]
   },
   {
     "value": "ondeck",
     "synonyms": [
-      "Ondeck",
-      "Was an Deck ist",
-      "Was ist an Deck",
+      "Was kommt als nächstes?",
+      "Danach",
+      "Aktuell",
       "als nächstes"
     ]
   },
@@ -126,6 +115,8 @@
     "value": "record",
     "synonyms": [
       "Aufzeichnung",
+      "Aufnehmen",
+      "Nehme auf",
       "dvr",
       "Band",
       "Zeitplan"
@@ -138,12 +129,10 @@
       "geplant",
       "Was läuft im Fernsehen",
       "Was ist DVRed",
-      "was lüftet",
-      "was lüftet",
-      "Was ist im Fernsehen",
+      "was läuft",
+      "Was läuft im Fernsehen",
       "was zeigt sich an",
       "Was ist aufgezeichnet",
-      "dvred"
     ]
   },
   {
@@ -160,8 +149,7 @@
       "was kannst du tun",
       "Was sind deine Befehle",
       "Ich weiß nicht, was ich tun soll",
-      "Du sagst es mir",
-      "wie arbeitest du",
+      "wie funktionierst du",
       "Was soll ich sagen",
       "Tutorial"
     ]
@@ -169,7 +157,8 @@
   {
     "value": "shuffle",
     "synonyms": [
-      "Shuffle"
+      "Shuffle",
+      "Zufällig"
     ]
   }
 ]
