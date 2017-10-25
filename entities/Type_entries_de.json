@@ -3,11 +3,8 @@
     "value": "movie",
     "synonyms": [
       "Film",
-      "Film",
-      "flick",
       "DVD",
       "Blu-ray",
-      "der Film",
       "Der Film"
     ]
   },
@@ -47,7 +44,7 @@
     "value": "album",
     "synonyms": [
       "Album",
-      "Scheibe",
+      "Platte",
       "CD"
     ]
   },

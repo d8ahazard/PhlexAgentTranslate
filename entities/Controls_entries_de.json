@@ -3,16 +3,17 @@
     "value": "Resume",
     "synonyms": [
       "Fortsetzen",
-      "Anfang",
-      "Fortsetzen",
+      "Starten",
+      "Weiter",
       "Wiedergabe fortsetzen",
-      "Unpause"
+      "Abspielen"
     ]
   },
   {
     "value": "Pause",
     "synonyms": [
-      "Pause"
+      "Pause",
+	  "Pausieren"
     ]
   },
   {
@@ -20,52 +21,55 @@
     "synonyms": [
       "Wiedergabe stoppen",
       "Halt",
-      "End-Wiedergabe",
-      "Aufhören",
-      "Desistieren",
-      "Wiedergabe stoppen",
-      "halt",
-      "halt",
       "Wiedergabe beenden",
-      "aufhören",
-      "unterdrückt",
-      "schalte das aus",
+      "Aufhören",
+      "stop",
+      "hör auf",
+      "schalte aus",
       "ausschalten"
     ]
   },
   {
     "value": "Skip Forward",
     "synonyms": [
-      "Nach vorne spulen",
       "Überspringen",
       "Voraus springen",
       "Nächstes Kapitel",
       "Nächste Folge",
+      "Nächster Song",
       "Nächstes Lied",
-      "Nächster Titel"
+      "Nächster Titel",
+	  "Überspringen",
+	  "Weiterspringen"
     ]
   },
   {
     "value": "Skip Backward",
     "synonyms": [
       "Rückwärts springen",
+      "Zurück",
       "Zurückgehen",
       "Zurückspringen",
       "Vorheriges Kapitel",
       "Vorherige Episode",
       "Vorheriger Song",
       "Vorheriges Lied",
+      "Letztes Kapitel",
+      "Letzte Episode",
+      "Letzter Song",
       "Letztes Lied",
-      "Letzter Track"
+      "Letzter Titel"
     ]
   },
   {
     "value": "Seek Forward",
     "synonyms": [
+      "Nach vorne spulen",
       "Vorwärts suchen",
       "Schnell vorwärts",
       "Schritt vorwärts",
-      "Vorausschau"
+      "Weiter spulen",
+      "Vorwärts spulen"
     ]
   },
   {
@@ -74,40 +78,39 @@
       "Rückwärts suchen",
       "Zurückspulen",
       "Schritt rückwärts",
-      "Zurücktreten"
+      "Rückwärts spulen",
+	  "Nach hinten spulen"
     ]
   },
   {
     "value": "Jump To",
     "synonyms": [
       "Springen zu",
-      "Versuchen",
       "Überspringen zu",
       "Schneller Vorlauf",
-      "Zurückspulen",
-      "Geh zurück zu"
+      "Zurückspulen zu",
+      "Geh zurück zu",
+	  "Spulen zu",
+	  "Zurück gehen zu"
     ]
   },
   {
     "value": "set the volume",
     "synonyms": [
-      "Stellen Sie die Lautstärke ein",
-      "die Lautstärke einstellen",
-      "Reduzieren Sie die Lautstärke",
-      "aufdrehen",
-      "Dreh es auf",
-      "lass es runter",
-      "drehe die Lautstärke hoch",
-      "drehe die Lautstärke runter"
+      "Lautstärke einstellen",
+      "Lautstärke reduzieren",
+	  "Lautstärke erhöhen",
+	  "leiser",
+      "lauter"
     ]
   },
   {
     "value": "subtitles on",
     "synonyms": [
-      "Untertitel auf",
+      "Untertitel an",
       "Untertitel aktivieren",
       "Untertitel einschalten",
-      "die Untertitel ausschalten"
+      "Untertitel anschalten"
     ]
   },
   {
@@ -116,7 +119,7 @@
       "Untertitel aus",
       "Untertitel deaktivieren",
       "Untertitel ausschalten",
-      "die Untertitel ausschalten"
+      "Untertitel abschalten"
     ]
   }
 ]
