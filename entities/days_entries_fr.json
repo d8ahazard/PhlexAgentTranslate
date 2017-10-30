@@ -5,9 +5,9 @@
       	    "maintenant",
        	    "aujourd'hui",
             "ce soir",
-      	    "en soirée",
+      	    "en soirÃ©e",
             "plus tard",
-      	    "cet après-midi"
+      	    "cet aprÃ¨s-midi"
         ]
     },
     {
@@ -15,7 +15,7 @@
         "synonyms": [
             "demain",
             "demain soir",
-      	    "après demain"
+      	    "aprÃ¨s-demain"
         ]
     },
     {
@@ -60,13 +60,13 @@
     {
         "value": "Saturday",
         "synonyms": [
-            "samedi"
+            "Samedi"
         ]
     },
     {
         "value": "Sunday",
         "synonyms": [
-            "dimanche"
+            "Dimanche"
         ]
     }
 ]
