@@ -27,7 +27,7 @@
     "id": "7dda5ea9-8649-4803-afcc-67a712a4cc9a",
     "data": [
       {
-        "text": "changer de joueur",
+        "text": "changer de lecteur",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": true
@@ -41,7 +41,7 @@
     "id": "7f86d4d9-ee49-45fd-97ca-65fca79114bb",
     "data": [
       {
-        "text": "changer de joueur",
+        "text": "changer de lecteur",
         "userDefined": false
       }
     ],
@@ -57,7 +57,7 @@
         "userDefined": false
       },
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -81,7 +81,7 @@
     "id": "6817c9a8-48c8-4528-92e1-148657423734",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -91,7 +91,7 @@
         "userDefined": false
       },
       {
-        "text": "les meurtres ABC suivent un",
+        "text": "les meurtres ABC piste une",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -379,7 +379,7 @@
         "userDefined": false
       },
       {
-        "text": "le patron bébé",
+        "text": "Baby Boss",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -413,7 +413,7 @@
         "userDefined": false
       },
       {
-        "text": "homme de la famille",
+        "text": "Family Guy",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -447,7 +447,7 @@
         "userDefined": false
       },
       {
-        "text": "père américain",
+        "text": "American Dad",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -519,7 +519,7 @@
         "userDefined": false
       },
       {
-        "text": "Cassé",
+        "text": "Broken",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -549,7 +549,7 @@
         "userDefined": false
       },
       {
-        "text": "la",
+        "text": "l'",
         "userDefined": false
       },
       {
@@ -563,7 +563,7 @@
         "userDefined": false
       },
       {
-        "text": "Avec des dents",
+        "text": "With Teeth",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -593,7 +593,7 @@
         "userDefined": false
       },
       {
-        "text": "la",
+        "text": "l'",
         "userDefined": false
       },
       {
@@ -607,7 +607,7 @@
         "userDefined": false
       },
       {
-        "text": "La spirale descendante",
+        "text": "The Downward Spiral",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -641,7 +641,7 @@
         "userDefined": false
       },
       {
-        "text": "chant",
+        "text": "chanson",
         "alias": "type",
         "meta": "@Type",
         "userDefined": false
@@ -651,7 +651,7 @@
         "userDefined": false
       },
       {
-        "text": "La main qui nourrit",
+        "text": "The Hand That Feeds",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -685,7 +685,7 @@
         "userDefined": false
       },
       {
-        "text": "La main qui nourrit",
+        "text": "The Hand That Feeds",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -719,7 +719,7 @@
         "userDefined": false
       },
       {
-        "text": "chant",
+        "text": "chason",
         "alias": "type",
         "meta": "@Type",
         "userDefined": true
@@ -729,7 +729,7 @@
         "userDefined": false
       },
       {
-        "text": "marionnettiste",
+        "text": "master of puppets",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -763,7 +763,7 @@
         "userDefined": false
       },
       {
-        "text": "la musique",
+        "text": "des titres",
         "alias": "type",
         "meta": "@Type",
         "userDefined": false
@@ -821,7 +821,7 @@
         "userDefined": false
       },
       {
-        "text": "Héritage",
+        "text": "Legacy",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -869,7 +869,7 @@
     "id": "e6930cd6-490c-4495-bdb3-f429bf9294e0",
     "data": [
       {
-        "text": "quelle",
+        "text": "Quels",
         "userDefined": false
       },
       {
@@ -883,13 +883,13 @@
         "userDefined": false
       },
       {
-        "text": "montre",
+        "text": "épisodes",
         "alias": "type",
         "meta": "@Type",
         "userDefined": false
       },
       {
-        "text": "j\u0026#39;ai",
+        "text": "j'ai",
         "userDefined": false
       }
     ],
@@ -901,13 +901,13 @@
     "id": "6cb4764e-c78f-4fbe-a53a-dd29b48c1ad5",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
       },
       {
-        "text": "la",
+        "text": "l'",
         "userDefined": false
       },
       {
@@ -935,7 +935,7 @@
     "id": "475e0509-6068-4ec1-88de-e43c05538887",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -958,7 +958,7 @@
     "id": "435505ab-978f-43fd-a0ae-8efff4cc46d7",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -996,7 +996,7 @@
     "id": "806e1f99-b88d-4d76-9033-a425adbadf51",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1076,7 +1076,7 @@
     "id": "a12b96d3-cedb-48d4-8361-235ffa051b4f",
     "data": [
       {
-        "text": "allumer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": true
@@ -1104,7 +1104,7 @@
         "userDefined": false
       },
       {
-        "text": "Menace de mort",
+        "text": "Death Note",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -1128,7 +1128,7 @@
     "id": "0536fbac-73be-4c46-9eb8-8b1e7902b2b4",
     "data": [
       {
-        "text": "demande Flex TV Je veux",
+        "text": "demande à Flex TV de",
         "userDefined": false
       },
       {
@@ -1138,11 +1138,11 @@
         "userDefined": false
       },
       {
-        "text": "la",
+        "text": "les",
         "userDefined": false
       },
       {
-        "text": "les passagers",
+        "text": "passagers",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1156,7 +1156,7 @@
     "id": "61915efd-1ebb-48fc-82d4-0ac306da5923",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1166,7 +1166,7 @@
         "userDefined": false
       },
       {
-        "text": "Bernie sur Heimdall",
+        "text": "Bernie on Heimdall",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1180,7 +1180,7 @@
     "id": "af6eb9c1-0355-4182-80c0-3df53d090434",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1190,7 +1190,7 @@
         "userDefined": false
       },
       {
-        "text": "La marche des morts",
+        "text": "Walking Dead",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1214,7 +1214,7 @@
     "id": "54a4d7f3-6c6c-4d8f-a4d4-d7ad1ee091dc",
     "data": [
       {
-        "text": "éteins le",
+        "text": "arrête la",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": true
@@ -1224,7 +1224,7 @@
         "userDefined": false
       },
       {
-        "text": "montrer",
+        "text": "série",
         "alias": "type",
         "meta": "@Type",
         "userDefined": false
@@ -1238,7 +1238,7 @@
     "id": "d245f067-0b03-4a27-af9d-058690464b12",
     "data": [
       {
-        "text": "éteindre le film",
+        "text": "arrêter le film",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": true
@@ -1266,17 +1266,17 @@
     "id": "d4b80d5a-2fab-405f-936a-8a4f40b4ffd4",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
       },
       {
-        "text": " ",
+        "text": "un film",
         "userDefined": false
       },
       {
-        "text": "un Aaron Johnson",
+        "text": "de Aaron Johnson",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -1300,7 +1300,7 @@
     "id": "62919d26-19ff-4c7f-8b04-7c64c0c24f80",
     "data": [
       {
-        "text": "ce qui se joue",
+        "text": "ce qui est diffusé",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": true
@@ -1314,7 +1314,7 @@
     "id": "dddbf95c-14af-4eb5-9e46-44111be207fd",
     "data": [
       {
-        "text": "`télécharger",
+        "text": "télécharger",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1348,7 +1348,7 @@
         "userDefined": false
       },
       {
-        "text": "Star Wars la Force se réveille",
+        "text": "Star Wars Le réveil de la Force",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1440,7 +1440,7 @@
         "userDefined": false
       },
       {
-        "text": "Maison des cartes",
+        "text": "House of Cards",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1464,7 +1464,7 @@
         "userDefined": false
       },
       {
-        "text": "choses étrangères",
+        "text": "Stranger Things",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -1478,7 +1478,7 @@
     "id": "276b9a55-db14-451d-9580-895b847040a0",
     "data": [
       {
-        "text": "Quoi de neuf",
+        "text": "Nouveaux",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1498,7 +1498,7 @@
         "userDefined": false
       },
       {
-        "text": "ont été téléchargés",
+        "text": "qui ont été téléchargés",
         "meta": "@sys.ignore",
         "userDefined": false
       }
@@ -1511,7 +1511,7 @@
     "id": "369663c2-f306-4b02-82e1-27f55cd62fa3",
     "data": [
       {
-        "text": "Quoi de neuf",
+        "text": "Nouveaux",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1527,7 +1527,7 @@
         "userDefined": false
       },
       {
-        "text": "ont été ajoutés récemment",
+        "text": "ajoutés récemment",
         "userDefined": false
       }
     ],
@@ -1549,7 +1549,7 @@
         "userDefined": false
       },
       {
-        "text": "Moi méprisable 3",
+        "text": "Moi moche et méchant 3",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -1582,7 +1582,7 @@
         "userDefined": false
       },
       {
-        "text": "le dernier épisode de Grey\u0026#39;s Anatomy",
+        "text": "le dernier épisode de Grey's Anatomy",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -1602,7 +1602,7 @@
         "userDefined": false
       },
       {
-        "text": "en jouant",
+        "text": "la lecture",
         "userDefined": false
       }
     ],
@@ -1648,7 +1648,7 @@
         "userDefined": false
       },
       {
-        "text": "Club de combat",
+        "text": "Fight Club",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1686,10 +1686,6 @@
     "id": "dc89f1a7-9824-47e7-b20b-897792bcbf8b",
     "data": [
       {
-        "text": "à",
-        "userDefined": false
-      },
-      {
         "text": "regarder",
         "alias": "action",
         "meta": "@Triggers",
@@ -1700,7 +1696,7 @@
         "userDefined": false
       },
       {
-        "text": "le dernier Grey\u0026#39;s Anatomy",
+        "text": "le dernier Grey's Anatomy",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1714,7 +1710,7 @@
     "id": "f9f7dff6-6c59-49db-ac43-cbdc369e3ca0",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1724,7 +1720,7 @@
         "userDefined": false
       },
       {
-        "text": "Flèche",
+        "text": "Arrow",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1738,7 +1734,7 @@
     "id": "652b4273-8d87-4bdd-ab95-4154d7af49aa",
     "data": [
       {
-        "text": "Quoi de neuf",
+        "text": "Nouveaux",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1754,7 +1750,7 @@
         "userDefined": false
       },
       {
-        "text": "j\u0026#39;ai",
+        "text": "que j'ai",
         "userDefined": false
       }
     ],
@@ -1794,7 +1790,7 @@
     "id": "309becff-5db8-4469-8758-d0f95620b0f6",
     "data": [
       {
-        "text": "pause",
+        "text": "met en pause",
         "alias": "Controls",
         "meta": "@Controls",
         "userDefined": false
@@ -1804,7 +1800,7 @@
         "userDefined": false
       },
       {
-        "text": "montrer",
+        "text": "série",
         "alias": "type",
         "meta": "@Type",
         "userDefined": false
@@ -1818,7 +1814,7 @@
     "id": "4879a1aa-9700-401d-8ba2-2ee3675deb49",
     "data": [
       {
-        "text": "pause",
+        "text": "met en pause pause",
         "alias": "Controls",
         "meta": "@Controls",
         "userDefined": false
@@ -1828,7 +1824,7 @@
         "userDefined": false
       },
       {
-        "text": "le spectacle",
+        "text": "l'émission",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -1842,7 +1838,7 @@
     "id": "166c842c-a8be-489a-9185-cb2efe60645e",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1866,7 +1862,7 @@
     "id": "73f57c09-53cc-4776-93e0-91b491bd58cc",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1890,7 +1886,7 @@
     "id": "74775edf-dad0-41e1-b084-f4d1e693ce75",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -1936,7 +1932,7 @@
         "userDefined": false
       },
       {
-        "text": "La marche des morts",
+        "text": "Walking Dead",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -1950,7 +1946,7 @@
     "id": "4ff7d24e-7be3-4b03-9bb5-34bec8fbc92d",
     "data": [
       {
-        "text": "à",
+        "text": "",
         "userDefined": false
       },
       {
@@ -1964,7 +1960,7 @@
         "userDefined": false
       },
       {
-        "text": "ballerine",
+        "text": "Ballerina",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -1987,7 +1983,7 @@
     "id": "712cd133-d7ab-46b8-bca9-8a72f5c31e3a",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2025,11 +2021,11 @@
     "id": "50497b2b-7a9c-4bca-a188-a45b31fab829",
     "data": [
       {
-        "text": "si je",
+        "text": "Ais-je",
         "userDefined": false
       },
       {
-        "text": "avoir de nouvelles",
+        "text": "de nouveaux",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2053,11 +2049,11 @@
     "id": "12e0f0d8-4083-4e79-8b50-a96588877a8f",
     "data": [
       {
-        "text": "si je",
+        "text": "ais-je",
         "userDefined": false
       },
       {
-        "text": "avoir de nouvelles",
+        "text": "de nouvelles",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2067,7 +2063,7 @@
         "userDefined": false
       },
       {
-        "text": "montre",
+        "text": "séries",
         "alias": "type",
         "meta": "@Type",
         "userDefined": false
@@ -2091,7 +2087,7 @@
         "userDefined": false
       },
       {
-        "text": "montrer",
+        "text": "série",
         "alias": "type",
         "meta": "@Type",
         "userDefined": false
@@ -2109,7 +2105,7 @@
     "id": "976dff74-3f4e-47b8-84e0-6f7cc780e1ed",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2133,7 +2129,7 @@
     "id": "79eb1f72-1c7e-441d-9dd9-54c70e14a66d",
     "data": [
       {
-        "text": "dire au cinéma",
+        "text": "Dis à Plex",
         "userDefined": false
       },
       {
@@ -2147,7 +2143,7 @@
         "userDefined": false
       },
       {
-        "text": "le dernier épisode de tabou",
+        "text": "le dernier épisode de taboo",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2189,7 +2185,7 @@
     "id": "f4a218d5-8647-4e93-95ed-3e8af62a535f",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": true
@@ -2199,7 +2195,7 @@
         "userDefined": false
       },
       {
-        "text": "Batman commence",
+        "text": "Batman Begins",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -2217,7 +2213,7 @@
         "userDefined": false
       },
       {
-        "text": "les passagers",
+        "text": "The passengers",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -2241,7 +2237,7 @@
         "userDefined": false
       },
       {
-        "text": "homme chauve-souris",
+        "text": "Batman",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2265,7 +2261,7 @@
         "userDefined": false
       },
       {
-        "text": "le spectacle Humains",
+        "text": "la série Humans",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2279,7 +2275,7 @@
     "id": "657c30f5-4c07-42bf-9e06-3922be6871da",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2289,7 +2285,7 @@
         "userDefined": false
       },
       {
-        "text": "Congelé",
+        "text": "La reine des neiges",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2313,7 +2309,7 @@
         "userDefined": false
       },
       {
-        "text": "les passagers",
+        "text": "The Passengers",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2337,7 +2333,7 @@
         "userDefined": false
       },
       {
-        "text": "Passagers",
+        "text": "Passengers",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2409,7 +2405,7 @@
         "userDefined": false
       },
       {
-        "text": "le début de Frozen",
+        "text": "le début de la reine des neiges",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2457,7 +2453,7 @@
         "userDefined": false
       },
       {
-        "text": "Batman commence",
+        "text": "Batman Begins",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -2495,7 +2491,7 @@
     "id": "a362ab81-4ad4-4501-b314-31d0c1ae0f85",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2505,7 +2501,7 @@
         "userDefined": false
       },
       {
-        "text": "Tabou",
+        "text": "Taboo",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -2519,7 +2515,7 @@
     "id": "3d2d84ca-99e0-43c2-859c-de4318f39401",
     "data": [
       {
-        "text": "allumer tabou",
+        "text": "lire taboo",
         "userDefined": false
       }
     ],
@@ -2531,7 +2527,7 @@
     "id": "a256d876-cbed-40bf-9525-bd217084fe54",
     "data": [
       {
-        "text": "CV",
+        "text": "Reprendre",
         "alias": "Controls",
         "meta": "@Controls",
         "userDefined": false
@@ -2559,7 +2555,7 @@
     "id": "e08935ee-2a7f-4872-87d6-de84066c46ae",
     "data": [
       {
-        "text": "Arrêtez",
+        "text": "Arrêter",
         "alias": "Controls",
         "meta": "@Controls",
         "userDefined": true
@@ -2573,7 +2569,7 @@
     "id": "16d38572-444a-4845-a52c-6f716940d460",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2583,7 +2579,7 @@
         "userDefined": false
       },
       {
-        "text": "chasseurs de fantômes",
+        "text": "Ghostbusters",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -2597,7 +2593,7 @@
     "id": "f632b1f8-3e42-4cfe-87f0-1b102493d4d1",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2607,7 +2603,7 @@
         "userDefined": false
       },
       {
-        "text": "Moi devant toi",
+        "text": "Moi avant toi",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2621,7 +2617,7 @@
     "id": "9498c51d-9e13-4c1b-b3bc-e1baffc988f2",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "Controls",
         "meta": "@Controls",
         "userDefined": false
@@ -2631,7 +2627,7 @@
         "userDefined": false
       },
       {
-        "text": "emporté par le vent",
+        "text": "Gone with the wind",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2645,7 +2641,7 @@
     "id": "73d8b8be-85b7-45b2-b1cf-3e3c732ecb49",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "Controls",
         "meta": "@Controls",
         "userDefined": false
@@ -2655,7 +2651,7 @@
         "userDefined": false
       },
       {
-        "text": "Batman commence",
+        "text": "Batman begins",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": false
@@ -2727,7 +2723,7 @@
         "userDefined": false
       },
       {
-        "text": "capitaine Amérique",
+        "text": "Captain America",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -2789,7 +2785,7 @@
     "id": "c2562740-2c83-48b2-986f-98205d5da6b1",
     "data": [
       {
-        "text": "Pouvez-vous jouer",
+        "text": "Peux-tu lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": true
@@ -2817,7 +2813,7 @@
     "id": "9de758a9-161e-4f0e-9191-73f23c1c18e7",
     "data": [
       {
-        "text": "jouer",
+        "text": "lire",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
@@ -2841,13 +2837,13 @@
     "id": "8440a9a9-dc86-448a-a97d-797b1e276c4b",
     "data": [
       {
-        "text": "dites plex à",
+        "text": "dis à plex",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
       },
       {
-        "text": " ",
+        "text": " de ",
         "userDefined": false
       },
       {
@@ -2865,17 +2861,17 @@
     "id": "91164b42-a86a-4da4-aa21-25234a6f9a63",
     "data": [
       {
-        "text": "Dites plex à",
+        "text": "Dis à plex",
         "alias": "action",
         "meta": "@Triggers",
         "userDefined": false
       },
       {
-        "text": " ",
+        "text": "de",
         "userDefined": false
       },
       {
-        "text": "pause",
+        "text": "mettre en pause",
         "alias": "Controls",
         "meta": "@Controls",
         "userDefined": false
@@ -2932,7 +2928,7 @@
         "userDefined": false
       },
       {
-        "text": "chasseurs de fantômes",
+        "text": "Ghostbusters",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -2980,7 +2976,7 @@
         "userDefined": false
       },
       {
-        "text": "saison 1 épisode 2 de jeu de trônes",
+        "text": "saison 1 épisode 2 de Games of Thrones",
         "alias": "command",
         "meta": "@sys.any",
         "userDefined": true
@@ -3000,7 +2996,7 @@
         "userDefined": false
       },
       {
-        "text": "une",
+        "text": "un",
         "userDefined": false
       },
       {
