@@ -115,7 +115,7 @@
     "id": "1af72f14-db0b-4a09-bbd7-c7ab5efc8ce6",
     "data": [
       {
-        "text": "Bouclier android tv",
+        "text": "Shield Android TV",
         "alias": "player",
         "meta": "@sys.any",
         "userDefined": true
@@ -157,7 +157,7 @@
     "id": "be9e5b51-ad15-4c92-8a45-b45904b9e429",
     "data": [
       {
-        "text": "Bouclier Android TV",
+        "text": "Shield Android TV",
         "alias": "player",
         "meta": "@sys.any",
         "userDefined": true

@@ -3,25 +3,26 @@
         "value": "yes",
         "synonyms": [
             "Oui",
-      "ouais",
-      "certainement",
-      "fais le s'il-te-plait",
-      "oui, s'il-te-plait",
+            "ouais",
+            "certainement",
+            "fais le s'il-te-plait",
+            "oui, s'il-te-plait",
             "Oui",
-            "tu parles",
-      "ouep"
+            "ouep",
+            "allons-y",
+            "c'est parti"
         ]
     },
     {
         "value": "no",
         "synonyms": [
             "non",
-      "non, merci",
+            "non, merci",
             "pas vraiment",
-      "en aucune fa�on",
+            "en aucune façon",
             "Non.",
-      	    "nope",
-            "jamais"
+            "nope",
+            "Non ça va"
         ]
     }
 ]

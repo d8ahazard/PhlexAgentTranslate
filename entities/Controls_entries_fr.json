@@ -2,86 +2,74 @@
   {
     "value": "Resume",
     "synonyms": [
-      "CV",
-      "Début",
+      "Reprendre",
+      "Lecture",
       "Continuer",
       "Reprendre la lecture",
-      "Unpause"
+      "Play"
     ]
   },
   {
     "value": "Pause",
     "synonyms": [
-      "Pause"
+      "Pause",
+      "Mettre en pause"
     ]
   },
   {
     "value": "Stop",
     "synonyms": [
       "Arrêter la lecture",
-      "arrêt",
-      "Lecture finale",
-      "Cesser",
-      "Cesser",
-      "arrête la lecture",
-      "juste",
-      "Arrêtez",
-      "terminer la lecture",
-      "cesser",
-      "cesser",
-      "éteindre",
-      "éteins le"
+      "Arrêt",
+      "Stop"
     ]
   },
   {
     "value": "Skip Forward",
     "synonyms": [
-      "Sauter en avant",
-      "Passe devant",
-      "Sauter en avant",
+      "Suivant",
+      "Vidéo suivante",
+      "épisode suivant",
       "Chapitre suivant",
-      "L\u0026#39;épisode suivant",
-      "Prochaine chanson",
+      "Chanson suivante",
+      "Musique suivante",
       "Piste suivante"
     ]
   },
   {
     "value": "Skip Backward",
     "synonyms": [
-      "Passer en arrière",
-      "Skip Back",
-      "Revenir en arrière",
+      "Précédent",
+      "Vidéo précédente",
+      "épisode précédent",
       "Chapitre précédent",
-      "Épisode précédent",
       "Chanson précédente",
-      "Piste précédente",
-      "Dernière chanson",
-      "Dernière piste"
+      "Musique précédente",
+      "Piste précédente"
     ]
   },
   {
     "value": "Seek Forward",
     "synonyms": [
-      "Chercher vers l\u0026#39;avant",
       "Avance rapide",
       "Avancer",
-      "Chercher en avant"
+      "Avance"
     ]
   },
   {
     "value": "Seek Backward",
     "synonyms": [
-      "Rechercher en arrière",
-      "Rembobiner",
       "Reculer",
-      "Reculer"
+      "Recule",
+      "Retour rapide",
+      "Retour"
     ]
   },
   {
     "value": "Jump To",
     "synonyms": [
       "Sauter à",
-      "Chercher à",
+      "Aller à",
       "Passer",
       "Avance rapide vers",
       "Rembobinage",
@@ -95,8 +83,6 @@
       "ajuster le volume",
       "baissez le volume",
       "augmenter le volume",
-      "l\u0026#39;augmenter",
-      "baissez-le",
       "augmente le volume",
       "Baisse le volume"
     ]
@@ -104,18 +90,14 @@
   {
     "value": "subtitles on",
     "synonyms": [
-      "sous-titres",
-      "activer les sous-titres",
-      "activer les sous-titres",
-      "désactiver les sous-titres"
+      "sous-titres activés",
+      "activer les sous-titres"
     ]
   },
   {
     "value": "subtitles off",
     "synonyms": [
       "sous-titres désactivés",
-      "désactiver les sous-titres",
-      "désactiver les sous-titres",
       "désactiver les sous-titres"
     ]
   }
