@@ -1,89 +1,11 @@
 [
   {
-    "id": "4bfa417c-9617-4355-a502-292a6ba6d4da",
-    "data": [
-      {
-        "text": "shuffle",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the americans",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1501173766
-  },
-  {
-    "id": "682e632e-9fcc-43e6-8204-d5e66a349037",
-    "data": [
-      {
-        "text": "switch players",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 1498676741
-  },
-  {
-    "id": "a2729280-7159-4d00-9f6a-12dcd50cbfc9",
-    "data": [
-      {
-        "text": "switch players",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1498676318
-  },
-  {
-    "id": "dab719cc-c436-4742-a13f-2d73eb7e7890",
-    "data": [
-      {
-        "text": "okay Google ",
-        "userDefined": false
-      },
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Ancient Aliens latest episode",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1498675780
-  },
-  {
-    "id": "76f844ec-3e5a-4b24-899b-bb0592d34265",
+    "id": "75f75cc1-d249-48d2-bb2a-1ef3f68e180e",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
@@ -91,165 +13,57 @@
         "userDefined": false
       },
       {
-        "text": "the ABC murders track one",
-        "alias": "command",
+        "text": "fast five",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c4d0e5c-7077-4fc3-a777-1d585c4c589a",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "humans",
+        "alias": "request",
         "meta": "@sys.any",
         "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1498052058
-  },
-  {
-    "id": "8b6522fb-3862-4b2b-b508-e0cd65de66d5",
-    "data": [
+      },
       {
-        "text": "what \u0027 s ",
+        "text": " the ",
         "userDefined": false
       },
       {
-        "text": "dvred",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " on ",
-        "userDefined": false
-      },
-      {
-        "text": "Friday",
-        "alias": "days",
-        "meta": "@days",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1496695894
-  },
-  {
-    "id": "5aa91758-287c-4dab-8c1f-d9f1a73e6f4b",
-    "data": [
-      {
-        "text": "what \u0027 s dvred",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "this weekend",
-        "alias": "days",
-        "meta": "@days",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1496695790
-  },
-  {
-    "id": "07c7c890-42a7-4c1c-a6d7-d16a22850f2a",
-    "data": [
-      {
-        "text": "what \u0027 s recorded",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "this weekend",
-        "alias": "days",
-        "meta": "@days",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1496695784
-  },
-  {
-    "id": "1c98b35b-c3c6-4d68-b591-4559ce3082fa",
-    "data": [
-      {
-        "text": "what \u0027 s on tv",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " on ",
-        "userDefined": false
-      },
-      {
-        "text": "Wednesday",
-        "alias": "days",
-        "meta": "@days",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1496693130
-  },
-  {
-    "id": "7e1f9aaf-12f0-4cae-9c69-5fa39c058b44",
-    "data": [
-      {
-        "text": "What ",
-        "userDefined": false
-      },
-      {
-        "text": "scheduled",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "shows",
+        "text": "show",
         "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " are on ",
-        "userDefined": false
-      },
-      {
-        "text": "this weekend",
-        "alias": "days",
-        "meta": "@days",
-        "userDefined": false
-      },
-      {
-        "text": "?",
-        "userDefined": false
+        "meta": "@mediaTypes",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
-    "count": 1,
-    "updated": 1496693130
+    "count": 0,
+    "updated": 0
   },
   {
-    "id": "89ba96fe-cfbd-4a13-933a-d850a7b1801f",
+    "id": "2c425af5-28bd-438d-bdcd-f4d30f6a39bd",
     "data": [
       {
-        "text": "what\u0027s on TV",
-        "alias": "action",
-        "meta": "@Triggers",
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
@@ -257,27 +71,135 @@
         "userDefined": false
       },
       {
-        "text": "tonight",
-        "alias": "days",
-        "meta": "@days",
+        "text": "Westworld",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "bedroom TV",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db0e68a6-0bc8-4a2f-802e-64dd8d0d6b5f",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Black Betty",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Mountain",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "af36534d-0121-46e5-86f6-0f69ff89864c",
+    "data": [
+      {
+        "text": "fetch",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": true
       },
       {
-        "text": "?",
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Avengers: Age Of Ultron",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "cb6c2454-6aaa-4bfc-b1c2-c188d5c31f94",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eminem",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "album",
+        "alias": "type",
+        "meta": "@mediaTypes",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1496687285
+    "updated": 1520546039
   },
   {
-    "id": "4badac4d-bd5f-454d-8987-38e9c9900e55",
+    "id": "ba1ea155-3816-4dff-95b8-64b953cc23da",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
@@ -285,39 +207,251 @@
         "userDefined": false
       },
       {
-        "text": "Jersey Shore",
-        "alias": "command",
+        "text": "DJ Khaled",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " on my ",
+        "userDefined": false
+      },
+      {
+        "text": "family room speaker",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "6770dd68-8707-410e-8349-93b83f49d194",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Family Guy",
+        "alias": "request",
         "meta": "@sys.any",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1496191152
+    "updated": 1520546039
   },
   {
-    "id": "40953dc4-a06f-4277-921e-41a1b18ab4ca",
+    "id": "42bea8b9-48c6-4406-886b-bc40df0b7f03",
     "data": [
       {
-        "text": "select a ",
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
-        "text": "server",
-        "alias": "action",
-        "meta": "@Triggers",
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "song",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nothing Compares 2 U",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Chris Cornell",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1495163001
+    "updated": 1520546039
   },
   {
-    "id": "084b6dfc-b3d7-4506-a2d5-7c3b2bfc990a",
+    "id": "c4fa482f-ef52-411e-927c-8dcd1143a528",
     "data": [
       {
-        "text": "de",
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "show",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Krypton",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88e69716-985c-4fbd-89ca-d458614c76ad",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "batman",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "begins",
+        "alias": "year",
+        "meta": "@sys.age",
+        "userDefined": false
+      },
+      {
+        "text": " in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Sewing Room",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d0389a5-d9bd-4a1d-bec3-af0b1047c5e2",
+    "data": [
+      {
+        "text": "Play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "The Office",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab9de73f-d62c-4b8e-8109-8e66cff4fb97",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Bill",
         "alias": "given-name",
         "meta": "@sys.given-name",
         "userDefined": false
@@ -327,959 +461,10 @@
         "userDefined": false
       },
       {
-        "text": "stop playback",
-        "alias": "Controls",
-        "meta": "@Controls",
+        "text": "Murray",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
         "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1495162943
-  },
-  {
-    "id": "728e0374-d173-4738-826e-d0795ab99851",
-    "data": [
-      {
-        "text": "ask Flex TV to ",
-        "userDefined": false
-      },
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Gotham",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1495162884
-  },
-  {
-    "id": "d437ebd6-3950-40b5-97bd-e61083da9cbd",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the boss baby",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1495162840
-  },
-  {
-    "id": "7935fefd-448a-486c-a869-577a8d3dc764",
-    "data": [
-      {
-        "text": "fetch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the show",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "family guy",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "0a67cd5e-d843-458a-b1b9-909c3f30aca5",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the show",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "American Dad",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "444ef5df-4588-4e3a-bae1-4946f443a25a",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the show",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "punky brewster",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "3b8ff222-9c1d-4628-a92e-3e4ebafaef15",
-    "data": [
-      {
-        "text": "change sources",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "403c4bae-76f7-4e52-a4e6-f869a70c3707",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Broken",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " by ",
-        "userDefined": false
-      },
-      {
-        "text": "Nine Inch Nails",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "39129eee-8590-4c70-b4b5-069624f70ca0",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " the ",
-        "userDefined": false
-      },
-      {
-        "text": "album",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "With Teeth",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " by ",
-        "userDefined": false
-      },
-      {
-        "text": "Nine Inch Nails",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f63c4308-a8aa-4ad0-b4c1-7dd2bfc23c53",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " the ",
-        "userDefined": false
-      },
-      {
-        "text": "album",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "The Downward Spiral",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " by ",
-        "userDefined": false
-      },
-      {
-        "text": "Nine Inch Nails",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "94d3773b-e1a8-4f8c-ad29-5f8646170c21",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " the ",
-        "userDefined": false
-      },
-      {
-        "text": "song",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "The Hand That Feeds",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " by ",
-        "userDefined": false
-      },
-      {
-        "text": "Nine Inch Nails",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4c90f262-9914-405e-b28a-ef25c1b0afce",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "The Hand That Feeds",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " by ",
-        "userDefined": false
-      },
-      {
-        "text": "Nine Inch Nails",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "725182a6-48cc-4d00-9c00-7734d6243c3b",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " the ",
-        "userDefined": false
-      },
-      {
-        "text": "song",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "master of puppets",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " by ",
-        "userDefined": false
-      },
-      {
-        "text": "metallica",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "ac6acfbe-1315-45a7-84bf-a0816c7da70e",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "music",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " like ",
-        "userDefined": false
-      },
-      {
-        "text": "Eminem",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "a59f68ff-978e-4f69-b4a3-7ebe56b49cae",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Eminem",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "16748e32-2e4e-4227-a712-93036ec85d37",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Legacy",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " by ",
-        "userDefined": false
-      },
-      {
-        "text": "Eminem",
-        "alias": "artist",
-        "meta": "@sys.music-artist",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "04fdb481-8f31-4de7-87b6-5695f7769eb3",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Atlanta",
-        "alias": "geo-city",
-        "meta": "@sys.geo-city",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4e64cebb-0366-4a53-8eaa-bc2ddfd954d0",
-    "data": [
-      {
-        "text": "what ",
-        "userDefined": false
-      },
-      {
-        "text": "upcoming",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "shows",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " I have",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "d13e8a02-c78d-4285-af68-aff462efb342",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " the ",
-        "userDefined": false
-      },
-      {
-        "text": "television show",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      },
-      {
-        "text": " named ",
-        "userDefined": false
-      },
-      {
-        "text": "The Ranch 2017",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4c227cb5-0c4e-4897-bf56-fbcf94c53b11",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Harry Potter",
-        "meta": "@sys.ignore",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "d1277052-a4f5-4ee8-8f9c-5908e77e47ce",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the latest episode of The Flash",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "d818342d-4a17-46aa-9d4d-71dad1b8ce0d",
-    "data": [
-      {
-        "text": "stop playback",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "f6dbf24a-b119-4d89-b324-7c99b6ff85e6",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Modern Family",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "835e35ba-7e95-478f-bc1b-40112a84bfeb",
-    "data": [
-      {
-        "text": "pause",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      },
-      {
-        "text": " playback",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "b950d069-9bd1-4c12-9e66-429375161a03",
-    "data": [
-      {
-        "text": "what \u0027 s currently playing",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "6a17b523-4e88-48e8-ada7-cd0c8af9d785",
-    "data": [
-      {
-        "text": "rewind",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "1 minute",
-        "alias": "time",
-        "meta": "@sys.time",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "756beb68-0672-45f1-a1f3-83a76e4bb0e8",
-    "data": [
-      {
-        "text": "fire up",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "a comedy",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f24b0e09-7c80-43c3-9b48-35b60be5413c",
-    "data": [
-      {
-        "text": "add ",
-        "userDefined": false
-      },
-      {
-        "text": "Death Note",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      },
-      {
-        "text": " to ",
-        "userDefined": false
-      },
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "97736af9-5509-42e3-ae0c-31e1ffba58e4",
-    "data": [
-      {
-        "text": "ask Flex TV I want to ",
-        "userDefined": false
-      },
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " the ",
-        "userDefined": false
-      },
-      {
-        "text": "passengers",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "3dde1a0a-f3cb-45b1-92c7-1755933252e6",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Bernie on Heimdall",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "e4b69ba0-dfcd-46ef-8637-a2c3d8160848",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "The Walking Dead",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " on ",
-        "userDefined": false
-      },
-      {
-        "text": "TV",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "70f330f5-3cad-4016-847f-8559a658821a",
-    "data": [
-      {
-        "text": "turn off the",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "show",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "fcf5d372-ac71-4368-adf1-403ca1f19b6c",
-    "data": [
-      {
-        "text": "turn off the movie",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f31df101-430c-4a79-9140-4232f055a426",
-    "data": [
-      {
-        "text": "turn off the fucking movie",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "fe4990d9-637b-4f89-8a3f-d60b4cd00631",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "an Aaron Johnson",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
       },
       {
         "text": " ",
@@ -1288,293 +473,31 @@
       {
         "text": "movie",
         "alias": "type",
-        "meta": "@Type",
+        "meta": "@mediaTypes",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "11e33e11-265c-4039-91bf-f64ea1dbcc7a",
-    "data": [
-      {
-        "text": "what \u0027 s playing",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "438ebbd4-f71c-4701-9d5a-9e3654df2579",
-    "data": [
-      {
-        "text": "`download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the Lego Batman movie",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f28a1c53-4d79-4afa-9713-c1d63200e108",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Star Wars the Force awakens",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "ebf8e016-f888-4f0f-9fb7-2b60e45fd6f6",
-    "data": [
-      {
-        "text": "add",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Westworld",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "TV shows",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "ecc8197e-9b28-405e-8400-989174d55682",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Westworld",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "TV show",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "fa1f73e2-fc84-4f32-8428-cf536a93c8a0",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "House of Cards",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "37dfa497-c3fb-42e6-b859-6aadc612be54",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "stranger things",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f3304361-168a-440c-b582-fc7614871355",
-    "data": [
-      {
-        "text": "what new",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "movies",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "have been downloaded",
-        "meta": "@sys.ignore",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "031686bc-803b-4887-bc86-600bc5b245a0",
-    "data": [
-      {
-        "text": "what new",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "movies",
-        "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      },
-      {
-        "text": " have been recently added",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "94eda735-50ad-4e73-bd22-2282e7058aba",
-    "data": [
-      {
-        "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Despicable Me 3",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "2017",
-        "meta": "@sys.ignore",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "66cd4516-1da7-44be-8b1c-ddaf01587a23",
+    "id": "1cbb9b7c-21c3-4236-a29f-92d1f902e151",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "The ABC Murders",
+        "alias": "request",
+        "meta": "@sys.any",
         "userDefined": true
       },
       {
@@ -1582,221 +505,437 @@
         "userDefined": false
       },
       {
-        "text": "the latest episode of Grey\u0027s Anatomy",
-        "alias": "command",
+        "text": "track",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "71900e2e-7879-4da8-a5cb-25e009041821",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ant-Man",
+        "alias": "request",
         "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Living Room TV",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "b464cd62-a264-41b1-9f3c-980383969bc2",
+    "data": [
+      {
+        "text": "Play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Alice",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ec48143-d0cd-4757-bddd-b58d4ab0006c",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the newest",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Desperate Housewives",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "db580f55-f988-4265-8f61-bda561e7edf8",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ghostbusters",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1984",
+        "alias": "year",
+        "meta": "@sys.age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "04d3d1eb-aecf-4018-a9f3-2cbb7684a705",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "album",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ride the Lightning",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Metallica",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "d06f23d9-cea6-4095-9fe7-db3328af27d8",
+    "data": [
+      {
+        "text": "I want to watch",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Bill",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Murray",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "4e895662-6367-404b-9673-a47dcab9ef7e",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "album",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Catharsis",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "Machine Head",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53cc60bb-7213-4296-8ab6-093b92656e4b",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ballerina",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "living room TV",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ad64ca84-b4b5-4c72-9585-e2a85be75540",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "law and order",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "5a57cb3d-0026-47e4-b965-894ada360666",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "type",
+        "meta": "@mediaTypes",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 1,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "57d0e0dd-1931-48e4-9da9-4acf35176c67",
+    "id": "6e91c820-e49f-41c7-94c5-681616bd783b",
     "data": [
       {
-        "text": "continue",
-        "alias": "Controls",
-        "meta": "@Controls",
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
-        "text": " playing",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4445cd5a-0f70-4395-b7a5-42305a0ae71f",
-    "data": [
-      {
-        "text": "fetch",
-        "alias": "action",
-        "meta": "@Triggers",
+        "text": " the ",
         "userDefined": false
       },
       {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "John Wick 2",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "6f44e8cd-9154-4107-a287-c88877008965",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Fight Club",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "2ab47aa5-f78a-4d0a-8db6-8b945cf11473",
-    "data": [
-      {
-        "text": "watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the latest designated Survivor",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4e016b87-3f74-4642-a6c0-d8152e96c62f",
-    "data": [
-      {
-        "text": "to ",
-        "userDefined": false
-      },
-      {
-        "text": "watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the latest Grey\u0027s Anatomy",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "b4d46843-5316-44e6-a30c-7b6efbd9da4d",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Arrow",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "6a805a85-26cc-4356-a0b5-e7afca1f4645",
-    "data": [
-      {
-        "text": "what new",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "movies",
+        "text": "movie",
         "alias": "type",
-        "meta": "@Type",
+        "meta": "@mediaTypes",
         "userDefined": false
       },
       {
-        "text": " I have",
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Passengers",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2006",
+        "alias": "year",
+        "meta": "@sys.age",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "00f9c9f9-189d-454b-8bea-6cd539a0aacd",
+    "id": "0f481b5c-46cc-459f-8d64-7a8a82638a79",
     "data": [
       {
-        "text": "what \u0027 s new",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "c921b925-88aa-4cb6-82af-7bf4ab6af95f",
-    "data": [
-      {
-        "text": "turn up the volume",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "6f50a27c-0e71-482b-b48a-375a79eb2de6",
-    "data": [
-      {
-        "text": "pause",
-        "alias": "Controls",
-        "meta": "@Controls",
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
@@ -1806,35 +945,7 @@
       {
         "text": "show",
         "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "a21c1768-ded9-4b47-a9a7-09b605f274af",
-    "data": [
-      {
-        "text": "what is currently playing",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "96e503bd-8fe1-443a-912e-9044e2e7db73",
-    "data": [
-      {
-        "text": "pause",
-        "alias": "Controls",
-        "meta": "@Controls",
+        "meta": "@mediaTypes",
         "userDefined": false
       },
       {
@@ -1842,23 +953,43 @@
         "userDefined": false
       },
       {
-        "text": "the show",
-        "alias": "command",
+        "text": "Doctor Who",
+        "alias": "request",
         "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2005",
+        "alias": "year",
+        "meta": "@sys.age",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "dfc855ea-1d63-4c80-aa0b-52ff9efcc666",
+    "id": "633806eb-d26f-4933-baaa-4d2ed42ccda0",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
         "userDefined": false
       },
       {
@@ -1866,97 +997,165 @@
         "userDefined": false
       },
       {
-        "text": "Steins Gate 2011 season 1 episode 1",
-        "alias": "command",
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Game of Thrones",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "9a27d0df-da04-4b11-b469-9f6242335d19",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nightwish",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "kitchen speaker",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "45d6f088-e672-4d7a-a0cc-248a431423ae",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "The Eminem Show",
+        "alias": "request",
         "meta": "@sys.any",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "7200935c-9b73-4899-967e-dfb7af7e387c",
+    "id": "8b9a8bcc-fffd-4e62-a937-8ce0f48d0f8b",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
       },
       {
         "text": " ",
         "userDefined": false
       },
       {
-        "text": "Doctor Strange",
-        "alias": "command",
+        "text": "Batman Begins",
+        "alias": "request",
         "meta": "@sys.any",
-        "userDefined": false
+        "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 1,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "b089b44a-c2f4-4a99-ad89-775ff2a07695",
+    "id": "2a7fe462-0e5d-49fb-979c-c9369f6f18b4",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
         "userDefined": false
       },
       {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Terminator",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "02517af1-8189-4b43-b939-d150e3494784",
-    "data": [
-      {
-        "text": "what\u0027s playing",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "2047d3d5-38eb-4bc0-b9c4-9f3220be2b86",
-    "data": [
-      {
-        "text": "stop playback",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "6636c39e-d397-4c13-b435-f35c5665ed3f",
-    "data": [
-      {
-        "text": "watch",
-        "alias": "action",
-        "meta": "@Triggers",
+        "text": "second",
+        "alias": "number",
+        "meta": "@sys.number",
         "userDefined": true
       },
       {
@@ -1964,27 +1163,311 @@
         "userDefined": false
       },
       {
-        "text": "The Walking Dead",
-        "alias": "command",
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Orange Is The New Black",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "9253403d-c9cd-40fa-bebe-f320f1993941",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Law \u0026 Order Special Victims Unit",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "22",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " on Xbox One",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "2c39002c-10cc-46c4-8d10-c8eb76ff380e",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "The Thunder Rolls",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "All That Remains",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "6977621a-726b-4638-9673-50bfdc47ad4b",
+    "data": [
+      {
+        "text": "i want to watch",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Scrubs",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "16637d1a-ff4c-47a7-ba3a-644f442a53ae",
+    "data": [
+      {
+        "text": "pirate",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the latest",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "This Is Us",
+        "alias": "request",
         "meta": "@sys.any",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "d6eee0ad-0fc6-4268-846f-19e40a67303b",
+    "id": "968c4a9e-aee7-4df7-ac5f-5ce83d7c1a50",
     "data": [
       {
-        "text": "to ",
+        "text": "turn on",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
+      {
+        "text": "Batman Begins",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "353ca936-ba61-49e9-9ddf-f626a1d6691f",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ballers",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "ed51e2ba-71a2-4799-963d-491c6980145c",
+    "data": [
       {
         "text": "download",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
@@ -1992,102 +1475,9 @@
         "userDefined": false
       },
       {
-        "text": "ballerina",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "2016",
-        "meta": "@sys.ignore",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "71a5f157-b0ef-4b8e-8fbf-8ee5c02c0674",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "ghostbusters 2016",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "ff5d3f8f-3a00-4fb4-9650-930a5d5b6ba9",
-    "data": [
-      {
-        "text": "switch server",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "e22eec20-4dc8-48e0-8363-7fdaae289365",
-    "data": [
-      {
-        "text": "if I ",
-        "userDefined": false
-      },
-      {
-        "text": "have any new",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "movies",
+        "text": "Season",
         "alias": "type",
-        "meta": "@Type",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "52ac43fd-8ff7-4ea6-be68-3ee361329313",
-    "data": [
-      {
-        "text": "if I ",
-        "userDefined": false
-      },
-      {
-        "text": "have any new",
-        "alias": "action",
-        "meta": "@Triggers",
+        "meta": "@mediaTypes",
         "userDefined": false
       },
       {
@@ -2095,9 +1485,49 @@
         "userDefined": false
       },
       {
-        "text": "shows",
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Episode",
         "alias": "type",
-        "meta": "@Type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of  ",
+        "userDefined": false
+      },
+      {
+        "text": "Lost In Space",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "alias": "year",
+        "meta": "@sys.age",
         "userDefined": false
       }
     ],
@@ -2106,26 +1536,116 @@
     "updated": 0
   },
   {
-    "id": "bda1d742-c7c2-483b-9539-2ded5e1fed65",
+    "id": "f997a946-4046-42ba-85e5-dc765482547b",
     "data": [
       {
-        "text": "what the name of this",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
       },
       {
         "text": " ",
         "userDefined": false
       },
       {
-        "text": "show",
+        "text": "season",
         "alias": "type",
-        "meta": "@Type",
+        "meta": "@mediaTypes",
         "userDefined": false
       },
       {
-        "text": " is",
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Breaking Bad",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "ea63547c-50c8-443d-a648-175c350212b2",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of  ",
+        "userDefined": false
+      },
+      {
+        "text": "Lost In Space",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "alias": "year",
+        "meta": "@sys.age",
         "userDefined": false
       }
     ],
@@ -2134,12 +1654,12 @@
     "updated": 0
   },
   {
-    "id": "d1de2dad-a32f-4b2b-9458-b63e0544d182",
+    "id": "4ee57c34-3834-4e61-9a9b-4f24b5145a3d",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
@@ -2147,27 +1667,43 @@
         "userDefined": false
       },
       {
-        "text": "a Bill Murray movie",
-        "alias": "command",
+        "text": "track",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "three",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "The Eminem Show",
+        "alias": "request",
         "meta": "@sys.any",
-        "userDefined": true
+        "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "9885d74c-d436-446e-bc7e-c2cee8bb50c0",
+    "id": "6faf486a-3e19-4ca3-b86b-0875438d7648",
     "data": [
-      {
-        "text": "tell Cinema ",
-        "userDefined": false
-      },
       {
         "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": true
       },
       {
@@ -2175,918 +1711,23 @@
         "userDefined": false
       },
       {
-        "text": "the latest episode of taboo",
-        "alias": "command",
+        "text": "Ghostbusters",
+        "alias": "request",
         "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "ae5f8590-645d-4297-bc08-ad30b9f9d9e3",
-    "data": [
-      {
-        "text": "change player",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "367da9b6-d341-4606-afda-9f128f1cbe65",
-    "data": [
-      {
-        "text": "tell Media IO ",
-        "userDefined": false
-      },
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
         "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the latest episode of Taboo",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1520546039
   },
   {
-    "id": "a8fe3b5b-fd7d-4e7d-a126-624fb2190eb4",
+    "id": "3d5a0066-c4cf-42ed-9e15-92aaa5d986c1",
     "data": [
       {
         "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "batman begins",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "05fe1aa5-e49c-4e53-af06-ff4611d8ca07",
-    "data": [
-      {
-        "text": "I want to watch ",
-        "userDefined": false
-      },
-      {
-        "text": "passengers",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "167033ef-e367-4f23-8261-6ef77c59030d",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "batman",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "8ba17d96-9402-482b-8ca2-48eac5269b72",
-    "data": [
-      {
-        "text": "I want to download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the show Humans",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "36c1070e-357c-4bda-981c-3e4232993d88",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Frozen",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "d1bcfe2a-0043-4010-a0fb-42219785d7dd",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "passengers",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "8add1967-7da0-4fea-b09f-51ae87c25b92",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Passengers",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "fd5be37a-a762-4bf1-a7a3-a638d02b932d",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Dr. Who",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "5895149c-520b-42ee-b30b-775a48e08ecb",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "doctor who",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "af6a04a9-3b36-48c1-8ff7-e8b4a107755c",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the beginning of Frozen",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "a02ca574-1c8b-4bdd-b63c-b6a59d5704d3",
-    "data": [
-      {
-        "text": "set the volume",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      },
-      {
-        "text": " to ",
-        "userDefined": false
-      },
-      {
-        "text": "100 %",
-        "alias": "percentage",
-        "meta": "@sys.percentage",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "360bd272-21ff-4521-985f-51d3cf994526",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Batman Begins",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "54625190-57bc-40a0-bc1d-dc5b297895e6",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Batman Begins",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "f92d48d2-fcb5-4b4d-beb1-27a40b0271ef",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the first episode of taboo",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "ca2a1390-dfad-4f85-8cf9-58ca3db04bca",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Taboo",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "889bbebc-bc94-4a13-b0f5-358e137f1d02",
-    "data": [
-      {
-        "text": "turn on taboo",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "ca273c59-c6d4-49d0-b799-bf4b2bfffecb",
-    "data": [
-      {
-        "text": "resume",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "3a55ba47-45e3-4675-bd5c-55e66842f44e",
-    "data": [
-      {
-        "text": "pause",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "26fda321-689f-4421-acb7-28ceb715a9fe",
-    "data": [
-      {
-        "text": "stop",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "4c3076b2-7858-4bd3-97e0-ca42eaa4b563",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "ghostbusters",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "15c6c551-b6bd-4653-9893-58e1e3a46124",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Me Before You",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "37481fbc-ad82-4015-a712-ec030b5d4285",
-    "data": [
-      {
-        "text": "play",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "gone with the wind",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "8caddfb8-4dc6-43fe-8194-a6b7364e0024",
-    "data": [
-      {
-        "text": "play",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "batman begins",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "05a7d201-b58d-4a41-9fa7-b3e5f7fc4aef",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "The Goonies",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "c4c291e6-9521-4242-99ac-182ac9e14d21",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the notebook",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 3,
-    "updated": 0
-  },
-  {
-    "id": "626694eb-c32c-4c40-8946-380bb360777f",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "batman begins",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "42057a76-17e1-46e0-aa56-b412e216f204",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "captain America",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "ba268765-165f-4cd6-bb19-6441eee59784",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Season 1 Episode 2 of Game of Thrones",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "8bc4252b-1472-48dc-bfdb-75c0af53c5ba",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "the latest episode of Man Seeking Woman",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 3,
-    "updated": 0
-  },
-  {
-    "id": "1577f444-9f59-41b0-9820-b2719aff0e66",
-    "data": [
-      {
-        "text": "Can you play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "game of thrones",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      },
-      {
-        "text": "?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "8c77a923-85bb-47e1-a7bd-fcefaabec97c",
-    "data": [
-      {
-        "text": "play",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "season 1 episode 2 of Game of Thrones",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "6d281526-cf53-4745-a1cf-b0da9a9510ab",
-    "data": [
-      {
-        "text": "tell plex to",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "skip to 4 minutes and 45 seconds",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "495094cd-b43c-4b6e-8fbb-1e4f6e91c915",
-    "data": [
-      {
-        "text": "Tell plex to",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "pause",
-        "alias": "Controls",
-        "meta": "@Controls",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "8754d4da-af81-4537-b682-5bf8f1e9b7f7",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "Passengers",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "2016",
-        "meta": "@sys.ignore",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "b0ef3fcd-f055-47e0-87f7-959811fcf7a7",
-    "data": [
-      {
-        "text": "I want to download",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "ghostbusters",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "78653624-7570-41be-b879-155e0027c873",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "season 4 episode 5 of the simpsons",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "b93145da-136b-4cdb-be30-ac1260fce7ee",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
-        "userDefined": false
-      },
-      {
-        "text": " ",
-        "userDefined": false
-      },
-      {
-        "text": "season 1 episode 2 of game of thrones",
-        "alias": "command",
-        "meta": "@sys.any",
-        "userDefined": true
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "820ebe22-8722-4752-b926-99761f4fe398",
-    "data": [
-      {
-        "text": "I want to watch",
-        "alias": "action",
-        "meta": "@Triggers",
+        "alias": "control",
+        "meta": "@playControls",
         "userDefined": false
       },
       {
@@ -3096,12 +1737,1020 @@
       {
         "text": "movie",
         "alias": "type",
-        "meta": "@Type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "guest room TV",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74c076b9-09ad-4da3-95a6-5bf09aa3e3f4",
+    "data": [
+      {
+        "text": "Play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "blackbird",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "bca89e9e-eea3-4921-93de-3cc76d415640",
+    "data": [
+      {
+        "text": "download the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Family Guy",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520525410
+  },
+  {
+    "id": "ad08e97f-8acc-4ff2-88ae-dd5fbbe6948c",
+    "data": [
+      {
+        "text": "fetch",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Blazing Saddles",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "a2386cbf-e4ec-4d38-a44e-edcdef99deba",
+    "data": [
+      {
+        "text": "grab",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "The Sorcerer\u0027s Stone",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "9df63598-9303-48e0-9f9e-1ee6487d82e3",
+    "data": [
+      {
+        "text": "snag",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "second",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "The Flash",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "20c00952-5fd0-4bed-9921-2cf8fd9c0397",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Lost In Space",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "alias": "year",
+        "meta": "@sys.age",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
     "updated": 0
+  },
+  {
+    "id": "3362925c-907a-49a1-b361-9706ccacd5e0",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "The Cabin In The Woods",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour 1 minute and 22 seconds",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "ae1cf81d-bd10-4e92-822a-9e5e0f8b2423",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "The Cabin In The Woods",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "1 minute and 22 seconds",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "1308b368-57ba-4733-86ea-8a4fb43157c1",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "DJ Khaled",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "family room speaker",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "d302b358-792d-4da1-b784-6dbe31bcbb76",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "new",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Legion",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour and 22 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "9ed57bfa-03bb-4d78-89c8-64388c1e23ee",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Law \u0026 Order Special Victims Unit",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "22",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Xbox One",
+        "alias": "Devices",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "bc2cad4c-d695-4648-b268-9c11c6f98cd4",
+    "data": [
+      {
+        "text": "I want to listen to the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "album",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520525410
+  },
+  {
+    "id": "5e9f955e-84ff-47a5-848c-8a17cae24b53",
+    "data": [
+      {
+        "text": "Throw on",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the latest",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "This Is Us",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "1240b935-a14e-4cf5-b98c-4a99939129ac",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "The Slim Shady LP",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "2919e89a-4b7e-471e-8924-29df893435f2",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the new",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Machine Head",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "album",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f9694fa-c139-4c79-981c-73fcb9a17473",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Channel Zero",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "fc10f262-5a3a-4170-af9c-6d04e7ff1023",
+    "data": [
+      {
+        "text": "play a random",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Family Guy",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "31d45523-c8f6-4ea9-a940-e69669c59a35",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Happy!",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "45 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "2abf0b9f-ae54-402e-a60d-5131e62a0926",
+    "data": [
+      {
+        "text": "turn on",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "new",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "410cd4dc-0954-46b8-859f-6766872c011a",
+    "data": [
+      {
+        "text": "play",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Killing Me Softly",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "The Fugees",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "e935a2d1-a927-4976-b843-3a918eac9edf",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "season",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Lost In Space",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "alias": "year",
+        "meta": "@sys.age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59b0fcf2-b639-4355-adbb-86105b67c377",
+    "data": [
+      {
+        "text": "watch",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Jonny",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Depp",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "5dd7af00-7e45-4d6b-82df-599c0e6d3de2",
+    "data": [
+      {
+        "text": "shuffle",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Metallica",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "98035f40-16c3-4398-83aa-e732db1438bd",
+    "data": [
+      {
+        "text": "download",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the new",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Eminem",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "album",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
+  },
+  {
+    "id": "a8e93591-9615-42ff-bda3-92bb1b343b21",
+    "data": [
+      {
+        "text": "I feel like watching",
+        "alias": "control",
+        "meta": "@playControls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the new",
+        "alias": "mod",
+        "meta": "@timeModifier",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "episode",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "The Simpsons",
+        "alias": "request",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520546039
   }
 ]

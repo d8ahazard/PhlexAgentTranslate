@@ -1,0 +1,357 @@
+[
+  {
+    "id": "54c10499-59d9-4629-9de6-ac736dc428d4",
+    "data": [
+      {
+        "text": "seek",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "1 hour 10 minutes",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525791154
+  },
+  {
+    "id": "8717b05d-25ee-45d1-ad86-3e446146cba2",
+    "data": [
+      {
+        "text": "pause",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " playback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "cd285394-c2ce-4f86-b484-8c9bbbf9945b",
+    "data": [
+      {
+        "text": "jump ahead",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "45 seconds",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "8feb7c7d-060f-4140-8e1e-ccbe284724bf",
+    "data": [
+      {
+        "text": "pause",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "movie",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "888c9f17-fa0c-4bbf-828d-d230db822925",
+    "data": [
+      {
+        "text": "it\u0027s too loud",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525791154
+  },
+  {
+    "id": "4a01471e-c591-4884-a358-0f27a65a1fb5",
+    "data": [
+      {
+        "text": "turn it up",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "7693aab2-2b26-41cf-b662-4844e24e1800",
+    "data": [
+      {
+        "text": "pick a different",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "DVR",
+        "alias": "DeviceType",
+        "meta": "@DeviceType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "2bc95f66-3d39-4824-9234-b55482ea58b6",
+    "data": [
+      {
+        "text": "enable ",
+        "userDefined": false
+      },
+      {
+        "text": "Spanish",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "subtitles",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "dff5ed5d-0cee-4cf5-bfc8-e71242a3d963",
+    "data": [
+      {
+        "text": "set the ",
+        "userDefined": false
+      },
+      {
+        "text": "volume",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "50%",
+        "alias": "percentage",
+        "meta": "@sys.percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "22c55a67-f3ad-4487-b614-0aa0facac7ca",
+    "data": [
+      {
+        "text": "pause",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": true
+      },
+      {
+        "text": " playback on the ",
+        "userDefined": false
+      },
+      {
+        "text": "Living Room TV",
+        "alias": "device",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "2791ee7f-6972-43e7-8b9e-8091aa9de644",
+    "data": [
+      {
+        "text": "change",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "player",
+        "alias": "DeviceType",
+        "meta": "@DeviceType",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Basement TV",
+        "alias": "device",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3795b6a4-6042-4784-ba5b-950422a84970",
+    "data": [
+      {
+        "text": "set the subtitles to",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "4fbe4e9e-6387-406b-80f2-098b6b611373",
+    "data": [
+      {
+        "text": "change",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Player",
+        "alias": "DeviceType",
+        "meta": "@DeviceType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525791154
+  },
+  {
+    "id": "0d0ed8f7-52e9-4afe-a51f-dea24968cff7",
+    "data": [
+      {
+        "text": "stop",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " playback",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1525791154
+  },
+  {
+    "id": "81dda940-e65e-4e18-9292-2d0a6bc595a4",
+    "data": [
+      {
+        "text": "change",
+        "alias": "controls",
+        "meta": "@controls",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "player",
+        "alias": "DeviceType",
+        "meta": "@DeviceType",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "basement tv",
+        "alias": "device",
+        "meta": "@Devices",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

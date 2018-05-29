@@ -1,0 +1,35 @@
+{
+  "id": "0e02232a-5539-4481-a666-a9d9a6719849",
+  "parentId": "62174545-5260-4670-a799-f19dddf6c218",
+  "rootParentId": "62174545-5260-4670-a799-f19dddf6c218",
+  "name": "Fetch-no",
+  "auto": true,
+  "contexts": [
+    "no",
+    "playMedia-followup",
+    "fetchInfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "playMedia.playMedia-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520223508,
+  "fallbackIntent": false,
+  "events": []
+}

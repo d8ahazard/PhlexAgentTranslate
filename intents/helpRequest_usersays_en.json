@@ -1,0 +1,44 @@
+[
+  {
+    "id": "34f9b3be-11d7-495b-b0d0-4afb9ad21ab2",
+    "data": [
+      {
+        "text": "what can you do",
+        "alias": "helpRequest",
+        "meta": "@helpRequest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526400031
+  },
+  {
+    "id": "451005a1-df76-4231-8673-d3b493d48f21",
+    "data": [
+      {
+        "text": "what are your commands",
+        "alias": "helpRequest",
+        "meta": "@helpRequest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526400031
+  },
+  {
+    "id": "a8c32f04-9160-4375-b3e7-fb37da2fab4d",
+    "data": [
+      {
+        "text": "Help",
+        "alias": "helpRequest",
+        "meta": "@helpRequest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526400031
+  }
+]

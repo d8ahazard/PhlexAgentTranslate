@@ -1,0 +1,54 @@
+[
+  {
+    "value": "playMedia.unwatched",
+    "synonyms": [
+      "unwatched",
+      "haven\u0027t watched"
+    ]
+  },
+  {
+    "value": "playMedia.music",
+    "synonyms": [
+      "I want to listen to",
+      "I want to hear",
+      "I feel like listening to",
+      "listen to"
+    ]
+  },
+  {
+    "value": "fetchMedia",
+    "synonyms": [
+      "grab",
+      "fetch",
+      "download",
+      "pirate",
+      "snag"
+    ]
+  },
+  {
+    "value": "playMedia",
+    "synonyms": [
+      "play",
+      "start",
+      "throw on",
+      "turn on"
+    ]
+  },
+  {
+    "value": "playMedia.video",
+    "synonyms": [
+      "I want to watch",
+      "I feel like watching",
+      "watch"
+    ]
+  },
+  {
+    "value": "playMedia.shuffle",
+    "synonyms": [
+      "shuffle",
+      "randomize",
+      "play a random",
+      "random"
+    ]
+  }
+]

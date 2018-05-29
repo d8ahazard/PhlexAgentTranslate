@@ -1,0 +1,37 @@
+{
+  "id": "b2646d82-65c1-455c-96dc-de18eaa59d8a",
+  "name": "helpRequest",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f558311e-e74a-455e-bc13-b67461439e44",
+          "required": false,
+          "dataType": "@helpRequest",
+          "name": "helpRequest",
+          "value": "$helpRequest",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526400046,
+  "fallbackIntent": false,
+  "events": []
+}

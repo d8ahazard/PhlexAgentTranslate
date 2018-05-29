@@ -1,0 +1,78 @@
+{
+  "id": "834b98cf-d960-4648-a56e-fe07dab8d5b1",
+  "name": "controlMedia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f07d842-adf2-4bfe-a94e-f3594aae6706",
+          "required": true,
+          "dataType": "@controls",
+          "name": "controls",
+          "value": "$controls",
+          "isList": false
+        },
+        {
+          "id": "2e5d023e-b5eb-4e74-bc57-47db2ee40734",
+          "required": false,
+          "dataType": "@sys.percentage",
+          "name": "percentage",
+          "value": "$percentage",
+          "isList": false
+        },
+        {
+          "id": "8c1b7042-03c8-4573-852d-dd56572dec9b",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        },
+        {
+          "id": "b7c7d84a-e654-4c53-84a6-9311fc926f6b",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "isList": false
+        },
+        {
+          "id": "acaf2009-83db-4b69-b463-71ed96d663fb",
+          "required": false,
+          "dataType": "@Devices",
+          "name": "device",
+          "value": "$device",
+          "isList": false
+        },
+        {
+          "id": "4d6ccea2-6eeb-48d1-9f88-3f8738bd037f",
+          "dataType": "@DeviceType",
+          "name": "DeviceType",
+          "value": "$DeviceType",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525791154,
+  "fallbackIntent": false,
+  "events": []
+}

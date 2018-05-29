@@ -1,105 +1,125 @@
 {
-  "id": "b8151275-afad-4f3f-bd9a-3a17f390cb75",
-  "name": "PlayMedia",
+  "id": "62174545-5260-4670-a799-f19dddf6c218",
+  "name": "playMedia",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "Playmedia",
       "affectedContexts": [
         {
-          "name": "yes",
+          "name": "play",
           "parameters": {},
-          "lifespan": 3
+          "lifespan": 5
         },
         {
-          "name": "waitforplayer",
+          "name": "Media-multiple",
           "parameters": {},
           "lifespan": 2
         },
         {
-          "name": "promptfortitle",
+          "name": "yes",
           "parameters": {},
-          "lifespan": 3
+          "lifespan": 2
         },
         {
-          "name": "PlayMedia-followup",
+          "name": "no",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "playMedia-followup",
           "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "4b1297e2-5ee8-4f6e-837a-3117e9098e39",
+          "id": "57266ba7-704d-45e5-8cec-6ae0c1eea23f",
           "required": false,
-          "dataType": "@Triggers",
-          "name": "action",
-          "value": "$action",
-          "prompts": [],
-          "isList": false
-        },
-        {
-          "id": "a458b157-0e6b-4da9-a06e-8a8e93d83600",
-          "required": false,
-          "dataType": "@sys.any",
-          "name": "command",
-          "value": "$command",
-          "isList": false
-        },
-        {
-          "id": "3756cc05-45aa-4308-88dd-9e4b61266b97",
-          "dataType": "@Type",
+          "dataType": "@mediaTypes",
           "name": "type",
           "value": "$type",
+          "isList": true
+        },
+        {
+          "id": "0bda4150-fb8e-4723-9a7b-bc4219c692e6",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "request",
+          "value": "$request",
           "isList": false
         },
         {
-          "id": "b92a7cf1-2513-42c1-b45e-5775d38f11da",
-          "dataType": "@Controls",
-          "name": "Controls",
-          "value": "$Controls",
-          "isList": false
+          "id": "849d4738-6031-4af5-aa9c-19991076324d",
+          "required": false,
+          "dataType": "@timeModifier",
+          "name": "mod",
+          "value": "$mod",
+          "isList": true
         },
         {
-          "id": "a375c898-aad8-4435-9e0b-7194682e8d76",
-          "dataType": "@sys.percentage",
-          "name": "percentage",
-          "value": "$percentage",
-          "isList": false
-        },
-        {
-          "id": "9074bef1-e798-4e00-9322-f8cce5a684c5",
-          "dataType": "@sys.time",
-          "name": "time",
-          "value": "$time",
-          "isList": false
-        },
-        {
-          "id": "4249ed8b-05e0-4252-83b4-b3d72bd53d61",
-          "dataType": "@sys.geo-city",
-          "name": "geo-city",
-          "value": "$geo-city",
-          "isList": false
-        },
-        {
-          "id": "63ccfff4-0ade-4c5b-aaa4-354c1da2b377",
+          "id": "3ae1a305-cb57-4765-a0c6-797d6f4538c8",
+          "required": false,
           "dataType": "@sys.music-artist",
-          "name": "artist",
-          "value": "$artist"
+          "name": "music-artist",
+          "value": "$music-artist",
+          "isList": false
         },
         {
-          "id": "0f7aec7d-e478-4cc7-a333-b2e2e0a4be01",
+          "id": "efe20227-7e87-4888-b7da-21b2ee2d7629",
+          "required": false,
           "dataType": "@sys.given-name",
           "name": "given-name",
           "value": "$given-name",
           "isList": false
         },
         {
-          "id": "70d4587e-cceb-4086-a081-cb29665bd79b",
-          "dataType": "@days",
-          "name": "days",
-          "value": "$days",
+          "id": "b5f89a9a-5daf-4431-a3f6-8400b75f45e6",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "isList": false
+        },
+        {
+          "id": "d1a690f7-5f8a-4ea3-b3a1-c168a08daca0",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": true
+        },
+        {
+          "id": "2f9f12de-3858-4b7b-8d93-83632b2ac5ab",
+          "required": false,
+          "dataType": "@playControls",
+          "name": "control",
+          "value": "$control",
+          "isList": false
+        },
+        {
+          "id": "4a6d18a6-eb2b-4440-8705-ef9c2dd66092",
+          "required": false,
+          "dataType": "@sys.age",
+          "name": "year",
+          "value": "$year",
+          "isList": false
+        },
+        {
+          "id": "66d73d07-3950-4ec1-adaa-8ad9e7e5f3f2",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        },
+        {
+          "id": "25404fe4-8936-42b5-90cc-6ff814d8f12b",
+          "required": false,
+          "dataType": "@Devices",
+          "name": "Devices",
+          "value": "$Devices",
           "isList": false
         }
       ],
@@ -110,18 +130,16 @@
           "speech": []
         }
       ],
-      "defaultResponsePlatforms": {},
+      "defaultResponsePlatforms": {
+        "google": false
+      },
       "speech": []
     }
   ],
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1507928067,
+  "lastUpdate": 1520546039,
   "fallbackIntent": false,
-  "events": [
-    {
-      "name": "GOOGLE_ASSISTANT_WELCOME"
-    }
-  ]
+  "events": []
 }

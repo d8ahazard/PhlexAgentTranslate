@@ -1,26 +1,28 @@
 [
   {
-    "value": "yes",
+    "value": "true",
     "synonyms": [
+      "true",
       "yes",
-      "yep",
+      "you bet",
       "sure",
       "please do",
       "yes, please",
-      "Yes",
-      "you betcha",
-      "you bet"
+      "please",
+      "ok",
+      "do it",
+      "you got it"
     ]
   },
   {
-    "value": "no",
+    "value": "false",
     "synonyms": [
+      "false",
       "no",
-      "no thank you",
-      "not really",
+      "no thanks",
       "no way",
-      "No.",
-      "nope",
+      "fuck you",
+      "nevermind",
       "never"
     ]
   }

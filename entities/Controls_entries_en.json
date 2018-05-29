@@ -1,122 +1,131 @@
 [
   {
-    "value": "Resume",
+    "value": "device.change",
     "synonyms": [
-      "Resume",
-      "Start",
-      "Continue",
-      "Resume Playback",
-      "Unpause"
+      "change",
+      "switch",
+      "pick a different",
+      "use a different",
+      "use a new",
+      "select a new",
+      "select a different",
+      "pick a new"
     ]
   },
   {
-    "value": "Pause",
+    "value": "subtitles.change",
     "synonyms": [
-      "Pause"
+      "change the subtitle language",
+      "set the subtitles to",
+      "subtitles"
     ]
   },
   {
-    "value": "Stop",
+    "value": "seek",
     "synonyms": [
-      "Stop Playback",
-      "Halt",
-      "End Playback",
-      "Cease",
-      "Desist",
-      "stop playback",
-      "halt",
-      "stop",
-      "end playback",
-      "cease",
-      "desist",
-      "turn this off",
-      "turn off the"
+      "seek",
+      "jump to",
+      "go to",
+      "set the time to"
     ]
   },
   {
-    "value": "Skip Forward",
+    "value": "back",
     "synonyms": [
-      "Skip Forward",
-      "Skip Ahead",
-      "Jump Ahead",
-      "Next Chapter",
-      "Next Episode",
-      "Next Song",
-      "Next Track"
+      "back",
+      "previous",
+      "skip back"
     ]
   },
   {
-    "value": "Skip Backward",
+    "value": "jump ahead",
     "synonyms": [
-      "Skip Backward",
-      "Skip Back",
-      "Jump Back",
-      "Previous Chapter",
-      "Previous Episode",
-      "Previous Song",
-      "Previous Track",
-      "Last Song",
-      "Last Track"
+      "jump ahead"
     ]
   },
   {
-    "value": "Seek Forward",
+    "value": "resume",
     "synonyms": [
-      "Seek Forward",
-      "Fast Forward",
-      "Step Forward",
-      "Seek Ahead"
+      "resume",
+      "continue",
+      "unpause"
     ]
   },
   {
-    "value": "Seek Backward",
+    "value": "volume.up",
     "synonyms": [
-      "Seek Backward",
-      "Rewind",
-      "Step Backward",
-      "Step Back"
-    ]
-  },
-  {
-    "value": "Jump To",
-    "synonyms": [
-      "Jump To",
-      "Seek To",
-      "Skip To",
-      "Fast Forward To",
-      "Rewind To",
-      "Go Back To"
-    ]
-  },
-  {
-    "value": "set the volume",
-    "synonyms": [
-      "set the volume",
-      "adjust the volume",
-      "turn the volume down",
-      "turn the volume up",
+      "volume.up",
       "turn it up",
-      "turn it down",
-      "turn up the volume",
-      "turn down the volume"
+      "I can\u0027t hear"
     ]
   },
   {
-    "value": "subtitles on",
+    "value": "volume.mute",
     "synonyms": [
-      "subtitles on",
+      "volume.mute",
+      "mute"
+    ]
+  },
+  {
+    "value": "next",
+    "synonyms": [
+      "next",
+      "skip forward",
+      "next chapter"
+    ]
+  },
+  {
+    "value": "subtitles.off",
+    "synonyms": [
+      "turn the subtitles off",
+      "disable subtitles"
+    ]
+  },
+  {
+    "value": "stop",
+    "synonyms": [
+      "stop"
+    ]
+  },
+  {
+    "value": "pause",
+    "synonyms": [
+      "pause"
+    ]
+  },
+  {
+    "value": "subtitles.on",
+    "synonyms": [
       "enable subtitles",
-      "turn on subtitles",
-      "turn the subtitles off"
+      "turn the subtitles on"
     ]
   },
   {
-    "value": "subtitles off",
+    "value": "volume",
     "synonyms": [
-      "subtitles off",
-      "disable subtitles",
-      "turn off subtitles",
-      "turn the subtitles off"
+      "volume"
+    ]
+  },
+  {
+    "value": "volume.down",
+    "synonyms": [
+      "volume.down",
+      "It\u0027s too loud",
+      "turn it down"
+    ]
+  },
+  {
+    "value": "rescan",
+    "synonyms": [
+      "rescan",
+      "scan library",
+      "scan files",
+      "rescan files",
+      "rescan library",
+      "update library",
+      "update files",
+      "update the library",
+      "update my library"
     ]
   }
 ]

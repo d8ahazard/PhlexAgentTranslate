@@ -1,0 +1,250 @@
+[
+  {
+    "id": "a445c731-1570-4f9b-8ac1-4515407ac68b",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": " one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ae3c92a-dc4a-4ac9-9438-7083dc1612d6",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "first one",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d6d16185-9cc4-4ad1-9668-faa56b5523e9",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "artist",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524173248
+  },
+  {
+    "id": "867550fe-d0e5-489b-9f07-38764e6d1318",
+    "data": [
+      {
+        "text": "Lee mead blackbird",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b2c8f7d-5d98-4e39-82ca-9ebaaa1602a6",
+    "data": [
+      {
+        "text": "number one",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520222567
+  },
+  {
+    "id": "1ce1bf39-2bd7-4ffb-ad82-896410a48488",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "album",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524173248
+  },
+  {
+    "id": "f53c4319-bcf0-488f-bb25-cc353cf152e7",
+    "data": [
+      {
+        "text": "number three",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520222567
+  },
+  {
+    "id": "55baa7c4-bd12-47b8-a256-45b58b7be465",
+    "data": [
+      {
+        "text": "the last one",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520222567
+  },
+  {
+    "id": "131217a8-db72-4f18-b758-afd159f0544a",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "show",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524173248
+  },
+  {
+    "id": "231548df-a715-487e-860e-97efcd2a4079",
+    "data": [
+      {
+        "text": "Ghostbusters",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1984",
+        "alias": "age",
+        "meta": "@sys.age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5d887d76-3ce9-42bb-a37a-7da5ed36a731",
+    "data": [
+      {
+        "text": "yes",
+        "alias": "yesno",
+        "meta": "@yesno",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524080304
+  },
+  {
+    "id": "dd63ca5c-f0c0-42ee-a070-0fe67597aedf",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "second one",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520222567
+  },
+  {
+    "id": "826f0c2a-f78f-48f3-9593-da4445d0ee48",
+    "data": [
+      {
+        "text": "Ghostbusters",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2016",
+        "alias": "age",
+        "meta": "@sys.age",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520222567
+  },
+  {
+    "id": "1951a4bd-e756-4db2-a09d-931c4cc414a2",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "alias": "type",
+        "meta": "@mediaTypes",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524173248
+  }
+]

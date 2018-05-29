@@ -1,0 +1,82 @@
+{
+  "id": "31a35999-4c31-42f5-8827-c3663fec37a9",
+  "name": "fetchInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Media-multiple",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "fetchInfo-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cdf31309-578c-47aa-b4bb-5d22eeaae519",
+          "required": false,
+          "dataType": "@infoRequests",
+          "name": "infoRequests",
+          "value": "$infoRequests",
+          "isList": false
+        },
+        {
+          "id": "200a8ffa-6f84-478a-8c27-9ac312433e62",
+          "required": false,
+          "dataType": "@mediaTypes",
+          "name": "type",
+          "value": "$type",
+          "isList": false
+        },
+        {
+          "id": "fc5ee051-ee16-4c46-b7de-da54a6f636fd",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        },
+        {
+          "id": "8873674c-a100-4b5f-b327-dc3ca83db34a",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "isList": false
+        },
+        {
+          "id": "b3486c26-e541-40e9-ade9-01149d8ba74f",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "media",
+          "value": "$media",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521657434,
+  "fallbackIntent": false,
+  "events": []
+}

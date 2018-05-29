@@ -1,0 +1,33 @@
+{
+  "id": "980c46e5-dff1-4aa7-b6bd-95813b326300",
+  "name": "Fetch - yes",
+  "auto": true,
+  "contexts": [
+    "yes",
+    "playMedia-followup",
+    "fetchInfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "playMedia.playMedia-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520223936,
+  "fallbackIntent": false,
+  "events": []
+}

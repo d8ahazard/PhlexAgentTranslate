@@ -1,0 +1,78 @@
+[
+  {
+    "value": "show.season",
+    "synonyms": [
+      "show.season",
+      "season",
+      "series"
+    ]
+  },
+  {
+    "value": "playlist",
+    "synonyms": [
+      "playlist"
+    ]
+  },
+  {
+    "value": "music.album",
+    "synonyms": [
+      "album",
+      "cd",
+      "disc",
+      "record",
+      "vinyl"
+    ]
+  },
+  {
+    "value": "movie",
+    "synonyms": [
+      "movie",
+      "film",
+      "flick",
+      "movies",
+      "films",
+      "flicks"
+    ]
+  },
+  {
+    "value": "music.track",
+    "synonyms": [
+      "song",
+      "track",
+      "Track",
+      "Song"
+    ]
+  },
+  {
+    "value": "music",
+    "synonyms": [
+      "music"
+    ]
+  },
+  {
+    "value": "music.artist",
+    "synonyms": [
+      "artist",
+      "singer",
+      "band",
+      "group",
+      "performer",
+      "composer"
+    ]
+  },
+  {
+    "value": "show",
+    "synonyms": [
+      "show",
+      "shows",
+      "tv shows"
+    ]
+  },
+  {
+    "value": "show.episode",
+    "synonyms": [
+      "show.episode",
+      "episode"
+    ]
+  }
+]
