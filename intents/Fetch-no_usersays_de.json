@@ -1,0 +1,74 @@
+[
+    {
+        "data": [
+            {
+                "text": "nicht interessiert",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "definitiv nicht",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ich will das nicht",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "mach es nicht",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ich bin nicht einverstanden",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "nicht wirklich",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Nein",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Danke aber nein",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ich denke nicht",
+                "userDefined": false
+            }
+        ]
+    }
+]

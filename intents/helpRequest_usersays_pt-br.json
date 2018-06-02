@@ -1,0 +1,32 @@
+[
+    {
+        "data": [
+            {
+                "text": "O que você pode fazer",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "quais são seus comandos",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Socorro",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    }
+]

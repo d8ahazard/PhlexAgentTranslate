@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "wahr",
+            "Ja",
+            "du wettest",
+            "sicher",
+            "Bitte",
+            "ja bitte",
+            "Bitte",
+            "OK",
+            "TU es",
+            "du hast es"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "falsch",
+            "Nein",
+            "Nein Danke",
+            "auf keinen Fall",
+            "Fick dich",
+            "Vergiss es",
+            "noch nie"
+        ]
+    }
+]

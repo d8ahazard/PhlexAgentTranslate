@@ -1,0 +1,278 @@
+[
+    {
+        "data": [
+            {
+                "text": "ricercare",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "1 ora e 10 minuti",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "pausa",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " riproduzione",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "saltare avanti",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "45 secondi",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "è troppo forte",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "alza il volume",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "scegli un altro",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DVR",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "abilitare ",
+                "userDefined": false
+            },
+            {
+                "text": "spagnolo",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "sottotitoli",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "impostare il ",
+                "userDefined": false
+            },
+            {
+                "text": "volume",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "50%",
+                "alias": "percentage",
+                "meta": "@sys.percentage",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "pausa",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " riproduzione su ",
+                "userDefined": false
+            },
+            {
+                "text": "Soggiorno TV",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "modificare",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "giocatore",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "Basement TV",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "imposta i sottotitoli su",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Inglese",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "modificare",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Giocatore",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Stop",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " riproduzione",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "modificare",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "giocatore",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "TV seminterrato",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    }
+]

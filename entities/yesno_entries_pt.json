@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "verdade",
+            "sim",
+            "pode apostar",
+            "certo",
+            "por favor faça",
+            "sim por favor",
+            "por favor",
+            "Está bem",
+            "faça",
+            "você entendeu"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "falso",
+            "não",
+            "não, obrigado",
+            "de jeito nenhum",
+            "foda-se você",
+            "deixa pra lá",
+            "Nunca"
+        ]
+    }
+]

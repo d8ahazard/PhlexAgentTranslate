@@ -1,0 +1,24 @@
+[
+    {
+        "value": "Client",
+        "synonyms": [
+            "고객",
+            "플레이어",
+            "재생 장치"
+        ]
+    },
+    {
+        "value": "Server",
+        "synonyms": [
+            "섬기는 사람",
+            "미디어 서버"
+        ]
+    },
+    {
+        "value": "DVR",
+        "synonyms": [
+            "DVR",
+            "기록계"
+        ]
+    }
+]

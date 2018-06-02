@@ -1,0 +1,214 @@
+[
+    {
+        "data": [
+            {
+                "text": "que es ",
+                "userDefined": false
+            },
+            {
+                "text": "en cubierta",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Qué ",
+                "userDefined": false
+            },
+            {
+                "text": "nuevo",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "películas",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ¿Tengo?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Que esta jugando",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Que hay en la televisión",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "esta noche",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Que hay en la televisión",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "mañana",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "tarde",
+                "alias": "time-period",
+                "meta": "@sys.time-period",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "qué ",
+                "userDefined": false
+            },
+            {
+                "text": "nuevo",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "películas",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            },
+            {
+                "text": " yo tengo",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Cuando es",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Anatomía de Grey",
+                "alias": "media",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ¿en?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "que es ",
+                "userDefined": false
+            },
+            {
+                "text": "en cubierta",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "qué ",
+                "userDefined": false
+            },
+            {
+                "text": "nuevo",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "muestra",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " están en la biblioteca?",
+                "userDefined": false
+            }
+        ]
+    }
+]

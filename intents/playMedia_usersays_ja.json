@@ -1,0 +1,2264 @@
+[
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "私のテレビ",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "MiBox",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "into the badlands",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " 〜に ",
+                "userDefined": false
+            },
+            {
+                "text": "バーテレビ",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "fast five",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "humans",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "ショー",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Westworld",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "寝室のテレビ",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Black Betty",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 〜によって ",
+                "userDefined": false
+            },
+            {
+                "text": "山",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "フェッチ",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Avengers: Age Of Ultron",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "最初",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エミネム",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "アルバム",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 私の〜の上に ",
+                "userDefined": false
+            },
+            {
+                "text": "ファミリールームのスピーカー",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "最初",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "二番目",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "歌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Nothing Compares 2 U",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 〜によって ",
+                "userDefined": false
+            },
+            {
+                "text": "クリスコーネル",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "ショー",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Krypton",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Office",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "ビル",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "マレー",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The ABC Murders",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "トラック",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ant-Man",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "リビングルームテレビ",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Alice",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "最新の",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Desperate Housewives",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "アルバム",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ride the Lightning",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " 〜によって ",
+                "userDefined": false
+            },
+            {
+                "text": "メタリカ",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "私は見たい",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "ビル",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "マレー",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "アルバム",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Catharsis",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 〜によって ",
+                "userDefined": false
+            },
+            {
+                "text": "マシンヘッド",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "ballerina",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 〜に ",
+                "userDefined": false
+            },
+            {
+                "text": "リビングルームテレビ",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "law and order",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "10",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Game of Thrones",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Nightwish",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 〜に ",
+                "userDefined": false
+            },
+            {
+                "text": "キッチンスピーカー",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "トラック",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "三",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "二番目",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Orange Is The New Black",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " Xbox Oneで",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Thunder Rolls",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " 〜によって ",
+                "userDefined": false
+            },
+            {
+                "text": "すべてが残っている",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "私は見たい",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "二番目",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Scrubs",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "海賊",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "最新の",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "オンにする",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ballers",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "5",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "4",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Breaking Bad",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "トラック",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "三",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " から ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "私は見たい",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ghostbusters",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 〜に ",
+                "userDefined": false
+            },
+            {
+                "text": "ゲストルームテレビ",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "blackbird",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロードする ",
+                "userDefined": false
+            },
+            {
+                "text": "最初",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "二番目",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "フェッチ",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Blazing Saddles",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "つかむ",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Sorcerer's Stone",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ひどい",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "二番目",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "The Flash",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Cabin In The Woods",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " から ",
+                "userDefined": false
+            },
+            {
+                "text": "1時間1分22秒",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Cabin In The Woods",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " から ",
+                "userDefined": false
+            },
+            {
+                "text": "1分22秒",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "ファミリールームのスピーカー",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " その ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Legion",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " から ",
+                "userDefined": false
+            },
+            {
+                "text": "1時間22分",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "シーズン",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "Xbox One",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "私は耳を傾けたい ",
+                "userDefined": false
+            },
+            {
+                "text": "最初",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エミネム",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "アルバム",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "投げる",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "最新の",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Slim Shady LP",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "トラック",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "6",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "マシンヘッド",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "アルバム",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Channel Zero",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ランダムに演奏する",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Happy!",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " から ",
+                "userDefined": false
+            },
+            {
+                "text": "45分",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "オンにする",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "遊びます",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Killing Me Softly",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " 〜によって ",
+                "userDefined": false
+            },
+            {
+                "text": "The Fugees",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "時計",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "ジョニー",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "デップ",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "シャッフル",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "メタリカ",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ダウンロード",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エミネム",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "アルバム",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "私は見ている気がする",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "エピソード",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " の ",
+                "userDefined": false
+            },
+            {
+                "text": "The Simpsons",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    }
+]

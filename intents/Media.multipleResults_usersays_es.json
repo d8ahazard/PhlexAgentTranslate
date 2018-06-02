@@ -1,0 +1,78 @@
+[
+    {
+        "data": [
+            {
+                "text": "el ",
+                "userDefined": false
+            },
+            {
+                "text": "artista",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "el ",
+                "userDefined": false
+            },
+            {
+                "text": "álbum",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "el ",
+                "userDefined": false
+            },
+            {
+                "text": "espectáculo",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "sí",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "el ",
+                "userDefined": false
+            },
+            {
+                "text": "pista",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

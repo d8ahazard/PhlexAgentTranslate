@@ -1,0 +1,214 @@
+[
+    {
+        "data": [
+            {
+                "text": "berhenti sebentar",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " pemutaran",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "terlalu keras",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "hidupkan",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "pilih yang berbeda",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DVR",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "memungkinkan ",
+                "userDefined": false
+            },
+            {
+                "text": "Spanyol",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "sub judul",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "berhenti sebentar",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " pemutaran di ",
+                "userDefined": false
+            },
+            {
+                "text": "TV Ruang Tamu",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "perubahan",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "pemain",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " untuk ",
+                "userDefined": false
+            },
+            {
+                "text": "TV basement",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "setel subjudul ke",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Inggris",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "perubahan",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Pemain",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "berhenti",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " pemutaran",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "perubahan",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "pemain",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " untuk ",
+                "userDefined": false
+            },
+            {
+                "text": "tv basement",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    }
+]

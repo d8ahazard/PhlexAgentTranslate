@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "não assistido",
+            "não assisti"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "Eu quero ouvir",
+            "Eu quero escutar",
+            "Sinto vontade de ouvir",
+            "ouvir"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "agarrar",
+            "buscar",
+            "baixar",
+            "pirata",
+            "empecilho"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "Toque",
+            "começar",
+            "jogar",
+            "Ligar"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "eu quero assistir",
+            "Eu sinto vontade de assistir",
+            "Assistir"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "baralhar",
+            "Aleatória",
+            "jogar um aleatório",
+            "aleatória"
+        ]
+    }
+]

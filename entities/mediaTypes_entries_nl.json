@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "seizoen",
+            "serie"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "afspeellijst"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "album",
+            "CD",
+            "schijf",
+            "record",
+            "vinyl"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "film",
+            "film",
+            "tik",
+            "films",
+            "films",
+            "flicks"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "lied",
+            "spoor",
+            "spoor",
+            "lied"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "muziek-"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "artiest",
+            "zanger",
+            "band",
+            "groep",
+            "performer",
+            "componist"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "laten zien",
+            "shows",
+            "tv shows"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "aflevering"
+        ]
+    }
+]

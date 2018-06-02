@@ -1,0 +1,214 @@
+[
+    {
+        "data": [
+            {
+                "text": "pauze",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " afspelen",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "het is te hard",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "zet het op",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "kies een ander",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DVR",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "in staat stellen ",
+                "userDefined": false
+            },
+            {
+                "text": "Spaans",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "ondertitels",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "pauze",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " afspelen op de ",
+                "userDefined": false
+            },
+            {
+                "text": "Woonkamer tv",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "verandering",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "speler",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " naar ",
+                "userDefined": false
+            },
+            {
+                "text": "Kelder tv",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ondertitels instellen",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Engels",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "verandering",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Speler",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "hou op",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " afspelen",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "verandering",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "speler",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " naar ",
+                "userDefined": false
+            },
+            {
+                "text": "kelder tv",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    }
+]

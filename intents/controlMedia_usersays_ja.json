@@ -1,0 +1,254 @@
+[
+    {
+        "data": [
+            {
+                "text": "シーク",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "1時間10分",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "一時停止する",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " 再生",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "一足先",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "45秒",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "うるさすぎる",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "それを立てる",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "別のものを選ぶ",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DVR",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "有効にする ",
+                "userDefined": false
+            },
+            {
+                "text": "スペイン語",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "字幕",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "一時停止する",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " の再生 ",
+                "userDefined": false
+            },
+            {
+                "text": "リビングルームテレビ",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "変化する",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "プレーヤー",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "地下テレビ",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "字幕を",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "英語",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "変化する",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "プレーヤー",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "やめる",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " 再生",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "変化する",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "プレーヤー",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " に ",
+                "userDefined": false
+            },
+            {
+                "text": "地下テレビ",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    }
+]

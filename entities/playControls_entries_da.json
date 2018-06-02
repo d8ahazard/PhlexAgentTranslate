@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "usete",
+            "har ikke set"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "Jeg vil gerne høre på",
+            "jeg vil høre",
+            "Jeg har lyst til at lytte til",
+            "Lyt til"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "tag fat",
+            "hente",
+            "Hent",
+            "pirat",
+            "hage"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "Spille",
+            "Start",
+            "kaste på",
+            "tænde for"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "Jeg vil gerne se",
+            "Jeg har lyst til at se",
+            "holde øje"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "shuffle",
+            "randomisere",
+            "spille en tilfældig",
+            "tilfældig"
+        ]
+    }
+]

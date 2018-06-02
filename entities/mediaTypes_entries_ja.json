@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "シーズン",
+            "シリーズ"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "プレイリスト"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "アルバム",
+            "CD",
+            "ディスク",
+            "記録",
+            "ビニール"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "映画",
+            "膜",
+            "フリック",
+            "映画",
+            "映画",
+            "フリック"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "歌",
+            "トラック",
+            "トラック",
+            "歌"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "音楽"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "アーティスト",
+            "歌手",
+            "バンド",
+            "グループ",
+            "出演者",
+            "作曲家"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "ショー",
+            "ショー",
+            "テレビ番組"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "エピソード"
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "data": [
+            {
+                "text": "ciò che è ",
+                "userDefined": false
+            },
+            {
+                "text": "sul ponte",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Che cosa ",
+                "userDefined": false
+            },
+            {
+                "text": "nuovo",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ho?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Cosa sta giocando",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Cosa c&#39;è in TV",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stasera",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Cosa c&#39;è in TV",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Domani",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "pomeriggio",
+                "alias": "time-period",
+                "meta": "@sys.time-period",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "che cosa ",
+                "userDefined": false
+            },
+            {
+                "text": "nuovo",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            },
+            {
+                "text": " io ho",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Quando è",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Grey&#39;s Anatomy",
+                "alias": "media",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " sopra?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ciò che è ",
+                "userDefined": false
+            },
+            {
+                "text": "sul ponte",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "che cosa ",
+                "userDefined": false
+            },
+            {
+                "text": "nuovo",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Spettacoli",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " sono in biblioteca?",
+                "userDefined": false
+            }
+        ]
+    }
+]

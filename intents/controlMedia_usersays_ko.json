@@ -1,0 +1,214 @@
+[
+    {
+        "data": [
+            {
+                "text": "중지",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " 재생",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "너무 시끄럽다.",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "그것을 위로하다",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다른 것을 선택하십시오.",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DVR",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "가능하게하다 ",
+                "userDefined": false
+            },
+            {
+                "text": "스페인 사람",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "부제",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "중지",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " 재생 ",
+                "userDefined": false
+            },
+            {
+                "text": "거실 TV",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "변화",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "플레이어",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " 에 ",
+                "userDefined": false
+            },
+            {
+                "text": "지하 텔레비젼",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "자막을",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "영어",
+                "alias": "language",
+                "meta": "@sys.language",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "변화",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "플레이어",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "중지",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " 재생",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "변화",
+                "alias": "controls",
+                "meta": "@controls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "플레이어",
+                "alias": "DeviceType",
+                "meta": "@DeviceType",
+                "userDefined": false
+            },
+            {
+                "text": " 에 ",
+                "userDefined": false
+            },
+            {
+                "text": "지하 텔레비젼",
+                "alias": "device",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "data": [
+            {
+                "text": "was kannst du tun",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Was sind deine Befehle?",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Hilfe",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    }
+]

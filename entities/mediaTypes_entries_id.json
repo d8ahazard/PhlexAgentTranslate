@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "musim",
+            "seri"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "daftar putar"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "album",
+            "CD",
+            "cakram",
+            "merekam",
+            "vinil"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "film",
+            "film",
+            "mengibaskan",
+            "film",
+            "film",
+            "film"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "lagu",
+            "jalur",
+            "Jalur",
+            "Lagu"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "musik"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "artis",
+            "penyanyi",
+            "pita",
+            "kelompok",
+            "penampil",
+            "komposer"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "menunjukkan",
+            "pertunjukan",
+            "acara TV"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "episode"
+        ]
+    }
+]

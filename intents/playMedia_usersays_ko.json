@@ -1,0 +1,2124 @@
+[
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삼",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ...에 ",
+                "userDefined": false
+            },
+            {
+                "text": "내 TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삼",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ...에 ",
+                "userDefined": false
+            },
+            {
+                "text": "MiBox",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "into the badlands",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삼",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ~에 ",
+                "userDefined": false
+            },
+            {
+                "text": "바 TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "fast five",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "humans",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "보여 주다",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Westworld",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ...에 ",
+                "userDefined": false
+            },
+            {
+                "text": "침실 TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Black Betty",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 으로 ",
+                "userDefined": false
+            },
+            {
+                "text": "산",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "술책",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Avengers: Age Of Ultron",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "먼저",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "eminem",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "앨범",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 내 ",
+                "userDefined": false
+            },
+            {
+                "text": "패밀리 룸 스피커",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "먼저",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ~의 ",
+                "userDefined": false
+            },
+            {
+                "text": "둘째",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "노래",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Nothing Compares 2 U",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 으로 ",
+                "userDefined": false
+            },
+            {
+                "text": "크리스 코넬",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "보여 주다",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Krypton",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Office",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 에이 ",
+                "userDefined": false
+            },
+            {
+                "text": "계산서",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "머레이",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "영화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The ABC Murders",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "선로",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ant-Man",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ...에 ",
+                "userDefined": false
+            },
+            {
+                "text": "거실 TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Alice",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "최신",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Desperate Housewives",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "앨범",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ride the Lightning",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " 으로 ",
+                "userDefined": false
+            },
+            {
+                "text": "메탈리카",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "보고 싶어",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 에이 ",
+                "userDefined": false
+            },
+            {
+                "text": "계산서",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "머레이",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "영화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "앨범",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Catharsis",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " 으로 ",
+                "userDefined": false
+            },
+            {
+                "text": "머신 헤드",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "영화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "ballerina",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ~에 ",
+                "userDefined": false
+            },
+            {
+                "text": "거실 TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "law and order",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 에이 ",
+                "userDefined": false
+            },
+            {
+                "text": "영화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "10",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Game of Thrones",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Nightwish",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ~에 ",
+                "userDefined": false
+            },
+            {
+                "text": "주방 스피커",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "선로",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "세",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ...에 ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "둘째",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Orange Is The New Black",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " Xbox One에서",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Thunder Rolls",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " 으로 ",
+                "userDefined": false
+            },
+            {
+                "text": "모두 남아있다.",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "보고 싶어",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "둘째",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Scrubs",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "해적",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "최신",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "켜다",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ballers",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "5",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "4",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Breaking Bad",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "선로",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "세",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ...에서 ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "보고 싶어",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ghostbusters",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 에이 ",
+                "userDefined": false
+            },
+            {
+                "text": "영화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ~에 ",
+                "userDefined": false
+            },
+            {
+                "text": "객실 TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "blackbird",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드 ",
+                "userDefined": false
+            },
+            {
+                "text": "먼저",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ~의 ",
+                "userDefined": false
+            },
+            {
+                "text": "둘째",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "술책",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Blazing Saddles",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "그랩",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Sorcerer's Stone",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "가지 그루터기",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " 그만큼 ",
+                "userDefined": false
+            },
+            {
+                "text": "둘째",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "The Flash",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ...에 ",
+                "userDefined": false
+            },
+            {
+                "text": "패밀리 룸 스피커",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "시즌",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ...에 ",
+                "userDefined": false
+            },
+            {
+                "text": "Xbox One",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "나는 그 말을 듣고 싶다. ",
+                "userDefined": false
+            },
+            {
+                "text": "먼저",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "에미넴",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "앨범",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "던지다",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "최신",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Slim Shady LP",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "선로",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "6",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "새로운",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "머신 헤드",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "앨범",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Channel Zero",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "무작위로 연주하다",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "켜다",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 에이 ",
+                "userDefined": false
+            },
+            {
+                "text": "새로운",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "영화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "놀이",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Killing Me Softly",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " 으로 ",
+                "userDefined": false
+            },
+            {
+                "text": "푸게 스",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "손목 시계",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " 에이 ",
+                "userDefined": false
+            },
+            {
+                "text": "조니",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "뎁",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "영화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "혼합",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "메탈리카",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "다운로드",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "새로운",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "에미넴",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "앨범",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "나는보고있는 것처럼 느낀다.",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "새로운",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "삽화",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 의 ",
+                "userDefined": false
+            },
+            {
+                "text": "The Simpsons",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    }
+]

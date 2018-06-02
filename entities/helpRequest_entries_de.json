@@ -1,0 +1,17 @@
+[
+    {
+        "value": "how do you work",
+        "synonyms": [
+            "wie arbeitest du"
+        ]
+    },
+    {
+        "value": "help",
+        "synonyms": [
+            "Hilfe",
+            "was kannst du tun",
+            "Was sind deine Befehle?",
+            "Was sind deine Auslöser?"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "Sann",
+            "ja",
+            "det kan du ge dig på",
+            "Säker",
+            "snälla gör det",
+            "Ja tack",
+            "snälla du",
+            "ok",
+            "gör det",
+            "du har det"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "falsk",
+            "Nej",
+            "Nej tack",
+            "aldrig",
+            "knulla dig",
+            "Glöm det",
+            "aldrig"
+        ]
+    }
+]

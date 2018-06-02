@@ -1,0 +1,78 @@
+[
+    {
+        "data": [
+            {
+                "text": "その ",
+                "userDefined": false
+            },
+            {
+                "text": "アーティスト",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "その ",
+                "userDefined": false
+            },
+            {
+                "text": "アルバム",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "その ",
+                "userDefined": false
+            },
+            {
+                "text": "ショー",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "はい",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "その ",
+                "userDefined": false
+            },
+            {
+                "text": "トラック",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "tidak ditonton",
+            "belum menonton"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "Saya ingin mendengarkan",
+            "saya ingin mendengar",
+            "Saya merasa seperti mendengarkan",
+            "mendengarkan"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "mengambil",
+            "mengambil",
+            "unduh",
+            "bajak laut",
+            "merobek"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "bermain",
+            "mulai",
+            "lemparkan",
+            "nyalakan"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "Saya ingin menonton",
+            "Saya merasa seperti menonton",
+            "menonton"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "kocok",
+            "mengacak",
+            "bermain acak",
+            "acak"
+        ]
+    }
+]

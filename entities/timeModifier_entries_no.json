@@ -1,0 +1,21 @@
+[
+    {
+        "value": "0",
+        "synonyms": [
+            "omstart",
+            "begynnelsen",
+            "starten"
+        ]
+    },
+    {
+        "value": "-1",
+        "synonyms": [
+            "det siste",
+            "Det nyeste",
+            "den nyligste",
+            "som bare aired",
+            "ny",
+            "den nye"
+        ]
+    }
+]

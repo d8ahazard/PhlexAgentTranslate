@@ -1,0 +1,218 @@
+[
+    {
+        "value": "Xbox",
+        "synonyms": [
+            "एक्सबॉक्स"
+        ]
+    },
+    {
+        "value": "Family Room Speaker",
+        "synonyms": [
+            "फैमिली रूम स्पीकर"
+        ]
+    },
+    {
+        "value": "Shield",
+        "synonyms": [
+            "शील्ड"
+        ]
+    },
+    {
+        "value": "Dining Room TV",
+        "synonyms": [
+            "भोजन कक्ष टीवी"
+        ]
+    },
+    {
+        "value": "Living Room Speaker",
+        "synonyms": [
+            "लिविंग रूम स्पीकर"
+        ]
+    },
+    {
+        "value": "Xbox One",
+        "synonyms": [
+            "एक्सबॉक्स वन"
+        ]
+    },
+    {
+        "value": "Basement TV",
+        "synonyms": [
+            "बेसमेंट टीवी"
+        ]
+    },
+    {
+        "value": "Bathroom TV",
+        "synonyms": [
+            "बाथरूम टीवी"
+        ]
+    },
+    {
+        "value": "kitchen speaker",
+        "synonyms": [
+            "रसोई वक्ता"
+        ]
+    },
+    {
+        "value": "Den Speaker",
+        "synonyms": [
+            "अध्यक्ष"
+        ]
+    },
+    {
+        "value": "Kitchen TV",
+        "synonyms": [
+            "रसोई टीवी"
+        ]
+    },
+    {
+        "value": "Raspberry Pi",
+        "synonyms": [
+            "रास्पबेरी पाई"
+        ]
+    },
+    {
+        "value": "Pool House",
+        "synonyms": [
+            "पूल घर"
+        ]
+    },
+    {
+        "value": "Plex Web Chrome",
+        "synonyms": [
+            "प्लेक्स वेब क्रोम"
+        ]
+    },
+    {
+        "value": "Bathroom Speaker",
+        "synonyms": [
+            "बाथरूम अध्यक्ष"
+        ]
+    },
+    {
+        "value": "Rec Room",
+        "synonyms": [
+            "आरईसी कमरे"
+        ]
+    },
+    {
+        "value": "Basement Speaker",
+        "synonyms": [
+            "बेसमेंट अध्यक्ष"
+        ]
+    },
+    {
+        "value": "Den TV",
+        "synonyms": [
+            "टीवी"
+        ]
+    },
+    {
+        "value": "Chrome",
+        "synonyms": [
+            "क्रोम"
+        ]
+    },
+    {
+        "value": "Family Room TV",
+        "synonyms": [
+            "फैमिली रूम टीवी"
+        ]
+    },
+    {
+        "value": "Living Room TV",
+        "synonyms": [
+            "लिविंग रूम टीवी"
+        ]
+    },
+    {
+        "value": "Bedroom Speaker",
+        "synonyms": [
+            "बेडरूम अध्यक्ष"
+        ]
+    },
+    {
+        "value": "Roku",
+        "synonyms": [
+            "साल"
+        ]
+    },
+    {
+        "value": "Guest Bedroom",
+        "synonyms": [
+            "मेहमान का बेडरूम"
+        ]
+    },
+    {
+        "value": "Nexus Player",
+        "synonyms": [
+            "नेक्सस प्लेयर"
+        ]
+    },
+    {
+        "value": "Dining Room Speaker",
+        "synonyms": [
+            "भोजन कक्ष अध्यक्ष"
+        ]
+    },
+    {
+        "value": "Kitchen Speaker",
+        "synonyms": [
+            "रसोई अध्यक्ष"
+        ]
+    },
+    {
+        "value": "Bedroom TV",
+        "synonyms": [
+            "बेडरूम टीवी"
+        ]
+    },
+    {
+        "value": "Chromecast",
+        "synonyms": [
+            "Chromecast"
+        ]
+    },
+    {
+        "value": "Mi Box",
+        "synonyms": [
+            "मेरा बॉक्स"
+        ]
+    },
+    {
+        "value": "Bar TV",
+        "synonyms": [
+            "बार टीवी"
+        ]
+    },
+    {
+        "value": "My TV",
+        "synonyms": [
+            "मेरा टीवी"
+        ]
+    },
+    {
+        "value": "Bar Speaker",
+        "synonyms": [
+            "बार अध्यक्ष"
+        ]
+    },
+    {
+        "value": "My Speaker",
+        "synonyms": [
+            "मेरा अध्यक्ष"
+        ]
+    },
+    {
+        "value": "Firefox",
+        "synonyms": [
+            "फ़ायरफ़ॉक्स"
+        ]
+    },
+    {
+        "value": "Edge",
+        "synonyms": [
+            "धार"
+        ]
+    }
+]

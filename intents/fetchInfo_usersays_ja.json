@@ -1,0 +1,214 @@
+[
+    {
+        "data": [
+            {
+                "text": "何ですか ",
+                "userDefined": false
+            },
+            {
+                "text": "オンデッキ",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "何 ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " 私は持っていますか？",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "再生しているもの",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "？",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "テレビには何がありますか？",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "今晩",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": "？",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "テレビには何がありますか？",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "明日",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "午後",
+                "alias": "time-period",
+                "meta": "@sys.time-period",
+                "userDefined": false
+            },
+            {
+                "text": "？",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "何 ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "映画",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            },
+            {
+                "text": " 私が持っています",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "時である",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "グレイの解剖学",
+                "alias": "media",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " に？",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "何ですか ",
+                "userDefined": false
+            },
+            {
+                "text": "オンデッキ",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "？",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "何 ",
+                "userDefined": false
+            },
+            {
+                "text": "新しい",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "ショー",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ライブラリにありますか？",
+                "userDefined": false
+            }
+        ]
+    }
+]

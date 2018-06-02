@@ -1,0 +1,32 @@
+[
+    {
+        "data": [
+            {
+                "text": "vad kan du göra",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "vad är dina kommandon",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Hjälp",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    }
+]

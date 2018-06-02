@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "säsong",
+            "serier"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "Spellista"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "album",
+            "CD",
+            "skiva",
+            "spela in",
+            "vinyl"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "film",
+            "filma",
+            "snärt",
+            "bio",
+            "filmer",
+            "flicks"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "låt",
+            "Spår",
+            "Spår",
+            "Låt"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "musik"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "konstnär",
+            "sångare",
+            "band",
+            "grupp",
+            "artist",
+            "kompositör"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "show",
+            "visar",
+            "Tv program"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "episod"
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "mudança",
+            "interruptor",
+            "escolha um diferente",
+            "usar um diferente",
+            "use um novo",
+            "selecione um novo",
+            "selecione um diferente",
+            "escolha um novo"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "mudar o idioma da legenda",
+            "defina as legendas para",
+            "legendas"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "procurar",
+            "pule para",
+            "vamos para",
+            "definir o tempo para"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "costas",
+            "anterior",
+            "pular de volta"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "pule em frente"
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "currículo",
+            "continuar",
+            "unpause"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "aumentar o volume",
+            "aumente",
+            "Não consigo ouvir"
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "mudo"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "Próximo",
+            "passe à frente",
+            "Próximo Capítulo"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "desligue as legendas",
+            "desativar legendas"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "Pare"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "pausa"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "habilitar legendas",
+            "liga as legendas"
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "volume"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "volume baixo",
+            "Está muito alto",
+            "abaixe"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "reexaminar",
+            "biblioteca de varredura",
+            "digitalizar arquivos",
+            "reexaminar arquivos",
+            "rescan biblioteca",
+            "biblioteca de atualização",
+            "atualizar arquivos",
+            "atualizar a biblioteca",
+            "atualizar minha biblioteca"
+        ]
+    }
+]

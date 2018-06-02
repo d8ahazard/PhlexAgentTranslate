@@ -1,0 +1,214 @@
+[
+    {
+        "data": [
+            {
+                "text": "vad är ",
+                "userDefined": false
+            },
+            {
+                "text": "på däck",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Vad ",
+                "userDefined": false
+            },
+            {
+                "text": "ny",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "bio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " har jag?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Vad spelas",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Vad är det på tv",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "i kväll",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Vad är det på tv",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "i morgon",
+                "alias": "date",
+                "meta": "@sys.date",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "eftermiddag",
+                "alias": "time-period",
+                "meta": "@sys.time-period",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Vad ",
+                "userDefined": false
+            },
+            {
+                "text": "ny",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "bio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            },
+            {
+                "text": " jag har",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "När är",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Greys anatomy",
+                "alias": "media",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " på?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "vad är ",
+                "userDefined": false
+            },
+            {
+                "text": "på däck",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": "?",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Vad ",
+                "userDefined": false
+            },
+            {
+                "text": "ny",
+                "alias": "infoRequests",
+                "meta": "@infoRequests",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "visar",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " finns i biblioteket?",
+                "userDefined": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "data": [
+            {
+                "text": "il ",
+                "userDefined": false
+            },
+            {
+                "text": "artista",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "il ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "il ",
+                "userDefined": false
+            },
+            {
+                "text": "mostrare",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ghostbusters",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1984",
+                "alias": "age",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "sì",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ghostbusters",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2016",
+                "alias": "age",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "il ",
+                "userDefined": false
+            },
+            {
+                "text": "traccia",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

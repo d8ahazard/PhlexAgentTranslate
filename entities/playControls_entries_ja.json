@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "未処理",
+            "見たことがない"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "私は聴きたい",
+            "聞きたい",
+            "私は聞いているように感じる",
+            "聞く"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "つかむ",
+            "フェッチ",
+            "ダウンロード",
+            "海賊",
+            "ひどい"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "遊びます",
+            "開始",
+            "投げる",
+            "オンにする"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "私は見たい",
+            "私は見ている気がする",
+            "時計"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "シャッフル",
+            "ランダム化する",
+            "ランダムに演奏する",
+            "ランダム"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "value": "nowPlaying",
+        "synonyms": [
+            "Was läuft da gerade",
+            "was spielt",
+            "was gerade spielt",
+            "Was beobachte ich?",
+            "was beobachten wir?"
+        ]
+    },
+    {
+        "value": "airings",
+        "synonyms": [
+            "Was läuft im Fernsehen",
+            "Was läuft im Fernsehen",
+            "Was geht ab",
+            "wann ist",
+            "wann tut"
+        ]
+    },
+    {
+        "value": "ondeck",
+        "synonyms": [
+            "auf dem Deck",
+            "an Deck"
+        ]
+    },
+    {
+        "value": "recent",
+        "synonyms": [
+            "kürzlich",
+            "Neu",
+            "gerade hinzugefügt"
+        ]
+    }
+]

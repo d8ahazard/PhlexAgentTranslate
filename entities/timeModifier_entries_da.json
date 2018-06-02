@@ -1,0 +1,21 @@
+[
+    {
+        "value": "0",
+        "synonyms": [
+            "genstart",
+            "begyndelsen",
+            "starten"
+        ]
+    },
+    {
+        "value": "-1",
+        "synonyms": [
+            "det seneste",
+            "det nyeste",
+            "den seneste",
+            "der lige luftede",
+            "ny",
+            "den nye"
+        ]
+    }
+]

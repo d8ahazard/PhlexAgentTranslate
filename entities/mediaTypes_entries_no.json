@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "årstid",
+            "serie"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "spilleliste"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "album",
+            "cd",
+            "plate",
+            "ta opp",
+            "vinyl"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "film",
+            "film",
+            "flick",
+            "filmer",
+            "filmer",
+            "flicks"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "sang",
+            "spor",
+            "Spor",
+            "Sang"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "musikk"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "kunstner",
+            "sanger",
+            "bånd",
+            "gruppe",
+            "utøver",
+            "komponist"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "forestilling",
+            "viser",
+            "TV-programmer"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "episode"
+        ]
+    }
+]

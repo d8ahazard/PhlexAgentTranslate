@@ -1,0 +1,78 @@
+[
+    {
+        "data": [
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "художник",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "альбом",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "показать",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "да",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "трек",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

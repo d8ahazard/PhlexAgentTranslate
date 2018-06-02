@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "변화",
+            "스위치",
+            "다른 것을 선택하십시오.",
+            "다른 것을 사용하다",
+            "새로운 것을 사용하다",
+            "새로운 것을 선택하십시오.",
+            "다른 것을 선택하십시오",
+            "새로운 것을 선택하다"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "자막 언어 변경",
+            "자막을",
+            "부제"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "목표물 탐색",
+            "점프하다",
+            "가다",
+            "시간을"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "뒤로",
+            "너무 이른",
+            "뒤로 건너 뛰다"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "앞서 뛰어 오르다."
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "이력서",
+            "잇다",
+            "일시 중지 해제"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "볼륨 업",
+            "그것을 위로하다",
+            "나는들을 수 없다."
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "묵자"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "다음 것",
+            "앞으로 건너 뛰기",
+            "다음 장"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "자막을 끈다.",
+            "자막 사용 안 함"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "중지"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "중지"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "자막 사용",
+            "자막을 켜십시오."
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "음량"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "volume.down",
+            "너무 시끄럽다.",
+            "그것을 거절"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "재검사",
+            "스캔 라이브러리",
+            "파일 검사",
+            "파일 다시 검색",
+            "라이브러리 다시 검사",
+            "라이브러리 업데이트",
+            "파일 업데이트",
+            "도서관을 새롭게하다",
+            "내 라이브러리 업데이트"
+        ]
+    }
+]

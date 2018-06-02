@@ -1,0 +1,32 @@
+[
+    {
+        "data": [
+            {
+                "text": "당신은 무엇을 할 수 있나요",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "당신의 명령은 무엇입니까?",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "도움",
+                "alias": "helpRequest",
+                "meta": "@helpRequest",
+                "userDefined": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "ekte",
+            "ja",
+            "det kan du vedde på",
+            "sikker",
+            "vær så snill",
+            "Ja takk",
+            "vær så snill",
+            "ok",
+            "gjør det",
+            "du har det"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "falsk",
+            "Nei",
+            "Nei takk",
+            "aldri",
+            "knulle deg",
+            "glem det",
+            "aldri"
+        ]
+    }
+]

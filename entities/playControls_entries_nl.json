@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "unwatched",
+            "heb niet gekeken"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "Ik wil luisteren",
+            "ik wil horen",
+            "Ik heb zin om te luisteren",
+            "luisteren naar"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "grijpen",
+            "halen",
+            "downloaden",
+            "piraat",
+            "moeilijkheid"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "spelen",
+            "begin",
+            "werpen op",
+            "aanzetten"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "ik wil kijken",
+            "Ik heb zin om te kijken",
+            "kijk maar"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "schuifelen",
+            "willekeurig",
+            "speel een willekeurige",
+            "willekeurig"
+        ]
+    }
+]

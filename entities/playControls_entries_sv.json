@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "osedda",
+            "har inte tittat på"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "Jag vill lyssna på",
+            "jag vill höra",
+            "Jag känner mig som att lyssna på",
+            "lyssna på"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "hugg",
+            "hämta",
+            "ladda ner",
+            "pirat",
+            "krux"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "spela",
+            "Start",
+            "släng på",
+            "sätta på"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "Jag vill se",
+            "Jag tycker om att titta på",
+            "Kolla på"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "blanda",
+            "randomisera",
+            "spela en slumpmässig",
+            "slumpmässig"
+        ]
+    }
+]

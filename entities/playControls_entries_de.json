@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "unbeobachtet",
+            "habe nicht zugeschaut"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "Ich möchte hören",
+            "Ich möchte hören",
+            "Ich habe Lust zu hören",
+            "zuhören"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "greifen",
+            "holen",
+            "herunterladen",
+            "Pirat",
+            "Haken"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "abspielen",
+            "Anfang",
+            "weiter werfen",
+            "anmachen"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "Ich möchte schauen",
+            "Ich möchte zusehen",
+            "Uhr"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "Mischen",
+            "randomisieren",
+            "spiele ein zufälliges",
+            "zufällig"
+        ]
+    }
+]

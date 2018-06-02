@@ -1,0 +1,154 @@
+[
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "eerste",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            },
+            {
+                "text": " een",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "eerste",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "artiest",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "nummer een",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "nummer drie",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de laatste",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "laten zien",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ja",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "tweede",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "spoor",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

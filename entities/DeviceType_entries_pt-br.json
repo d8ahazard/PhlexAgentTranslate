@@ -1,0 +1,24 @@
+[
+    {
+        "value": "Client",
+        "synonyms": [
+            "Cliente",
+            "jogador",
+            "aparelho de reprodução"
+        ]
+    },
+    {
+        "value": "Server",
+        "synonyms": [
+            "Servidor",
+            "Servidor de mídia"
+        ]
+    },
+    {
+        "value": "DVR",
+        "synonyms": [
+            "DVR",
+            "gravador"
+        ]
+    }
+]

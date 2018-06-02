@@ -1,0 +1,37 @@
+[
+    {
+        "value": "nowPlaying",
+        "synonyms": [
+            "ce qui joue",
+            "ce qui joue",
+            "ce qui joue actuellement",
+            "qu&#39;est-ce que je regarde",
+            "que regardons-nous"
+        ]
+    },
+    {
+        "value": "airings",
+        "synonyms": [
+            "Ce qui est à la télé",
+            "Quel est à la télévision",
+            "Quoi de neuf",
+            "quand est",
+            "quand est-ce"
+        ]
+    },
+    {
+        "value": "ondeck",
+        "synonyms": [
+            "ondeck",
+            "sur le pont"
+        ]
+    },
+    {
+        "value": "recent",
+        "synonyms": [
+            "récent",
+            "Nouveau",
+            "vient d&#39;ajouter"
+        ]
+    }
+]

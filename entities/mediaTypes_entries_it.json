@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "stagione",
+            "serie"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "elenco di riproduzione"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "album",
+            "CD",
+            "disco",
+            "disco",
+            "vinile"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "film",
+            "film",
+            "colpo di frusta",
+            "film",
+            "cinema",
+            "colpi di frusta"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "canzone",
+            "traccia",
+            "Traccia",
+            "Canzone"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "musica"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "artista",
+            "cantante",
+            "gruppo musicale",
+            "gruppo",
+            "esecutore",
+            "compositore"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "mostrare",
+            "Spettacoli",
+            "spettacoli televisivi"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "episodio"
+        ]
+    }
+]

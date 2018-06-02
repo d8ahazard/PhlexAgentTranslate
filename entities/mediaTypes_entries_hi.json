@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "ऋतु",
+            "शृंखला"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "प्लेलिस्ट"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "एल्बम",
+            "सीडी",
+            "डिस्क",
+            "अभिलेख",
+            "विनाइल"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "चलचित्र",
+            "फ़िल्म",
+            "झटका",
+            "चलचित्र",
+            "फिल्मों",
+            "फ्लिक"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "गाना",
+            "धावन पथ",
+            "धावन पथ",
+            "गाना"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "संगीत"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "कलाकार",
+            "गायक",
+            "बैंड",
+            "समूह",
+            "अभिनेता",
+            "संगीतकार"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "प्रदर्शन",
+            "दिखाता है",
+            "टीवी शो"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "प्रकरण"
+        ]
+    }
+]

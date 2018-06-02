@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "non surveillé",
+            "n&#39;a pas regardé"
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "Je veux écouter",
+            "Je veux entendre",
+            "J&#39;ai envie d&#39;écouter",
+            "Ecouter"
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "saisir",
+            "chercher",
+            "Télécharger",
+            "pirate",
+            "accroc"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "jouer",
+            "début",
+            "jeter sur",
+            "allumer"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "je veux regarder",
+            "J&#39;ai envie de regarder",
+            "regarder"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "mélanger",
+            "randomiser",
+            "jouer au hasard",
+            "au hasard"
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "value": "Client",
+        "synonyms": [
+            "Klien",
+            "pemain",
+            "perangkat pemutaran"
+        ]
+    },
+    {
+        "value": "Server",
+        "synonyms": [
+            "Server",
+            "Server Media"
+        ]
+    },
+    {
+        "value": "DVR",
+        "synonyms": [
+            "DVR",
+            "perekam"
+        ]
+    }
+]

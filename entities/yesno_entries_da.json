@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "rigtigt",
+            "Ja",
+            "det kan du tro",
+            "jo da",
+            "Vær sød at gøre",
+            "ja, tak",
+            "Vær venlig",
+            "Okay",
+            "gør det",
+            "du har det"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "falsk",
+            "ingen",
+            "Nej tak",
+            "ingen måde",
+            "fuck dig",
+            "Glem det",
+            "aldrig"
+        ]
+    }
+]

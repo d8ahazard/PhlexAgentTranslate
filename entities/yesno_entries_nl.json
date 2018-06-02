@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "waar",
+            "Ja",
+            "zeker weten",
+            "zeker",
+            "doe alsjeblieft",
+            "Ja graag",
+            "alsjeblieft",
+            "OK",
+            "doe het",
+            "jij hebt het"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "vals",
+            "Nee",
+            "Nee, dank u wel",
+            "echt niet",
+            "fuck je",
+            "laat maar",
+            "nooit"
+        ]
+    }
+]

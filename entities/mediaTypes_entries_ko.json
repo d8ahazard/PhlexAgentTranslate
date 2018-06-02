@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "시즌",
+            "시리즈"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "재생 목록"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "앨범",
+            "CD",
+            "디스크",
+            "기록",
+            "비닐"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "영화",
+            "필름",
+            "영화",
+            "영화 산업",
+            "영화",
+            "제스처"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "노래",
+            "선로",
+            "선로",
+            "노래"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "음악"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "예술가",
+            "가수",
+            "밴드",
+            "그룹",
+            "수행자",
+            "작곡가"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "보여 주다",
+            "쇼",
+            "TV 프로그램"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "삽화"
+        ]
+    }
+]

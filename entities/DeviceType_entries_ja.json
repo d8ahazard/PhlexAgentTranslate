@@ -1,0 +1,24 @@
+[
+    {
+        "value": "Client",
+        "synonyms": [
+            "クライアント",
+            "プレーヤー",
+            "再生装置"
+        ]
+    },
+    {
+        "value": "Server",
+        "synonyms": [
+            "サーバ",
+            "メディアサーバー"
+        ]
+    },
+    {
+        "value": "DVR",
+        "synonyms": [
+            "DVR",
+            "レコーダー"
+        ]
+    }
+]

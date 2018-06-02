@@ -1,0 +1,154 @@
+[
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "först",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            },
+            {
+                "text": " ett",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "den första",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "konstnär",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "nummer ett",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "nummer tre",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "den sista",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "show",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "ja",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "den andra",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "de ",
+                "userDefined": false
+            },
+            {
+                "text": "Spår",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "perubahan",
+            "beralih",
+            "pilih yang berbeda",
+            "gunakan yang berbeda",
+            "gunakan yang baru",
+            "pilih yang baru",
+            "pilih yang berbeda",
+            "pilih yang baru"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "ubah bahasa subtitle",
+            "setel subjudul ke",
+            "sub judul"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "mencari",
+            "lompat ke",
+            "pergi ke",
+            "mengatur waktu untuk"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "kembali",
+            "sebelumnya",
+            "lewati kembali"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "lompat ke depan"
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "lanjut",
+            "terus",
+            "berhenti sejenak"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "volume.up",
+            "hidupkan",
+            "Saya tidak bisa mendengar"
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "bisu"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "berikutnya",
+            "lompat ke depan",
+            "Bab selanjutnya"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "matikan subtitle",
+            "nonaktifkan subtitle"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "berhenti"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "berhenti sebentar"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "aktifkan subtitle",
+            "nyalakan subtitelnya"
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "volume"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "volume.down",
+            "Terlalu keras",
+            "menolaknya"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "menelusuri ulang",
+            "pindai pustaka",
+            "memindai file",
+            "memindai ulang file",
+            "pindai ulang pustaka",
+            "perbarui pustaka",
+            "perbarui file",
+            "perbarui pustaka",
+            "perbarui perpustakaan saya"
+        ]
+    }
+]

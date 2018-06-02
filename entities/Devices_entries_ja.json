@@ -1,0 +1,218 @@
+[
+    {
+        "value": "Xbox",
+        "synonyms": [
+            "Xbox"
+        ]
+    },
+    {
+        "value": "Family Room Speaker",
+        "synonyms": [
+            "ファミリールームスピーカー"
+        ]
+    },
+    {
+        "value": "Shield",
+        "synonyms": [
+            "シールド"
+        ]
+    },
+    {
+        "value": "Dining Room TV",
+        "synonyms": [
+            "ダイニングルームテレビ"
+        ]
+    },
+    {
+        "value": "Living Room Speaker",
+        "synonyms": [
+            "リビングルームスピーカー"
+        ]
+    },
+    {
+        "value": "Xbox One",
+        "synonyms": [
+            "Xbox One"
+        ]
+    },
+    {
+        "value": "Basement TV",
+        "synonyms": [
+            "地下テレビ"
+        ]
+    },
+    {
+        "value": "Bathroom TV",
+        "synonyms": [
+            "バスルームテレビ"
+        ]
+    },
+    {
+        "value": "kitchen speaker",
+        "synonyms": [
+            "キッチンスピーカー"
+        ]
+    },
+    {
+        "value": "Den Speaker",
+        "synonyms": [
+            "スピーカー"
+        ]
+    },
+    {
+        "value": "Kitchen TV",
+        "synonyms": [
+            "キッチンテレビ"
+        ]
+    },
+    {
+        "value": "Raspberry Pi",
+        "synonyms": [
+            "ラズベリーパイ"
+        ]
+    },
+    {
+        "value": "Pool House",
+        "synonyms": [
+            "プールハウス"
+        ]
+    },
+    {
+        "value": "Plex Web Chrome",
+        "synonyms": [
+            "Plex Web Chrome"
+        ]
+    },
+    {
+        "value": "Bathroom Speaker",
+        "synonyms": [
+            "バスルームスピーカー"
+        ]
+    },
+    {
+        "value": "Rec Room",
+        "synonyms": [
+            "録音室"
+        ]
+    },
+    {
+        "value": "Basement Speaker",
+        "synonyms": [
+            "地下スピーカー"
+        ]
+    },
+    {
+        "value": "Den TV",
+        "synonyms": [
+            "テレビ"
+        ]
+    },
+    {
+        "value": "Chrome",
+        "synonyms": [
+            "クロム"
+        ]
+    },
+    {
+        "value": "Family Room TV",
+        "synonyms": [
+            "ファミリールームテレビ"
+        ]
+    },
+    {
+        "value": "Living Room TV",
+        "synonyms": [
+            "リビングルームテレビ"
+        ]
+    },
+    {
+        "value": "Bedroom Speaker",
+        "synonyms": [
+            "ベッドルームスピーカー"
+        ]
+    },
+    {
+        "value": "Roku",
+        "synonyms": [
+            "年"
+        ]
+    },
+    {
+        "value": "Guest Bedroom",
+        "synonyms": [
+            "ゲストベッドルーム"
+        ]
+    },
+    {
+        "value": "Nexus Player",
+        "synonyms": [
+            "Nexus Player"
+        ]
+    },
+    {
+        "value": "Dining Room Speaker",
+        "synonyms": [
+            "ダイニングルームスピーカー"
+        ]
+    },
+    {
+        "value": "Kitchen Speaker",
+        "synonyms": [
+            "キッチンスピーカー"
+        ]
+    },
+    {
+        "value": "Bedroom TV",
+        "synonyms": [
+            "ベッドルームテレビ"
+        ]
+    },
+    {
+        "value": "Chromecast",
+        "synonyms": [
+            "Chromecast"
+        ]
+    },
+    {
+        "value": "Mi Box",
+        "synonyms": [
+            "マイボックス"
+        ]
+    },
+    {
+        "value": "Bar TV",
+        "synonyms": [
+            "バーテレビ"
+        ]
+    },
+    {
+        "value": "My TV",
+        "synonyms": [
+            "私のテレビ"
+        ]
+    },
+    {
+        "value": "Bar Speaker",
+        "synonyms": [
+            "バースピーカー"
+        ]
+    },
+    {
+        "value": "My Speaker",
+        "synonyms": [
+            "私のスピーカー"
+        ]
+    },
+    {
+        "value": "Firefox",
+        "synonyms": [
+            "Firefox"
+        ]
+    },
+    {
+        "value": "Edge",
+        "synonyms": [
+            "エッジ"
+        ]
+    }
+]

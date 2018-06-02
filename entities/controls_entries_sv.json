@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "Byta",
+            "växla",
+            "Välj en annan",
+            "använd ett annat",
+            "använd en ny",
+            "välj en ny",
+            "välj en annan",
+            "Välj en ny"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "ändra undertextspråk",
+            "sätt undertexterna till",
+            "undertexter"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "söka",
+            "hoppa till",
+            "gå till",
+            "Ställ in tiden till"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "tillbaka",
+            "tidigare",
+            "hoppa tillbaka"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "Hoppa framåt"
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "återuppta",
+            "Fortsätta",
+            "återaktivera"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "Höj volymen",
+            "Höj volymen",
+            "Jag kan inte höra"
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "stum"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "Nästa",
+            "hoppa framåt",
+            "nästa kapitel"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "stäng av undertexten",
+            "inaktivera undertexter"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "sluta"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "paus"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "aktivera undertexter",
+            "sätt på undertexterna"
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "volym"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "Sänk volymen",
+            "Det är för högt",
+            "Sänk volymen"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "scanna",
+            "skanna biblioteket",
+            "skanna filer",
+            "omskanna filer",
+            "omkoda biblioteket",
+            "uppdatera biblioteket",
+            "uppdatera filer",
+            "uppdatera biblioteket",
+            "uppdatera mitt bibliotek"
+        ]
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "変化する",
+            "スイッチ",
+            "別のものを選ぶ",
+            "別のものを使う",
+            "新しい",
+            "新しいものを選択する",
+            "別のものを選択する",
+            "新しいものを選ぶ"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "字幕言語を変更する",
+            "字幕を",
+            "字幕"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "シーク",
+            "にジャンプする",
+            "に行く",
+            "時間を"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "バック",
+            "前",
+            "スキップバック"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "一足先"
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "履歴書",
+            "持続する",
+            "ポーズ解除"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "volume.up",
+            "それを立てる",
+            "私は聞くことができません"
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "ミュート"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "次",
+            "前方にスキップする",
+            "次の章"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "字幕をオフにする",
+            "字幕を無効にする"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "やめる"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "一時停止する"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "字幕を有効にする",
+            "字幕をオンにする"
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "ボリューム"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "ボリュームダウン",
+            "うるさすぎる",
+            "それを断る"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "再スキャン",
+            "スキャンライブラリ",
+            "ファイルをスキャンする",
+            "ファイルを再スキャンする",
+            "再スキャンライブラリ",
+            "ライブラリを更新する",
+            "ファイルを更新する",
+            "ライブラリを更新する",
+            "私の図書館を更新する"
+        ]
+    }
+]

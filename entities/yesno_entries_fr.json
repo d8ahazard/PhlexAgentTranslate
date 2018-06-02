@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "vrai",
+            "Oui",
+            "tu paries",
+            "sûr",
+            "faites s&#39;il vous plaît",
+            "Oui s&#39;il vous plaît",
+            "S&#39;il vous plaît",
+            "D&#39;accord",
+            "fais le",
+            "tu l&#39;as eu"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "faux",
+            "non",
+            "Non merci",
+            "en aucune façon",
+            "baise toi",
+            "ça ne fait rien",
+            "jamais"
+        ]
+    }
+]

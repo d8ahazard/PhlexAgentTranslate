@@ -1,0 +1,37 @@
+[
+    {
+        "value": "nowPlaying",
+        "synonyms": [
+            "O que está jogando",
+            "o que está jogando",
+            "o que está jogando atualmente",
+            "o que estou assistindo",
+            "o que estamos assistindo"
+        ]
+    },
+    {
+        "value": "airings",
+        "synonyms": [
+            "O que há na TV",
+            "O que está na tv",
+            "O que está passando",
+            "Quando é",
+            "quando faz"
+        ]
+    },
+    {
+        "value": "ondeck",
+        "synonyms": [
+            "ondeck",
+            "no convés"
+        ]
+    },
+    {
+        "value": "recent",
+        "synonyms": [
+            "recente",
+            "Novo",
+            "Acabou de adicionar"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "benar",
+            "iya nih",
+            "kamu bertaruh",
+            "yakin",
+            "silakan lakukan",
+            "ya silahkan",
+            "silahkan",
+            "baik",
+            "lakukan",
+            "kamu mendapatkannya"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "Salah",
+            "tidak",
+            "tidak, terima kasih",
+            "tidak mungkin",
+            "bercinta denganmu",
+            "lupakan",
+            "tak pernah"
+        ]
+    }
+]

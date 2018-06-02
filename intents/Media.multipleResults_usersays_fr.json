@@ -1,0 +1,118 @@
+[
+    {
+        "data": [
+            {
+                "text": "la ",
+                "userDefined": false
+            },
+            {
+                "text": "artiste",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "la ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "la ",
+                "userDefined": false
+            },
+            {
+                "text": "montrer",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ghostbusters",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1984",
+                "alias": "age",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Oui",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ghostbusters",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2016",
+                "alias": "age",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "la ",
+                "userDefined": false
+            },
+            {
+                "text": "Piste",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

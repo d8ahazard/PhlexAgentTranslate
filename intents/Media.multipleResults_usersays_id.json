@@ -1,0 +1,154 @@
+[
+    {
+        "data": [
+            {
+                "text": "itu ",
+                "userDefined": false
+            },
+            {
+                "text": "pertama",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            },
+            {
+                "text": " satu",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "itu ",
+                "userDefined": false
+            },
+            {
+                "text": "pertama",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "itu ",
+                "userDefined": false
+            },
+            {
+                "text": "artis",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Lee mead blackbird",
+                "alias": "any",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "nomor satu",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "itu ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "nomor tiga",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "yang terakhir",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "itu ",
+                "userDefined": false
+            },
+            {
+                "text": "menunjukkan",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "iya nih",
+                "alias": "yesno",
+                "meta": "@yesno",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "itu ",
+                "userDefined": false
+            },
+            {
+                "text": "kedua",
+                "alias": "ordinal",
+                "meta": "@sys.ordinal",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "itu ",
+                "userDefined": false
+            },
+            {
+                "text": "jalur",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    }
+]

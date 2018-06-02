@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "время года",
+            "серии"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "плейлист"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "альбом",
+            "CD",
+            "диск",
+            "запись",
+            "винил"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "кино",
+            "фильм",
+            "фильм",
+            "кино",
+            "фильмы",
+            "кино"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "песня",
+            "трек",
+            "трек",
+            "песня"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "Музыка"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "художник",
+            "певец",
+            "группа",
+            "группа",
+            "исполнитель",
+            "композитор"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "показать",
+            "шоу",
+            "ТВ шоу"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "эпизод"
+        ]
+    }
+]

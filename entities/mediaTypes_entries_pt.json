@@ -1,0 +1,78 @@
+[
+    {
+        "value": "show.season",
+        "synonyms": [
+            "show.season",
+            "estação",
+            "Series"
+        ]
+    },
+    {
+        "value": "playlist",
+        "synonyms": [
+            "lista de reprodução"
+        ]
+    },
+    {
+        "value": "music.album",
+        "synonyms": [
+            "álbum",
+            "CD",
+            "disco",
+            "registro",
+            "vinil"
+        ]
+    },
+    {
+        "value": "movie",
+        "synonyms": [
+            "filme",
+            "filme",
+            "estalido",
+            "filmes",
+            "filmes",
+            "movimentos"
+        ]
+    },
+    {
+        "value": "music.track",
+        "synonyms": [
+            "canção",
+            "rastrear",
+            "Track",
+            "Canção"
+        ]
+    },
+    {
+        "value": "music",
+        "synonyms": [
+            "música"
+        ]
+    },
+    {
+        "value": "music.artist",
+        "synonyms": [
+            "artista",
+            "cantor",
+            "banda",
+            "grupo",
+            "artista",
+            "compositor"
+        ]
+    },
+    {
+        "value": "show",
+        "synonyms": [
+            "exposição",
+            "mostra",
+            "programas de televisão"
+        ]
+    },
+    {
+        "value": "show.episode",
+        "synonyms": [
+            "show.episode",
+            "episódio"
+        ]
+    }
+]

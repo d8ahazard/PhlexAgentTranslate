@@ -1,0 +1,37 @@
+[
+    {
+        "value": "nowPlaying",
+        "synonyms": [
+            "apa yang sedang diputar",
+            "apa yang sedang diputar",
+            "apa yang sedang diputar",
+            "apa yang saya tonton",
+            "apa yang kita tonton"
+        ]
+    },
+    {
+        "value": "airings",
+        "synonyms": [
+            "Apa yang ada di TV",
+            "Apa yang ada di tv",
+            "Apa yang ada",
+            "kapan",
+            "kapan"
+        ]
+    },
+    {
+        "value": "ondeck",
+        "synonyms": [
+            "ondeck",
+            "di dek"
+        ]
+    },
+    {
+        "value": "recent",
+        "synonyms": [
+            "baru",
+            "baru",
+            "baru ditambahkan"
+        ]
+    }
+]

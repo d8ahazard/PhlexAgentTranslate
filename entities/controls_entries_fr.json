@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "changement",
+            "commutateur",
+            "choisir un autre",
+            "utiliser un autre",
+            "utiliser un nouveau",
+            "sélectionnez un nouveau",
+            "sélectionnez un autre",
+            "choisissez un nouveau"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "changer la langue des sous-titres",
+            "définir les sous-titres à",
+            "Les sous-titres"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "chercher",
+            "sauter à",
+            "aller à",
+            "régler l&#39;heure à"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "arrière",
+            "précédent",
+            "revenir en arrière"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "sauter en avant"
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "CV",
+            "continuer",
+            "faire une pause"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "monter le son",
+            "allume",
+            "Je ne peux pas entendre"
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "muet"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "prochain",
+            "avancer",
+            "Chapitre suivant"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "désactiver les sous-titres",
+            "désactiver les sous-titres"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "Arrêtez"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "pause"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "activer les sous-titres",
+            "activer les sous-titres"
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "le volume"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "baisser le volume",
+            "C&#39;est trop fort",
+            "le baisser"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "re-scanner",
+            "bibliothèque de balayage",
+            "analyser les fichiers",
+            "rescan fichiers",
+            "rescan bibliothèque",
+            "mise à jour",
+            "mettre à jour",
+            "mettre à jour la bibliothèque",
+            "mettre à jour ma bibliothèque"
+        ]
+    }
+]

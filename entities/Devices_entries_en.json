@@ -172,5 +172,47 @@
     "synonyms": [
       "Chromecast"
     ]
+  },
+  {
+    "value": "Mi Box",
+    "synonyms": [
+      "Mi Box"
+    ]
+  },
+  {
+    "value": "Bar TV",
+    "synonyms": [
+      "Bar TV"
+    ]
+  },
+  {
+    "value": "My TV",
+    "synonyms": [
+      "My TV"
+    ]
+  },
+  {
+    "value": "Bar Speaker",
+    "synonyms": [
+      "Bar Speaker"
+    ]
+  },
+  {
+    "value": "My Speaker",
+    "synonyms": [
+      "My Speaker"
+    ]
+  },
+  {
+    "value": "Firefox",
+    "synonyms": [
+      "Firefox"
+    ]
+  },
+  {
+    "value": "Edge",
+    "synonyms": [
+      "Edge"
+    ]
   }
 ]

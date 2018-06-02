@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "lave om",
+            "kontakt",
+            "Vælg en anden",
+            "brug en anden",
+            "brug en ny",
+            "vælg en ny",
+            "vælg en anden",
+            "Vælg en ny"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "Skift undertekstsprog",
+            "indstil underteksterne til",
+            "undertekster"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "søge",
+            "Hop til",
+            "gå til",
+            "Indstil tiden til"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "tilbage",
+            "Tidligere",
+            "spring tilbage"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "spring fremad"
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "Genoptag",
+            "Blive ved",
+            "Genoptag"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "lydstyrke op",
+            "skru det op",
+            "Jeg kan ikke høre"
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "stum"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "Næste",
+            "spring fremad",
+            "næste kapitel"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "sluk for underteksterne",
+            "deaktiver undertekster"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "hold op"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "pause"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "aktiver undertekster",
+            "Tænd underteksterne"
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "bind"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "Skrue ned",
+            "Det er for højt",
+            "Skru ned"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "scanne",
+            "scan bibliotek",
+            "scan filer",
+            "genskan filer",
+            "genkanal biblioteket",
+            "opdatere bibliotek",
+            "opdatere filer",
+            "opdater biblioteket",
+            "Opdatér mit bibliotek"
+        ]
+    }
+]

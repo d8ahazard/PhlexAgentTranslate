@@ -1,0 +1,131 @@
+[
+    {
+        "value": "device.change",
+        "synonyms": [
+            "verandering",
+            "schakelaar",
+            "kies een ander",
+            "gebruik een ander",
+            "gebruik een nieuw",
+            "selecteer een nieuw",
+            "selecteer een ander",
+            "kies een nieuw"
+        ]
+    },
+    {
+        "value": "subtitles.change",
+        "synonyms": [
+            "verander de ondertiteltaal",
+            "de ondertitels instellen",
+            "ondertitels"
+        ]
+    },
+    {
+        "value": "seek",
+        "synonyms": [
+            "zoeken",
+            "Spring naar",
+            "ga naar",
+            "stel de tijd in"
+        ]
+    },
+    {
+        "value": "back",
+        "synonyms": [
+            "terug",
+            "voorgaand",
+            "sla terug"
+        ]
+    },
+    {
+        "value": "jump ahead",
+        "synonyms": [
+            "vooruit springen"
+        ]
+    },
+    {
+        "value": "resume",
+        "synonyms": [
+            "hervat",
+            "doorgaan met",
+            "hervatten"
+        ]
+    },
+    {
+        "value": "volume.up",
+        "synonyms": [
+            "volume omhoog",
+            "zet het op",
+            "Ik kan het niet horen"
+        ]
+    },
+    {
+        "value": "volume.mute",
+        "synonyms": [
+            "volume.mute",
+            "dempen"
+        ]
+    },
+    {
+        "value": "next",
+        "synonyms": [
+            "volgende",
+            "Spring vooruit",
+            "volgend hoofdstuk"
+        ]
+    },
+    {
+        "value": "subtitles.off",
+        "synonyms": [
+            "zet de ondertitels uit",
+            "ondertitels uitschakelen"
+        ]
+    },
+    {
+        "value": "stop",
+        "synonyms": [
+            "hou op"
+        ]
+    },
+    {
+        "value": "pause",
+        "synonyms": [
+            "pauze"
+        ]
+    },
+    {
+        "value": "subtitles.on",
+        "synonyms": [
+            "ondertitels inschakelen",
+            "zet de ondertitels aan"
+        ]
+    },
+    {
+        "value": "volume",
+        "synonyms": [
+            "volume"
+        ]
+    },
+    {
+        "value": "volume.down",
+        "synonyms": [
+            "volume verminderen",
+            "Het is te hard",
+            "wijs het af"
+        ]
+    },
+    {
+        "value": "rescan",
+        "synonyms": [
+            "rescan",
+            "scan bibliotheek",
+            "scan bestanden",
+            "bestanden opnieuw scannen",
+            "bibliotheek opnieuw scannen",
+            "update bibliotheek",
+            "update bestanden",
+            "werk de bibliotheek bij",
+            "werk mijn bibliotheek bij"
+        ]
+    }
+]

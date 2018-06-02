@@ -1,0 +1,37 @@
+[
+    {
+        "value": "nowPlaying",
+        "synonyms": [
+            "wat speelt er",
+            "wat speelt",
+            "wat er momenteel speelt",
+            "wat ben ik aan het kijken",
+            "waar kijken we naar"
+        ]
+    },
+    {
+        "value": "airings",
+        "synonyms": [
+            "Wat is er op de tv",
+            "Wat is er op TV",
+            "Wat is er op",
+            "wanneer is",
+            "wanneer doet"
+        ]
+    },
+    {
+        "value": "ondeck",
+        "synonyms": [
+            "ondeck",
+            "aan dek"
+        ]
+    },
+    {
+        "value": "recent",
+        "synonyms": [
+            "recent",
+            "nieuwe",
+            "net toegevoegd"
+        ]
+    }
+]

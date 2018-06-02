@@ -1,0 +1,37 @@
+[
+    {
+        "value": "nowPlaying",
+        "synonyms": [
+            "vad spelas",
+            "vad spelar",
+            "vad spelar just nu",
+            "vad tittar jag på",
+            "vad tittar vi på"
+        ]
+    },
+    {
+        "value": "airings",
+        "synonyms": [
+            "Vad är det på tv",
+            "Vad är på tv",
+            "Vad tittar du på",
+            "när är",
+            "när gör"
+        ]
+    },
+    {
+        "value": "ondeck",
+        "synonyms": [
+            "Ondeck",
+            "på däck"
+        ]
+    },
+    {
+        "value": "recent",
+        "synonyms": [
+            "nyligen",
+            "ny",
+            "bara lagt till"
+        ]
+    }
+]

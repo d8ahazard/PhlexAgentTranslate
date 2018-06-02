@@ -1,0 +1,1620 @@
+[
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " em ",
+                "userDefined": false
+            },
+            {
+                "text": "minha TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " em ",
+                "userDefined": false
+            },
+            {
+                "text": "MiBox",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "into the badlands",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " no ",
+                "userDefined": false
+            },
+            {
+                "text": "bar tv",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "fast five",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "humans",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "exposição",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Westworld",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " em ",
+                "userDefined": false
+            },
+            {
+                "text": "quarto TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "buscar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Avengers: Age Of Ultron",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " no meu ",
+                "userDefined": false
+            },
+            {
+                "text": "alto-falante da sala de família",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "baixar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "primeiro",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "segundo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "baixar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "exposição",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Krypton",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Office",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The ABC Murders",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "rastrear",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ant-Man",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " em ",
+                "userDefined": false
+            },
+            {
+                "text": "TV de sala de estar",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Alice",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "o mais novo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Desperate Housewives",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "filme",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "ballerina",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " no ",
+                "userDefined": false
+            },
+            {
+                "text": "sala de TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "law and order",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " uma ",
+                "userDefined": false
+            },
+            {
+                "text": "filme",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "10",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Game of Thrones",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Nightwish",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " no ",
+                "userDefined": false
+            },
+            {
+                "text": "alto-falante de cozinha",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "rastrear",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "três",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " em ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "segundo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Orange Is The New Black",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " no Xbox One",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "eu quero assistir",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "segundo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Scrubs",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "pirata",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "o mais recente",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ligar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ballers",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "5",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "4",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Breaking Bad",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "rastrear",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "três",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " a partir de ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "eu quero assistir",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ghostbusters",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " uma ",
+                "userDefined": false
+            },
+            {
+                "text": "filme",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " no ",
+                "userDefined": false
+            },
+            {
+                "text": "quarto de hóspedes TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "blackbird",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Faça o download do ",
+                "userDefined": false
+            },
+            {
+                "text": "primeiro",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "segundo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "buscar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Blazing Saddles",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "agarrar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Sorcerer's Stone",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "empecilho",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " a ",
+                "userDefined": false
+            },
+            {
+                "text": "segundo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "The Flash",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " em ",
+                "userDefined": false
+            },
+            {
+                "text": "alto-falante da sala de família",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "estação",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " em ",
+                "userDefined": false
+            },
+            {
+                "text": "Xbox One",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Jogar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "o mais recente",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Slim Shady LP",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "rastrear",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "6",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Toque",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Channel Zero",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "jogar um aleatório",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Ligar",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " uma ",
+                "userDefined": false
+            },
+            {
+                "text": "Novo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "filme",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Eu sinto vontade de assistir",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "o novo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episódio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " do ",
+                "userDefined": false
+            },
+            {
+                "text": "The Simpsons",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    }
+]

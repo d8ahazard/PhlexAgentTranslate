@@ -1,0 +1,29 @@
+[
+    {
+        "value": "true",
+        "synonyms": [
+            "vero",
+            "sì",
+            "Scommetti",
+            "sicuro",
+            "per favore fallo",
+            "sì grazie",
+            "per favore",
+            "ok",
+            "fallo",
+            "avete capito bene"
+        ]
+    },
+    {
+        "value": "false",
+        "synonyms": [
+            "falso",
+            "no",
+            "No grazie",
+            "non c&#39;è modo",
+            "vaffanculo",
+            "non importa",
+            "mai"
+        ]
+    }
+]

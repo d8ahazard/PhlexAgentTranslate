@@ -1,0 +1,54 @@
+[
+    {
+        "value": "playMedia.unwatched",
+        "synonyms": [
+            "보지 않은",
+            "지켜본 적이 없다."
+        ]
+    },
+    {
+        "value": "playMedia.music",
+        "synonyms": [
+            "나는 듣고 싶다.",
+            "듣고 싶다.",
+            "나는 듣고 싶다.",
+            "들어라."
+        ]
+    },
+    {
+        "value": "fetchMedia",
+        "synonyms": [
+            "그랩",
+            "술책",
+            "다운로드",
+            "해적",
+            "가지 그루터기"
+        ]
+    },
+    {
+        "value": "playMedia",
+        "synonyms": [
+            "놀이",
+            "스타트",
+            "던지다",
+            "켜다"
+        ]
+    },
+    {
+        "value": "playMedia.video",
+        "synonyms": [
+            "보고 싶어",
+            "나는보고있는 것처럼 느낀다.",
+            "손목 시계"
+        ]
+    },
+    {
+        "value": "playMedia.shuffle",
+        "synonyms": [
+            "혼합",
+            "무작위로 추출하다",
+            "무작위로 연주하다",
+            "무작위의"
+        ]
+    }
+]

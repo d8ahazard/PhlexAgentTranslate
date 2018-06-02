@@ -1,0 +1,2634 @@
+[
+    {
+        "data": [
+            {
+                "text": "Giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " sopra ",
+                "userDefined": false
+            },
+            {
+                "text": "la mia tv",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Cowboy Bebop",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " sopra ",
+                "userDefined": false
+            },
+            {
+                "text": "MiBox",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "into the badlands",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "3",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " sul ",
+                "userDefined": false
+            },
+            {
+                "text": "bar tv",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "fast five",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "humans",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "mostrare",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Westworld",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " sopra ",
+                "userDefined": false
+            },
+            {
+                "text": "camera da letto TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Black Betty",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Montagna",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "andare a prendere",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Avengers: Age Of Ultron",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "primo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "eminem",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " sul mio ",
+                "userDefined": false
+            },
+            {
+                "text": "altoparlante della stanza di famiglia",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "primo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " del ",
+                "userDefined": false
+            },
+            {
+                "text": "secondo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "canzone",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Nothing Compares 2 U",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Chris Cornell",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "mostrare",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Krypton",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "batman",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "inizia",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            },
+            {
+                "text": " nel ",
+                "userDefined": false
+            },
+            {
+                "text": "Sala da cucito",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Office",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " un ",
+                "userDefined": false
+            },
+            {
+                "text": "Conto",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Murray",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The ABC Murders",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "traccia",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ant-Man",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " sopra ",
+                "userDefined": false
+            },
+            {
+                "text": "Soggiorno TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Alice",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "il più recente",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Desperate Housewives",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ghostbusters",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1984",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ride the Lightning",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "metallica",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Voglio guardare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " un ",
+                "userDefined": false
+            },
+            {
+                "text": "Conto",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Murray",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Catharsis",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Machine Head",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "ballerina",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " sul ",
+                "userDefined": false
+            },
+            {
+                "text": "soggiorno TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "law and order",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " un ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Passengers",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2006",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "mostrare",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Doctor Who",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2005",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "10",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Game of Thrones",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Nightwish",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " sul ",
+                "userDefined": false
+            },
+            {
+                "text": "altoparlante da cucina",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "traccia",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "tre",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " sopra ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "secondo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Orange Is The New Black",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " su Xbox One",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Thunder Rolls",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Tutto ciò che rimane",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Voglio guardare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "secondo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Scrubs",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "pirata",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "l&#39;ultimo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "accendere",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Batman Begins",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ballers",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "5",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " di  ",
+                "userDefined": false
+            },
+            {
+                "text": "Lost In Space",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2018",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "4",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Breaking Bad",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "1",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " di  ",
+                "userDefined": false
+            },
+            {
+                "text": "Lost In Space",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2018",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "traccia",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "tre",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " a partire dal ",
+                "userDefined": false
+            },
+            {
+                "text": "The Eminem Show",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Voglio guardare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Ghostbusters",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " un ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " sul ",
+                "userDefined": false
+            },
+            {
+                "text": "camera per gli ospiti TV",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "blackbird",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "scarica il ",
+                "userDefined": false
+            },
+            {
+                "text": "primo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " del ",
+                "userDefined": false
+            },
+            {
+                "text": "secondo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "andare a prendere",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Blazing Saddles",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "afferrare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Sorcerer's Stone",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "intoppo",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "secondo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "The Flash",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "primo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Lost In Space",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2018",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Cabin In The Woods",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " a partire dal ",
+                "userDefined": false
+            },
+            {
+                "text": "1 ora 1 minuto e 22 secondi",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Cabin In The Woods",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " a partire dal ",
+                "userDefined": false
+            },
+            {
+                "text": "1 minuto e 22 secondi",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "DJ Khaled",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " sopra ",
+                "userDefined": false
+            },
+            {
+                "text": "altoparlante della stanza di famiglia",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "nuovo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Legion",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " a partire dal ",
+                "userDefined": false
+            },
+            {
+                "text": "1 ora e 22 minuti",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Law & Order Special Victims Unit",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "8",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "22",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " sopra ",
+                "userDefined": false
+            },
+            {
+                "text": "Xbox One",
+                "alias": "Devices",
+                "meta": "@Devices",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Voglio ascoltare il ",
+                "userDefined": false
+            },
+            {
+                "text": "primo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Eminem",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Buttarsi addosso",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "l&#39;ultimo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "This Is Us",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "The Slim Shady LP",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "traccia",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "6",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "il nuovo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Machine Head",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Channel Zero",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "gioca a caso",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Family Guy",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Happy!",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " a partire dal ",
+                "userDefined": false
+            },
+            {
+                "text": "45 minuti",
+                "alias": "duration",
+                "meta": "@sys.duration",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "accendere",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " un ",
+                "userDefined": false
+            },
+            {
+                "text": "nuovo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "giocare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Killing Me Softly",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": true
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "I Fugees",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " il ",
+                "userDefined": false
+            },
+            {
+                "text": "primo",
+                "alias": "number",
+                "meta": "@sys.number",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "stagione",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "Lost In Space",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "2018",
+                "alias": "year",
+                "meta": "@sys.age",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "orologio",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " un ",
+                "userDefined": false
+            },
+            {
+                "text": "Jonny",
+                "alias": "given-name",
+                "meta": "@sys.given-name",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Depp",
+                "alias": "last-name",
+                "meta": "@sys.last-name",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "film",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "rimescolare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "metallica",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Scaricare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "il nuovo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": false
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "Eminem",
+                "alias": "music-artist",
+                "meta": "@sys.music-artist",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "album",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            }
+        ]
+    },
+    {
+        "data": [
+            {
+                "text": "Mi sento di guardare",
+                "alias": "control",
+                "meta": "@playControls",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "il nuovo",
+                "alias": "mod",
+                "meta": "@timeModifier",
+                "userDefined": true
+            },
+            {
+                "text": " ",
+                "userDefined": false
+            },
+            {
+                "text": "episodio",
+                "alias": "type",
+                "meta": "@mediaTypes",
+                "userDefined": false
+            },
+            {
+                "text": " di ",
+                "userDefined": false
+            },
+            {
+                "text": "The Simpsons",
+                "alias": "request",
+                "meta": "@sys.any",
+                "userDefined": false
+            }
+        ]
+    }
+]
