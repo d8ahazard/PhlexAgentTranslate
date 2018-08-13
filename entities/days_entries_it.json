@@ -6,14 +6,13 @@
       "oggi",
       "stasera",
       "questa sera",
-      "dopo",
       "questo pomeriggio"
     ]
   },
   {
     "value": "tomorrow",
     "synonyms": [
-      "Domani",
+      "domani",
       "domani notte",
       "il giorno dopo oggi"
     ]
@@ -28,7 +27,7 @@
   {
     "value": "Monday",
     "synonyms": [
-      "Lunedi"
+      "lunedì"
     ]
   },
   {
@@ -52,19 +51,19 @@
   {
     "value": "Friday",
     "synonyms": [
-      "Venerdì"
+      "venerdì"
     ]
   },
   {
     "value": "Saturday",
     "synonyms": [
-      "Sabato"
+      "sabato"
     ]
   },
   {
     "value": "Sunday",
     "synonyms": [
-      "Domenica"
+      "domenica"
     ]
   }
 ]
