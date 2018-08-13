@@ -2,33 +2,29 @@
   {
     "value": "Resume",
     "synonyms": [
-      "Curriculum vitae",
-      "Inizio",
-      "Continua",
-      "Riprendi la riproduzione",
-      "Riattiva"
+      "riprendi",
+      "continua",
+      "riprendi la riproduzione",
+      "riattiva"
     ]
   },
   {
     "value": "Pause",
     "synonyms": [
-      "Pausa"
+      "pausa",
+      "ferma"
     ]
   },
   {
     "value": "Stop",
     "synonyms": [
-      "Stop Riproduzione",
+      "stop Riproduzione",
       "arresto",
-      "Riproduzione finale",
-      "Cessare",
-      "Desistere",
+      "ferma",
       "fermare la riproduzione",
-      "solo",
-      "Stop",
+      "stop",
       "fine della riproduzione",
       "cessare",
-      "desistere",
       "disattivarlo",
       "spegni il"
     ]
@@ -36,56 +32,53 @@
   {
     "value": "Skip Forward",
     "synonyms": [
-      "Salta avanti",
-      "Salta avanti",
-      "Vai avanti",
-      "Prossimo capitolo",
-      "Prossimo episodio",
-      "Prossima canzone",
-      "Prossima traccia"
+      "salta avanti",
+      "vai avanti",
+      "prossimo capitolo",
+      "prossimo episodio",
+      "prossima canzone",
+      "prossima traccia"
     ]
   },
   {
     "value": "Skip Backward",
     "synonyms": [
-      "Salta indietro",
-      "Salta indietro",
-      "Vai indietro",
-      "Capitolo precedente",
-      "Episodio precedente",
-      "Canzone precedente",
-      "Precedente",
-      "Ultima canzone",
-      "Ultima traccia"
+      "salta indietro",
+      "vai indietro",
+      "capitolo precedente",
+      "episodio precedente",
+      "canzone precedente",
+      "precedente",
+      "ultima canzone",
+      "ultima traccia"
     ]
   },
   {
     "value": "Seek Forward",
     "synonyms": [
-      "Cerca avanti",
-      "Avanti veloce",
-      "Passo in avanti",
-      "Cerca avanti"
+      "cerca avanti",
+      "avanti veloce",
+      "passo in avanti"
     ]
   },
   {
     "value": "Seek Backward",
     "synonyms": [
-      "Cerca indietro",
+      "cerca indietro",
       "riavvolgere",
-      "Passo indietro",
-      "Fai un passo indietro"
+      "passo indietro",
+      "fai un passo indietro"
     ]
   },
   {
     "value": "Jump To",
     "synonyms": [
-      "Salta a",
-      "Cercare di",
-      "Saltare a",
-      "Avanti veloce a",
-      "Riavviare",
-      "Ritornare a"
+      "salta a",
+      "cercare di",
+      "saltare a",
+      "avanti veloce a",
+      "riavviare",
+      "ritornare a"
     ]
   },
   {

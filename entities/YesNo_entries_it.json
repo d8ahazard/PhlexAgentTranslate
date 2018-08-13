@@ -2,14 +2,10 @@
   {
     "value": "yes",
     "synonyms": [
-      "sì",
-      "Sì",
+      "si",
       "sicuro",
       "per favore fallo",
-      "sì grazie",
-      "sì",
-      "hai scommesso",
-      "Scommetti"
+      "si grazie"
     ]
   },
   {
@@ -17,10 +13,7 @@
     "synonyms": [
       "no",
       "no grazie",
-      "non proprio",
-      "non c\u0026#39;è modo",
-      "No.",
-      "no",
+      "non è necessario",
       "mai"
     ]
   }

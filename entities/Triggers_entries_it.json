@@ -2,26 +2,22 @@
   {
     "value": "play",
     "synonyms": [
-      "giocare",
-      "Voglio guardare",
-      "Mi sento come guardare",
-      "ho",
+      "riprodurre",
+      "voglio guardare",
       "puoi sparare",
-      "Puoi giocare",
+      "puoi riprodurre",
       "inizio",
       "accendere",
-      "indossare",
-      "buttarsi addosso",
       "trova",
-      "Puoi trovare",
+      "puoi trovare",
       "puoi gettare",
       "si può iniziare",
       "inizia a suonare",
-      "orologio",
       "lanciare",
       "si accende",
       "guardiamo alcuni",
-      "mi gioca la"
+      "guarda",
+      "guardare"
     ]
   },
   {
@@ -29,7 +25,7 @@
     "synonyms": [
       "controllo",
       "dire a plex",
-      "dirmi la mia tv",
+      "dire alla mia tv",
       "inviare un comando a",
       "inviare un segnale",
       "dire a Flex TV"
@@ -39,30 +35,30 @@
     "value": "fetch",
     "synonyms": [
       "andare a prendere",
-      "Voglio scaricare",
+      "voglio scaricare",
       "puoi scaricare",
-      "Scaricare",
+      "scaricare",
       "afferrare",
       "strappare",
       "pirata",
-      "Inserisci",
+      "inserisci",
       "intoppo"
     ]
   },
   {
     "value": "player",
     "synonyms": [
-      "giocatore",
-      "cambia giocatore",
-      "scegli il giocatore",
-      "cambio giocatore",
-      "selezionare il giocatore",
-      "scegliere giocatore",
+      "player",
+      "cambia player",
+      "scegli il player",
+      "cambio player",
+      "selezionare il player",
+      "scegliere player",
       "swap player",
       "cambiare dispositivo",
-      "passare i giocatori",
-      "cambiare i giocatori",
-      "scambiano giocatori",
+      "passare i player",
+      "cambiare i player",
+      "scambiano player",
       "cambiare il client"
     ]
   },
@@ -83,19 +79,18 @@
     "value": "status",
     "synonyms": [
       "stato",
-      "Che cosa si sta suonando?",
-      "Cosa c\u0026#39;è?",
-      "Che cosa sta suonando?",
-      "Cosa succede?",
-      "Che cosa sto guardando?",
-      "Quale film è in corso?",
-      "Che spettacolo è in corso?",
-      "Sto guardando qualcosa?",
-      "Puoi dirmi cosa si chiama questo film?",
-      "Puoi dirmi cosa si chiama questo spettacolo?",
-      "Come si chiama?",
+      "che cosa sta riproducendo?",
+      "cosa c\u0026#39;è?",
+      "cosa succede?",
+      "che cosa sto guardando?",
+      "quale film è in corso?",
+      "che spettacolo è in corso?",
+      "sto guardando qualcosa?",
+      "puoi dirmi cosa si chiama questo film?",
+      "puoi dirmi cosa si chiama questo spettacolo?",
+      "come si chiama?",
       "qual è il nome di questo",
-      "Cosa sta giocando?",
+      "cosa sta giocando?",
       "che cosa si sta suonando",
       "cosa sta giocando"
     ]
@@ -103,9 +98,8 @@
   {
     "value": "recent",
     "synonyms": [
-      "Novità",
+      "novità",
       "avere qualcosa di nuovo",
-      "Cosa c\u0026#39;è di nuovo?",
       "cosa c\u0026#39;è di nuovo",
       "recente",
       "aggiunto recentemente",
@@ -116,10 +110,9 @@
   {
     "value": "ondeck",
     "synonyms": [
-      "OnDeck",
-      "Cosa c\u0026#39;è sul ponte",
-      "Che cosa è sul ponte",
-      "avanti il ​​prossimo"
+      "libreria",
+      "cosa c\u0026#39;è nella mia libreria",
+      "che cosa è nel mio catagolo"
     ]
   },
   {
@@ -128,7 +121,8 @@
       "disco",
       "dvr",
       "nastro",
-      "programma"
+      "programma",
+      "registra"
     ]
   },
   {
@@ -138,7 +132,6 @@
       "in programma",
       "cosa c\u0026#39;è in TV",
       "cosa è DVRed",
-      "quello che sta trasmettendo",
       "quello che sta trasmettendo",
       "quello che è in TV",
       "quali sono gli spettacoli",
@@ -155,12 +148,12 @@
   {
     "value": "help",
     "synonyms": [
-      "Aiuto",
-      "Cosa posso dire",
+      "aiuto",
+      "cosa posso dire",
       "cosa sai fare",
       "quali sono i tuoi comandi",
-      "Io non so cosa fare",
-      "Dimmelo tu",
+      "io non so cosa fare",
+      "dimmelo tu",
       "come lavori",
       "cosa dovrei dire",
       "lezione"
@@ -169,7 +162,8 @@
   {
     "value": "shuffle",
     "synonyms": [
-      "rimescolare"
+      "rimescolare",
+      "mescola"
     ]
   }
 ]
