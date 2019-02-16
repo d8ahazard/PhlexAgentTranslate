@@ -2,61 +2,51 @@
   {
     "value": "Resume",
     "synonyms": [
-      "Currículum",
-      "comienzo",
       "Continuar",
       "Reanudar la reproducción",
-      "Desintegrar"
+      "Reanudar"
     ]
   },
   {
     "value": "Pause",
     "synonyms": [
-      "Pausa"
+      "Pausa",
+      "Pausar"
     ]
   },
   {
     "value": "Stop",
     "synonyms": [
       "Detener la reproducción",
-      "alto",
-      "Final de reproducción",
-      "Cesar",
-      "Desistir",
-      "detener la reproducción",
-      "justo",
-      "detener",
-      "final de reproducción",
-      "cesar",
-      "desistir",
-      "apagar esto",
-      "apaga el"
+      "Alto",
+      "Detener la reproducción",
+      "Detener",
+      "Stop",
     ]
   },
   {
     "value": "Skip Forward",
     "synonyms": [
       "Saltar hacia adelante",
-      "Vaya directamente",
-      "Ir por delante",
+      "Siguiente",
       "Siguiente capítulo",
       "Siguiente episodio",
       "Siguiente cancion",
-      "Siguiente pista"
+      "Siguiente pista",
+      "Adelante"
     ]
   },
   {
     "value": "Skip Backward",
     "synonyms": [
       "Saltar hacia atrás",
-      "Skip Back",
+      "Anterior",
       "Saltar atrás",
       "Capítulo anterior",
       "Episodio anterior",
       "Canción anterior",
       "Pista anterior",
-      "Última canción",
-      "Última pista"
+      "Atras"
     ]
   },
   {
@@ -64,8 +54,7 @@
     "synonyms": [
       "Buscar hacia adelante",
       "Avance rápido",
-      "Un paso adelante",
-      "Busca adelante"
+      "Avanzar"
     ]
   },
   {
@@ -73,16 +62,14 @@
     "synonyms": [
       "Busca hacia atrás",
       "Rebobinar",
-      "Paso atrás",
-      "Paso atrás"
+      "Retroceder"
     ]
   },
   {
     "value": "Jump To",
     "synonyms": [
       "Salta a",
-      "Tratar de",
-      "Pasemos a",
+      "Saltar a",
       "Avance rápido a",
       "Rebobinar a",
       "Volver a"
@@ -93,21 +80,16 @@
     "synonyms": [
       "configurar el volumen",
       "ajusta el volumen",
-      "baja el volumen",
-      "sube el volumen",
-      "subirlo",
-      "rechazarlo",
-      "sube el volumen",
-      "baja el volumen"
+      "pon el volumen"
     ]
   },
   {
     "value": "subtitles on",
     "synonyms": [
-      "subtítulos en",
+      "enceder subtítulos",
       "habilitar subtítulos",
       "activar subtítulos",
-      "desactivar los subtítulos"
+      "poner subtítulos"
     ]
   },
   {
@@ -116,7 +98,8 @@
       "subtítulos desactivados",
       "deshabilitar subtítulos",
       "desactivar subtítulos",
-      "desactivar los subtítulos"
+      "desactivar los subtítulos",
+      "quitar subtítulos"
     ]
   }
 ]
